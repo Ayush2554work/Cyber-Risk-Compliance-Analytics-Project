@@ -1,0 +1,1501 @@
+action_id,vuln_id,action_type,assigned_to,priority,start_date,due_date,closed_date,action_status
+ACT-00001,VULN-00252,Patching,Renee Browning,Medium,2025-11-23,2025-12-23,2025-12-05,Completed
+ACT-00002,VULN-00890,Software Update,Brent Hernandez,Low,2025-05-10,2025-06-09,2025-05-14,Completed
+ACT-00003,VULN-02092,Patching,Joseph Ochoa,Medium,2025-09-01,2025-10-01,\N,Completed
+ACT-00004,VULN-02810,Software Update,James Watson,Immediate,2025-12-21,2026-01-20,2026-01-10,Completed
+ACT-00005,VULN-00575,Config Change,Karl Branch,Medium,2025-11-18,2025-12-18,2025-11-28,Completed
+ACT-00006,VULN-02642,Software Update,Michael Abbott,High,2025-10-14,2025-11-13,2025-10-16,In Progress
+ACT-00007,VULN-01260,Config Change,Shannon Malone,Medium,2025-07-12,2025-08-11,2025-07-13,Completed
+ACT-00008,VULN-02926,Software Update,James Tran,High,2025-11-25,2025-12-25,\N,Completed
+ACT-00009,VULN-02476,Network Segregation,Adam Jackson,Low,2026-02-17,2026-03-19,2026-03-05,Completed
+ACT-00010,VULN-01798,Config Change,Mr. Richard Knight PhD,High,2025-07-30,2025-08-29,2025-08-19,Completed
+ACT-00011,VULN-00038,Patching,Joseph Williams,Medium,2026-03-23,2026-04-22,\N,In Progress
+ACT-00012,VULN-02468,Software Update,Sean Clay,Immediate,2025-10-25,2025-11-24,2025-11-01,Completed
+ACT-00013,VULN-01493,User Training,Anthony Jones,High,2026-02-01,2026-03-03,2026-02-06,Completed
+ACT-00014,VULN-00631,Config Change,Stephanie Elliott,Medium,2025-05-28,2025-06-27,2025-06-14,Completed
+ACT-00015,VULN-01279,Software Update,Timothy Edwards,High,2025-07-07,2025-08-06,2025-07-24,Completed
+ACT-00016,VULN-00086,Patching,Laurie Goodwin,Low,2025-05-19,2025-06-18,2025-05-31,Completed
+ACT-00017,VULN-00171,Network Segregation,Jennifer Jones,Medium,2026-02-03,2026-03-05,2026-02-20,In Progress
+ACT-00018,VULN-01333,Config Change,David Davenport,Low,2025-08-14,2025-09-13,2025-09-01,Completed
+ACT-00019,VULN-02462,User Training,Steven Rivera,Immediate,2025-09-07,2025-10-07,2025-09-18,Completed
+ACT-00020,VULN-01062,User Training,Brenda Hinton,High,2025-10-29,2025-11-28,2025-11-17,Completed
+ACT-00021,VULN-00928,User Training,Kathryn Mccann,Medium,2026-04-03,2026-05-03,2026-04-23,Completed
+ACT-00022,VULN-02864,Software Update,Jeffrey Roberson,Low,2025-11-03,2025-12-03,2025-11-11,Completed
+ACT-00023,VULN-01334,User Training,Randy Friedman,High,2025-12-06,2026-01-05,2025-12-16,In Progress
+ACT-00024,VULN-02047,User Training,Raymond Johnson,Immediate,2025-05-15,2025-06-14,2025-05-28,In Progress
+ACT-00025,VULN-02765,Config Change,Willie Henry,Immediate,2025-08-29,2025-09-28,\N,Completed
+ACT-00026,VULN-01860,User Training,Todd Reynolds,High,2025-09-28,2025-10-28,2025-10-09,Completed
+ACT-00027,VULN-00247,User Training,Mary Miller,Low,2025-08-14,2025-09-13,2025-08-23,Completed
+ACT-00028,VULN-02898,Network Segregation,Rebecca Marquez,Medium,2025-05-14,2025-06-13,2025-05-28,Completed
+ACT-00029,VULN-00065,Patching,Christian Dawson,Low,2025-06-03,2025-07-03,2025-06-18,In Progress
+ACT-00030,VULN-02637,Network Segregation,Nancy Stewart,Immediate,2025-07-19,2025-08-18,\N,Completed
+ACT-00031,VULN-02646,User Training,Aaron Parker,Low,2026-04-03,2026-05-03,\N,Completed
+ACT-00032,VULN-01131,Network Segregation,Derrick Anderson,Medium,2025-11-19,2025-12-19,\N,Completed
+ACT-00033,VULN-02209,Network Segregation,Jerry Peters,Immediate,2026-02-04,2026-03-06,2026-02-21,Completed
+ACT-00034,VULN-00179,Software Update,Alexander Gomez,High,2026-01-07,2026-02-06,2026-01-16,Completed
+ACT-00035,VULN-01243,Network Segregation,Kyle Nguyen,Medium,2026-01-09,2026-02-08,\N,Completed
+ACT-00036,VULN-01314,Patching,Edgar Hughes,Medium,2025-12-03,2026-01-02,2025-12-14,Completed
+ACT-00037,VULN-02991,Network Segregation,Steven Stein,Medium,2025-07-05,2025-08-04,2025-07-13,In Progress
+ACT-00038,VULN-02667,Software Update,Laura Jackson,Low,2026-01-02,2026-02-01,\N,Completed
+ACT-00039,VULN-01098,Config Change,Charles Turner,Medium,2026-03-16,2026-04-15,2026-04-04,In Progress
+ACT-00040,VULN-01928,User Training,Arthur Hamilton MD,Immediate,2025-06-05,2025-07-05,2025-06-10,Completed
+ACT-00041,VULN-00781,User Training,Mr. David Wright,Low,2025-08-15,2025-09-14,2025-09-02,In Progress
+ACT-00042,VULN-01994,Software Update,Linda Gonzalez,Immediate,2025-06-15,2025-07-15,2025-06-25,Completed
+ACT-00043,VULN-02107,User Training,Eric Rush,High,2025-12-14,2026-01-13,2025-12-31,Completed
+ACT-00044,VULN-01133,Network Segregation,Manuel Brock,High,2025-11-06,2025-12-06,2025-11-08,Completed
+ACT-00045,VULN-00992,Patching,George Ochoa,Immediate,2025-12-25,2026-01-24,2025-12-28,In Progress
+ACT-00046,VULN-01787,Network Segregation,Valerie Taylor,Medium,2026-01-26,2026-02-25,\N,Completed
+ACT-00047,VULN-00069,User Training,Travis Harris,Medium,2025-11-17,2025-12-17,\N,Completed
+ACT-00048,VULN-00910,User Training,Vincent Novak,Low,2025-11-28,2025-12-28,2025-12-13,In Progress
+ACT-00049,VULN-02035,User Training,Michael Henry,Low,2026-01-25,2026-02-24,\N,Completed
+ACT-00050,VULN-00160,User Training,Dana Bennett,Medium,2025-12-02,2026-01-01,2025-12-09,Completed
+ACT-00051,VULN-01095,Network Segregation,Jenna Wilson,Low,2025-12-06,2026-01-05,2025-12-15,Completed
+ACT-00052,VULN-01391,Software Update,Leslie Gardner,Immediate,2025-05-22,2025-06-21,2025-05-26,In Progress
+ACT-00053,VULN-00449,Network Segregation,Krista Benton,Low,2025-11-27,2025-12-27,\N,Completed
+ACT-00054,VULN-01080,Config Change,Michael Gonzales,Immediate,2025-06-23,2025-07-23,2025-07-08,Completed
+ACT-00055,VULN-00436,Network Segregation,Michael Fuentes,Low,2025-06-29,2025-07-29,\N,Completed
+ACT-00056,VULN-00573,Config Change,Jennifer Porter,Low,2025-09-07,2025-10-07,2025-09-20,Completed
+ACT-00057,VULN-02169,Software Update,Dana Hopkins,Low,2025-12-29,2026-01-28,2026-01-15,Completed
+ACT-00058,VULN-02731,Software Update,Rachel Jones,Medium,2026-03-29,2026-04-28,2026-04-10,Completed
+ACT-00059,VULN-00756,User Training,Karen Morales DDS,High,2025-10-15,2025-11-14,2025-11-01,Completed
+ACT-00060,VULN-00002,User Training,Melissa Stephens,Immediate,2025-06-01,2025-07-01,2025-06-16,Completed
+ACT-00061,VULN-01894,Network Segregation,Heather Woodard,Low,2026-01-01,2026-01-31,2026-01-14,Completed
+ACT-00062,VULN-00888,Patching,Margaret Miller,Low,2026-01-17,2026-02-16,2026-01-22,Completed
+ACT-00063,VULN-01748,Network Segregation,Mary Kelly,Medium,2026-01-27,2026-02-26,\N,In Progress
+ACT-00064,VULN-01342,Config Change,Amanda Terrell,High,2025-10-17,2025-11-16,\N,Completed
+ACT-00065,VULN-02675,Software Update,Jennifer Goodwin,Medium,2026-02-15,2026-03-17,2026-02-17,Completed
+ACT-00066,VULN-00625,User Training,Jessica Smith,High,2026-02-26,2026-03-28,2026-03-11,Completed
+ACT-00067,VULN-02222,Config Change,Jorge Stone,Medium,2025-09-02,2025-10-02,2025-09-13,Completed
+ACT-00068,VULN-01893,Config Change,Laura Griffin,High,2025-05-22,2025-06-21,2025-06-02,In Progress
+ACT-00069,VULN-02512,Patching,Raymond Chapman,Immediate,2025-10-08,2025-11-07,2025-10-22,In Progress
+ACT-00070,VULN-00271,Software Update,Haley Johnson,Immediate,2025-12-10,2026-01-09,\N,Completed
+ACT-00071,VULN-01137,User Training,Jason Nixon,Low,2026-01-22,2026-02-21,\N,Completed
+ACT-00072,VULN-00985,Software Update,Todd Thomas,Low,2025-11-15,2025-12-15,2025-12-02,Completed
+ACT-00073,VULN-02455,Patching,Jesse Clark,Medium,2025-05-22,2025-06-21,2025-06-09,Completed
+ACT-00074,VULN-02418,Network Segregation,Mr. Jeffrey Horton,Low,2025-12-29,2026-01-28,\N,Completed
+ACT-00075,VULN-00088,Network Segregation,Eric Patrick,Immediate,2025-07-18,2025-08-17,2025-08-02,Completed
+ACT-00076,VULN-00656,Network Segregation,Samuel Wong,Immediate,2025-05-15,2025-06-14,2025-06-01,Completed
+ACT-00077,VULN-01864,Network Segregation,Carly Riggs,Low,2025-10-27,2025-11-26,2025-11-10,In Progress
+ACT-00078,VULN-01387,User Training,Christopher Moore,High,2025-10-06,2025-11-05,2025-10-07,Completed
+ACT-00079,VULN-01201,User Training,Tina Hall,Immediate,2025-07-17,2025-08-16,2025-08-05,Completed
+ACT-00080,VULN-02508,Config Change,Cody Davidson,High,2025-09-06,2025-10-06,\N,In Progress
+ACT-00081,VULN-02542,Network Segregation,Allen Mendez,Medium,2026-02-28,2026-03-30,2026-03-16,Completed
+ACT-00082,VULN-01159,Software Update,Kevin Price,Low,2025-11-30,2025-12-30,\N,In Progress
+ACT-00083,VULN-01877,User Training,Christine Goodwin,Immediate,2025-09-05,2025-10-05,2025-09-07,In Progress
+ACT-00084,VULN-01920,Patching,Amy Garcia,Medium,2025-06-15,2025-07-15,2025-06-28,Completed
+ACT-00085,VULN-00853,Software Update,Chelsea Nguyen,Immediate,2025-06-17,2025-07-17,2025-06-24,Completed
+ACT-00086,VULN-01635,Config Change,Dennis Huffman,Medium,2025-06-15,2025-07-15,2025-06-26,Completed
+ACT-00087,VULN-01709,Config Change,Margaret Harper,Medium,2026-04-05,2026-05-05,2026-04-06,Completed
+ACT-00088,VULN-00299,Config Change,Laurie Bailey,Low,2025-11-30,2025-12-30,2025-12-06,Completed
+ACT-00089,VULN-02005,Network Segregation,Lisa Cervantes,Low,2025-12-04,2026-01-03,2025-12-22,Completed
+ACT-00090,VULN-02124,User Training,Elizabeth Mendez,Immediate,2025-08-16,2025-09-15,2025-09-01,Completed
+ACT-00091,VULN-00256,Software Update,Cesar Wilson,High,2025-10-23,2025-11-22,\N,Completed
+ACT-00092,VULN-02083,User Training,Clayton Steele,Low,2025-11-28,2025-12-28,2025-12-05,Completed
+ACT-00093,VULN-01736,Config Change,Jennifer Taylor,Medium,2025-12-15,2026-01-14,2025-12-27,Completed
+ACT-00094,VULN-01653,Software Update,Cody Reid,Medium,2026-04-08,2026-05-08,2026-04-26,Completed
+ACT-00095,VULN-01527,Software Update,Maria Cooke,Medium,2025-11-17,2025-12-17,2025-11-19,Completed
+ACT-00096,VULN-01885,Software Update,Katherine Taylor,Low,2025-05-09,2025-06-08,2025-05-15,Completed
+ACT-00097,VULN-00798,Network Segregation,Jerry Brown,Medium,2025-11-25,2025-12-25,2025-12-08,In Progress
+ACT-00098,VULN-02390,Patching,Adam Taylor,High,2025-11-09,2025-12-09,2025-11-16,Completed
+ACT-00099,VULN-01876,Software Update,Tracey Wagner,Immediate,2026-03-18,2026-04-17,2026-03-21,Completed
+ACT-00100,VULN-01710,User Training,Michael Perry PhD,Low,2025-12-11,2026-01-10,\N,In Progress
+ACT-00101,VULN-00168,User Training,Bradley Johnson DDS,High,2025-11-03,2025-12-03,\N,Completed
+ACT-00102,VULN-02576,Network Segregation,Donald Medina,High,2026-03-01,2026-03-31,2026-03-20,Completed
+ACT-00103,VULN-00124,Config Change,Jim Newton,Immediate,2025-08-23,2025-09-22,2025-08-27,In Progress
+ACT-00104,VULN-00877,Patching,Krista Wilson,Immediate,2025-08-25,2025-09-24,2025-09-04,Completed
+ACT-00105,VULN-01763,Patching,Reginald Morrow,Medium,2025-11-09,2025-12-09,2025-11-17,Completed
+ACT-00106,VULN-02588,Patching,Rodney Williams,Medium,2025-09-13,2025-10-13,2025-09-15,In Progress
+ACT-00107,VULN-00550,Patching,Kimberly Fritz,Low,2025-04-19,2025-05-19,2025-04-29,In Progress
+ACT-00108,VULN-00796,Software Update,Ronald Potter,Low,2026-03-26,2026-04-25,2026-03-28,Completed
+ACT-00109,VULN-02190,Network Segregation,Zachary Cole,Low,2025-08-15,2025-09-14,2025-08-26,Completed
+ACT-00110,VULN-01125,User Training,Robert Gonzales,Medium,2025-08-03,2025-09-02,\N,Completed
+ACT-00111,VULN-01946,Software Update,Patricia Young PhD,Immediate,2025-06-23,2025-07-23,\N,Completed
+ACT-00112,VULN-00115,User Training,Heather Page,High,2025-10-16,2025-11-15,\N,Completed
+ACT-00113,VULN-01043,Patching,Carol Taylor,Immediate,2025-05-25,2025-06-24,2025-06-14,In Progress
+ACT-00114,VULN-00108,Software Update,Daniel Brown,Immediate,2025-12-11,2026-01-10,\N,Completed
+ACT-00115,VULN-00305,Config Change,Douglas Ryan,Medium,2025-05-12,2025-06-11,\N,Completed
+ACT-00116,VULN-00764,Config Change,Michael Roberts,Low,2026-04-03,2026-05-03,2026-04-21,Completed
+ACT-00117,VULN-01214,Network Segregation,Scott Duke,Medium,2026-01-12,2026-02-11,2026-01-15,Completed
+ACT-00118,VULN-02464,Software Update,Anna Estes,Low,2025-06-28,2025-07-28,2025-07-18,In Progress
+ACT-00119,VULN-02470,Network Segregation,Tamara Riddle,Immediate,2025-07-13,2025-08-12,2025-07-22,In Progress
+ACT-00120,VULN-00018,Config Change,Beth Cline,Medium,2025-05-02,2025-06-01,2025-05-10,Completed
+ACT-00121,VULN-00579,Patching,Michael Poole,High,2025-05-06,2025-06-05,\N,In Progress
+ACT-00122,VULN-00929,Software Update,Megan Burns,Medium,2025-07-13,2025-08-12,2025-07-22,Completed
+ACT-00123,VULN-02749,Software Update,Debra Perry,Low,2026-02-15,2026-03-17,2026-02-22,In Progress
+ACT-00124,VULN-01316,User Training,Mark Beard,Medium,2026-02-24,2026-03-26,\N,Completed
+ACT-00125,VULN-01675,Software Update,Jose Ramirez,Immediate,2025-11-30,2025-12-30,2025-12-11,In Progress
+ACT-00126,VULN-01601,Patching,Jackie Clements,Low,2026-03-24,2026-04-23,\N,Completed
+ACT-00127,VULN-00827,User Training,Aaron Schroeder,Immediate,2026-04-08,2026-05-08,2026-04-14,Completed
+ACT-00128,VULN-01057,User Training,Monica Ellis,Low,2025-11-10,2025-12-10,2025-11-26,Completed
+ACT-00129,VULN-02695,Patching,Heather Brown,Immediate,2025-12-31,2026-01-30,2026-01-11,In Progress
+ACT-00130,VULN-01401,Software Update,Claudia Jordan,Medium,2025-08-26,2025-09-25,2025-09-14,Completed
+ACT-00131,VULN-00396,Patching,Derrick Clayton,Immediate,2025-04-18,2025-05-18,2025-04-25,Completed
+ACT-00132,VULN-01395,Config Change,Kenneth Knight,High,2025-08-25,2025-09-24,2025-09-08,Completed
+ACT-00133,VULN-00497,Network Segregation,Mr. Michael Williams,Low,2025-08-08,2025-09-07,2025-08-25,Completed
+ACT-00134,VULN-02093,Config Change,Richard Stevens,Immediate,2026-03-14,2026-04-13,2026-04-03,Completed
+ACT-00135,VULN-02372,Config Change,Scott Alexander,High,2025-05-10,2025-06-09,2025-05-24,In Progress
+ACT-00136,VULN-00188,Config Change,Tyler Harris,Low,2025-07-22,2025-08-21,\N,Completed
+ACT-00137,VULN-00939,Network Segregation,Bonnie Santos,Immediate,2026-01-08,2026-02-07,2026-01-17,Completed
+ACT-00138,VULN-02069,Patching,Timothy Hill,High,2026-03-22,2026-04-21,2026-04-08,Completed
+ACT-00139,VULN-00938,Software Update,Danielle Watson,Medium,2026-01-02,2026-02-01,2026-01-19,Completed
+ACT-00140,VULN-02838,User Training,Carol Sanders,Immediate,2025-09-15,2025-10-15,2025-09-25,Completed
+ACT-00141,VULN-01166,Software Update,Michael Young,Immediate,2026-02-01,2026-03-03,2026-02-16,Completed
+ACT-00142,VULN-01415,Software Update,Michele Smith,High,2025-07-26,2025-08-25,2025-07-31,Completed
+ACT-00143,VULN-02785,Config Change,Casey Perez,Immediate,2025-08-11,2025-09-10,2025-08-27,Completed
+ACT-00144,VULN-02940,Network Segregation,Alexandra Dominguez,Low,2025-10-19,2025-11-18,\N,Completed
+ACT-00145,VULN-01667,Network Segregation,Virginia Henderson,Low,2026-04-04,2026-05-04,2026-04-21,Completed
+ACT-00146,VULN-00641,Config Change,Benjamin Reyes,Medium,2025-10-12,2025-11-11,2025-10-31,Completed
+ACT-00147,VULN-02115,Config Change,Ashley Edwards,High,2025-12-31,2026-01-30,2026-01-06,Completed
+ACT-00148,VULN-02019,Config Change,Breanna Ayala,High,2026-03-22,2026-04-21,2026-04-08,Completed
+ACT-00149,VULN-00105,Software Update,Brandi Haney,Medium,2026-01-09,2026-02-08,2026-01-26,Completed
+ACT-00150,VULN-01375,Network Segregation,Joseph Smith,Low,2025-05-04,2025-06-03,2025-05-20,Completed
+ACT-00151,VULN-00822,User Training,Jessica Bowen,High,2025-11-06,2025-12-06,2025-11-15,Completed
+ACT-00152,VULN-02800,User Training,Brittany Jenkins,Low,2025-09-01,2025-10-01,2025-09-20,In Progress
+ACT-00153,VULN-02488,Patching,Shannon Miller,Low,2026-03-24,2026-04-23,2026-03-31,Completed
+ACT-00154,VULN-00634,Config Change,Paul Lawrence,Low,2025-05-03,2025-06-02,2025-05-23,Completed
+ACT-00155,VULN-02084,Patching,Victor Edwards,Medium,2025-11-01,2025-12-01,2025-11-04,Completed
+ACT-00156,VULN-00993,Network Segregation,Donald Miller,Medium,2025-05-02,2025-06-01,2025-05-16,Completed
+ACT-00157,VULN-00717,Software Update,Lindsay Lawson,Low,2025-06-03,2025-07-03,2025-06-23,Completed
+ACT-00158,VULN-01636,Network Segregation,Melissa Abbott,Medium,2025-07-21,2025-08-20,2025-08-10,In Progress
+ACT-00159,VULN-01822,User Training,Elizabeth Holmes,Immediate,2026-04-08,2026-05-08,2026-04-22,Completed
+ACT-00160,VULN-00047,Config Change,Nicole Phillips,Immediate,2025-06-19,2025-07-19,2025-07-03,In Progress
+ACT-00161,VULN-00284,Software Update,Steven Blevins,High,2025-12-25,2026-01-24,\N,In Progress
+ACT-00162,VULN-00896,Patching,Brian Porter MD,Medium,2025-09-25,2025-10-25,2025-09-27,Completed
+ACT-00163,VULN-02341,User Training,Vanessa Hatfield,High,2025-05-09,2025-06-08,\N,Completed
+ACT-00164,VULN-00221,User Training,Bonnie Valencia,High,2025-08-13,2025-09-12,2025-08-20,Completed
+ACT-00165,VULN-02311,Software Update,Holly Vega,Medium,2025-10-07,2025-11-06,2025-10-26,Completed
+ACT-00166,VULN-02394,Patching,Tiffany Townsend,Medium,2025-09-07,2025-10-07,\N,Completed
+ACT-00167,VULN-02756,Patching,Austin Baker,Immediate,2026-02-22,2026-03-24,2026-03-12,Completed
+ACT-00168,VULN-00328,Config Change,Antonio Mccormick,Medium,2026-02-15,2026-03-17,2026-03-02,Completed
+ACT-00169,VULN-01218,Patching,Lori Mason,Medium,2026-02-05,2026-03-07,2026-02-21,Completed
+ACT-00170,VULN-00379,Config Change,Michael Miller,High,2025-04-21,2025-05-21,2025-05-03,In Progress
+ACT-00171,VULN-00254,User Training,Lisa Ramirez,Low,2025-05-22,2025-06-21,2025-06-07,In Progress
+ACT-00172,VULN-00174,User Training,Jorge Harris,High,2025-05-29,2025-06-28,2025-05-31,Completed
+ACT-00173,VULN-01507,Software Update,Kimberly Myers,Immediate,2025-07-30,2025-08-29,\N,Completed
+ACT-00174,VULN-02253,Network Segregation,Sandra Becker,Low,2026-04-12,2026-05-12,2026-04-24,Completed
+ACT-00175,VULN-00548,User Training,Michael Blair,Immediate,2025-08-02,2025-09-01,\N,In Progress
+ACT-00176,VULN-02162,Config Change,Amy Miller,High,2026-02-04,2026-03-06,2026-02-15,Completed
+ACT-00177,VULN-01981,User Training,Jesse Lynch,High,2025-09-21,2025-10-21,\N,In Progress
+ACT-00178,VULN-02952,User Training,Patrick Yang,High,2025-10-08,2025-11-07,2025-10-22,Completed
+ACT-00179,VULN-02204,User Training,Michael Miles,Medium,2025-08-09,2025-09-08,2025-08-26,In Progress
+ACT-00180,VULN-01873,Patching,Troy Mills,Low,2025-10-09,2025-11-08,2025-10-29,In Progress
+ACT-00181,VULN-02525,Patching,Michelle Jackson,Immediate,2025-10-19,2025-11-18,2025-11-07,Completed
+ACT-00182,VULN-02353,Software Update,Richard Adams,Medium,2025-09-12,2025-10-12,2025-09-17,Completed
+ACT-00183,VULN-00800,User Training,Patricia Johnson,High,2026-01-23,2026-02-22,2026-01-29,Completed
+ACT-00184,VULN-02791,Software Update,Denise Brown,High,2025-08-10,2025-09-09,2025-08-30,Completed
+ACT-00185,VULN-02125,User Training,Laura Jones,Low,2026-04-09,2026-05-09,2026-04-26,Completed
+ACT-00186,VULN-02698,User Training,Ian Porter,Immediate,2026-02-11,2026-03-13,2026-02-24,Completed
+ACT-00187,VULN-00031,User Training,Holly Scott,High,2025-11-15,2025-12-15,2025-12-05,Completed
+ACT-00188,VULN-02410,Network Segregation,Kenneth Sharp,Low,2025-05-25,2025-06-24,\N,Completed
+ACT-00189,VULN-01887,Config Change,Jordan Williams,Immediate,2025-08-05,2025-09-04,2025-08-11,Completed
+ACT-00190,VULN-01979,Network Segregation,Dana Ruiz,Low,2025-10-23,2025-11-22,2025-10-25,Completed
+ACT-00191,VULN-02315,User Training,Chris Velazquez,High,2025-11-23,2025-12-23,2025-11-27,Completed
+ACT-00192,VULN-00308,Patching,Kristen Sloan,Immediate,2026-04-02,2026-05-02,\N,Completed
+ACT-00193,VULN-02440,Network Segregation,Jennifer Morris,High,2025-08-16,2025-09-15,2025-08-31,Completed
+ACT-00194,VULN-01189,Patching,Nathan Nelson,Medium,2025-10-23,2025-11-22,2025-10-31,Completed
+ACT-00195,VULN-00202,User Training,Jake Shaw,Low,2025-08-27,2025-09-26,2025-09-08,Completed
+ACT-00196,VULN-00187,Config Change,Cassie Brock,Medium,2025-11-09,2025-12-09,2025-11-13,Completed
+ACT-00197,VULN-00469,Patching,Dr. Andrea Marshall,Low,2025-06-08,2025-07-08,2025-06-18,Completed
+ACT-00198,VULN-02935,Config Change,Ryan Murphy,Medium,2025-05-13,2025-06-12,\N,Completed
+ACT-00199,VULN-02670,User Training,Aimee Gonzalez,Medium,2025-09-07,2025-10-07,2025-09-19,Completed
+ACT-00200,VULN-01788,Network Segregation,Elizabeth Dean,Medium,2026-01-06,2026-02-05,2026-01-18,Completed
+ACT-00201,VULN-01775,Network Segregation,Kevin Snyder,Low,2026-02-03,2026-03-05,\N,Completed
+ACT-00202,VULN-00276,Patching,Christie Mccullough,High,2026-02-07,2026-03-09,2026-02-16,Completed
+ACT-00203,VULN-02781,Patching,Danielle Smith,Medium,2025-12-07,2026-01-06,\N,In Progress
+ACT-00204,VULN-02434,Network Segregation,David Reed,Immediate,2025-09-18,2025-10-18,2025-10-07,Completed
+ACT-00205,VULN-00114,Config Change,Sherry Tapia,Medium,2025-06-22,2025-07-22,\N,Completed
+ACT-00206,VULN-00991,User Training,Matthew Sweeney,Immediate,2026-02-15,2026-03-17,2026-03-06,Completed
+ACT-00207,VULN-00619,Network Segregation,Ashley Moreno,Immediate,2026-04-14,2026-05-14,\N,In Progress
+ACT-00208,VULN-01765,Patching,Johnathan Brown,Immediate,2026-04-09,2026-05-09,\N,Completed
+ACT-00209,VULN-00210,Patching,Michelle Davis DVM,Low,2026-03-22,2026-04-21,2026-03-24,Completed
+ACT-00210,VULN-00955,User Training,Kelly Haynes,Immediate,2026-01-01,2026-01-31,2026-01-20,Completed
+ACT-00211,VULN-02393,Software Update,William Miller,Medium,2025-09-08,2025-10-08,2025-09-14,In Progress
+ACT-00212,VULN-02303,User Training,Casey Wilkins,High,2026-02-11,2026-03-13,2026-02-15,Completed
+ACT-00213,VULN-00441,Network Segregation,Keith Graham,Low,2026-03-20,2026-04-19,2026-04-03,Completed
+ACT-00214,VULN-01839,Network Segregation,Cynthia Green,High,2025-08-13,2025-09-12,2025-08-27,Completed
+ACT-00215,VULN-01762,Software Update,Robert Haynes,Low,2025-09-07,2025-10-07,\N,In Progress
+ACT-00216,VULN-00681,Software Update,Emily Nelson,High,2026-02-16,2026-03-18,2026-02-21,In Progress
+ACT-00217,VULN-02026,User Training,Dale Chan,Immediate,2025-10-09,2025-11-08,2025-10-17,Completed
+ACT-00218,VULN-02089,Config Change,Brittney Martin,Immediate,2025-07-12,2025-08-11,2025-07-21,Completed
+ACT-00219,VULN-01397,Network Segregation,Jason Herrera,Medium,2026-01-03,2026-02-02,2026-01-09,Completed
+ACT-00220,VULN-00651,User Training,Christine Parker,Low,2025-07-03,2025-08-02,2025-07-11,Completed
+ACT-00221,VULN-01061,Patching,Bryan Moore,Medium,2025-05-15,2025-06-14,2025-05-30,In Progress
+ACT-00222,VULN-02550,Network Segregation,Samantha Terry,High,2025-12-21,2026-01-20,2025-12-23,Completed
+ACT-00223,VULN-00962,Software Update,Russell Murphy,High,2025-10-15,2025-11-14,2025-10-27,In Progress
+ACT-00224,VULN-01823,Config Change,David Kelly,Low,2025-12-09,2026-01-08,2025-12-20,Completed
+ACT-00225,VULN-02660,Patching,Megan Green,High,2025-12-14,2026-01-13,2025-12-23,Completed
+ACT-00226,VULN-00189,Network Segregation,Amanda Sullivan MD,Immediate,2025-11-20,2025-12-20,\N,In Progress
+ACT-00227,VULN-01144,Config Change,Danielle Murray,Immediate,2025-10-18,2025-11-17,2025-10-25,Completed
+ACT-00228,VULN-00850,Network Segregation,Brenda Smith,Immediate,2025-11-16,2025-12-16,2025-11-22,Completed
+ACT-00229,VULN-01540,Config Change,Vickie Anderson,Medium,2026-02-15,2026-03-17,2026-03-06,Completed
+ACT-00230,VULN-02722,Network Segregation,Jacqueline Mccoy,Medium,2026-01-22,2026-02-21,2026-02-02,Completed
+ACT-00231,VULN-02842,Config Change,Lauren Green,Medium,2025-06-16,2025-07-16,2025-06-23,Completed
+ACT-00232,VULN-02596,Patching,Alison Brown,Immediate,2026-03-09,2026-04-08,2026-03-12,Completed
+ACT-00233,VULN-00425,Config Change,Jill Anderson,Low,2025-11-30,2025-12-30,2025-12-03,In Progress
+ACT-00234,VULN-02285,Config Change,Sandra Rivera,Immediate,2026-01-23,2026-02-22,2026-02-03,Completed
+ACT-00235,VULN-02078,Software Update,Joel Jackson,High,2025-08-09,2025-09-08,2025-08-13,Completed
+ACT-00236,VULN-00352,User Training,Samantha Foster,Immediate,2026-02-23,2026-03-25,2026-03-12,Completed
+ACT-00237,VULN-02321,User Training,Michael Thompson,Low,2025-12-18,2026-01-17,2025-12-21,In Progress
+ACT-00238,VULN-01441,Software Update,Cody Ramirez,High,2025-07-28,2025-08-27,\N,Completed
+ACT-00239,VULN-02553,Patching,Amanda Harvey,High,2025-09-07,2025-10-07,2025-09-11,Completed
+ACT-00240,VULN-02897,Config Change,Edward Jenkins,Immediate,2026-01-19,2026-02-18,2026-01-20,Completed
+ACT-00241,VULN-01255,Network Segregation,Amy Ramirez,Low,2025-09-27,2025-10-27,\N,Completed
+ACT-00242,VULN-02792,Network Segregation,Curtis Wilkerson,Immediate,2025-08-16,2025-09-15,2025-09-01,Completed
+ACT-00243,VULN-01611,Config Change,Lydia Pham,Medium,2025-07-16,2025-08-15,\N,Completed
+ACT-00244,VULN-00599,Network Segregation,Virginia Casey,High,2025-09-23,2025-10-23,2025-09-26,Completed
+ACT-00245,VULN-02110,Software Update,Joshua Washington,Low,2025-12-21,2026-01-20,2025-12-31,Completed
+ACT-00246,VULN-00162,Network Segregation,Kathryn Price,High,2026-03-30,2026-04-29,\N,Completed
+ACT-00247,VULN-00986,User Training,Francis Robinson,Medium,2025-05-07,2025-06-06,2025-05-20,Completed
+ACT-00248,VULN-02405,User Training,Paula Brown,Immediate,2025-12-20,2026-01-19,2026-01-04,In Progress
+ACT-00249,VULN-01457,Config Change,Kendra Wang DVM,Immediate,2025-06-16,2025-07-16,2025-06-27,Completed
+ACT-00250,VULN-02282,Software Update,Ariel Sandoval,Low,2026-02-15,2026-03-17,2026-02-17,Completed
+ACT-00251,VULN-02132,Patching,Robert Stark,Low,2025-11-22,2025-12-22,2025-12-03,In Progress
+ACT-00252,VULN-00859,Software Update,Zachary Robinson,Immediate,2026-02-01,2026-03-03,\N,Completed
+ACT-00253,VULN-02357,Network Segregation,Rebecca Kelly,Low,2026-02-18,2026-03-20,2026-03-09,Completed
+ACT-00254,VULN-02265,User Training,Sarah Thompson,High,2025-09-17,2025-10-17,\N,Completed
+ACT-00255,VULN-01258,User Training,Renee Wolfe,High,2026-02-20,2026-03-22,2026-02-25,In Progress
+ACT-00256,VULN-02274,Network Segregation,Alyssa Haynes,Immediate,2025-05-16,2025-06-15,2025-05-20,Completed
+ACT-00257,VULN-00366,Software Update,Kristy Hart,Immediate,2026-03-23,2026-04-22,\N,Completed
+ACT-00258,VULN-01533,Config Change,William Keith,Medium,2025-07-02,2025-08-01,2025-07-10,Completed
+ACT-00259,VULN-00563,Software Update,Eric Henry Jr.,Immediate,2025-04-21,2025-05-21,\N,Completed
+ACT-00260,VULN-01022,Patching,Daniel Fox,Low,2025-06-19,2025-07-19,2025-06-30,Completed
+ACT-00261,VULN-00738,Config Change,Thomas Harris,Medium,2026-04-04,2026-05-04,\N,Completed
+ACT-00262,VULN-00519,Patching,Mitchell Sellers,Immediate,2025-07-27,2025-08-26,\N,Completed
+ACT-00263,VULN-00053,Software Update,Erica Johnson,Medium,2025-09-11,2025-10-11,2025-09-14,Completed
+ACT-00264,VULN-01481,Software Update,Sylvia Schroeder,Immediate,2026-03-10,2026-04-09,2026-03-26,Completed
+ACT-00265,VULN-01244,Patching,Shannon Yu,Low,2025-05-10,2025-06-09,2025-05-25,In Progress
+ACT-00266,VULN-02002,Config Change,Tom Foster,Immediate,2026-01-20,2026-02-19,2026-01-21,Completed
+ACT-00267,VULN-02507,User Training,Eric Taylor,Immediate,2025-09-22,2025-10-22,\N,Completed
+ACT-00268,VULN-00286,User Training,Travis Conner,Immediate,2025-10-06,2025-11-05,2025-10-07,Completed
+ACT-00269,VULN-00419,Software Update,Marie Thompson,Medium,2025-11-13,2025-12-13,2025-12-01,Completed
+ACT-00270,VULN-02242,Patching,Melissa Mcfarland,Low,2025-08-10,2025-09-09,2025-08-19,Completed
+ACT-00271,VULN-00696,Patching,Courtney Chapman,Immediate,2025-11-06,2025-12-06,2025-11-20,Completed
+ACT-00272,VULN-02919,Network Segregation,Eric Barker,High,2025-06-10,2025-07-10,2025-06-29,Completed
+ACT-00273,VULN-00239,Patching,Nicholas Rush,High,2025-10-25,2025-11-24,2025-11-02,Completed
+ACT-00274,VULN-01040,User Training,Jenna Gamble,Low,2026-03-07,2026-04-06,2026-03-22,Completed
+ACT-00275,VULN-02413,Patching,Amanda Guzman,Medium,2025-09-15,2025-10-15,2025-09-19,Completed
+ACT-00276,VULN-00327,User Training,Tracy Walker,Low,2025-07-19,2025-08-18,2025-08-07,Completed
+ACT-00277,VULN-02829,Patching,Taylor Taylor,Medium,2025-10-03,2025-11-02,2025-10-21,Completed
+ACT-00278,VULN-00358,Network Segregation,Cynthia Haas,Immediate,2025-11-12,2025-12-12,2025-11-18,Completed
+ACT-00279,VULN-01525,Software Update,Stephen Davis,Medium,2025-11-20,2025-12-20,2025-12-02,Completed
+ACT-00280,VULN-01670,Patching,Margaret Tanner,Immediate,2025-11-14,2025-12-14,2025-11-18,Completed
+ACT-00281,VULN-02334,User Training,Derek Wright,Low,2025-09-02,2025-10-02,2025-09-15,Completed
+ACT-00282,VULN-00636,User Training,David Rodriguez,Low,2025-10-17,2025-11-16,\N,Completed
+ACT-00283,VULN-00318,Config Change,James Oconnor,Low,2025-07-11,2025-08-10,2025-07-16,Completed
+ACT-00284,VULN-02087,User Training,Stacey Snyder,Immediate,2025-12-31,2026-01-30,2026-01-11,Completed
+ACT-00285,VULN-01952,User Training,Joshua Garcia,Low,2025-11-10,2025-12-10,2025-11-27,Completed
+ACT-00286,VULN-00995,Network Segregation,Sean Curtis,Low,2025-05-01,2025-05-31,2025-05-02,Completed
+ACT-00287,VULN-02017,Patching,Carla Jones,High,2025-12-27,2026-01-26,2026-01-10,Completed
+ACT-00288,VULN-02211,Patching,Elizabeth Flores,Low,2025-06-27,2025-07-27,2025-07-13,Completed
+ACT-00289,VULN-01203,User Training,Angela Jackson,Low,2025-06-27,2025-07-27,\N,Completed
+ACT-00290,VULN-02685,Network Segregation,Nicholas Payne,High,2025-09-11,2025-10-11,2025-09-30,Completed
+ACT-00291,VULN-01353,Network Segregation,Anna Wheeler,Immediate,2025-12-08,2026-01-07,2025-12-14,In Progress
+ACT-00292,VULN-02837,User Training,Karen Johnson,Immediate,2025-09-06,2025-10-06,\N,Completed
+ACT-00293,VULN-00486,Patching,Carmen Preston,Low,2025-07-08,2025-08-07,2025-07-14,Completed
+ACT-00294,VULN-00344,Config Change,Brian Harris,High,2026-01-03,2026-02-02,2026-01-13,Completed
+ACT-00295,VULN-02556,Config Change,Michael Bowen,High,2025-05-26,2025-06-25,2025-05-28,Completed
+ACT-00296,VULN-02006,Network Segregation,Deborah Campbell,Immediate,2025-11-10,2025-12-10,2025-11-19,Completed
+ACT-00297,VULN-02634,Software Update,Anthony Armstrong,Medium,2025-08-10,2025-09-09,2025-08-23,Completed
+ACT-00298,VULN-01031,Software Update,Brittany Ward,Medium,2026-04-03,2026-05-03,2026-04-16,In Progress
+ACT-00299,VULN-00866,Network Segregation,Edward Stanley,Medium,2025-11-07,2025-12-07,2025-11-25,Completed
+ACT-00300,VULN-00587,Software Update,Christina Johnson,Medium,2026-03-31,2026-04-30,2026-04-05,Completed
+ACT-00301,VULN-00698,Network Segregation,Edgar Miller,Medium,2026-02-23,2026-03-25,2026-02-25,Completed
+ACT-00302,VULN-00029,User Training,Elizabeth Sanders,Low,2025-12-28,2026-01-27,2026-01-08,Completed
+ACT-00303,VULN-02199,Software Update,Matthew Davis MD,Immediate,2025-07-07,2025-08-06,2025-07-11,Completed
+ACT-00304,VULN-00958,Software Update,Stephen Wood,Immediate,2025-12-23,2026-01-22,2025-12-28,Completed
+ACT-00305,VULN-02534,Config Change,Dennis Marshall,Medium,2026-02-11,2026-03-13,2026-02-21,In Progress
+ACT-00306,VULN-00512,Software Update,Derrick Brown,Low,2025-08-14,2025-09-13,2025-08-28,In Progress
+ACT-00307,VULN-01225,Config Change,Mary Miller,High,2025-10-16,2025-11-15,\N,Completed
+ACT-00308,VULN-01174,Patching,Joshua Arellano,Immediate,2025-07-22,2025-08-21,2025-08-07,Completed
+ACT-00309,VULN-00734,Network Segregation,Kristen Randall,Low,2026-04-18,2026-05-18,2026-05-06,Completed
+ACT-00310,VULN-02198,Software Update,Jennifer Nichols,Low,2025-08-15,2025-09-14,2025-08-20,Completed
+ACT-00311,VULN-00584,Network Segregation,Karen Keith,High,2026-02-20,2026-03-22,2026-03-09,Completed
+ACT-00312,VULN-00792,User Training,Blake Orr,Medium,2026-02-10,2026-03-12,2026-02-16,In Progress
+ACT-00313,VULN-00137,Software Update,Kathryn Lester,Low,2025-07-06,2025-08-05,2025-07-22,In Progress
+ACT-00314,VULN-01630,Config Change,Megan Oliver,High,2025-05-07,2025-06-06,2025-05-15,Completed
+ACT-00315,VULN-00917,Patching,Peter Thompson,Medium,2025-09-17,2025-10-17,\N,In Progress
+ACT-00316,VULN-02599,User Training,Dr. Rhonda Martinez,Medium,2025-08-28,2025-09-27,2025-09-13,In Progress
+ACT-00317,VULN-02177,Config Change,William Graham,Immediate,2026-02-03,2026-03-05,\N,Completed
+ACT-00318,VULN-00296,User Training,Lori Flowers MD,Medium,2025-12-02,2026-01-01,\N,Completed
+ACT-00319,VULN-02994,Config Change,Suzanne Jones,Immediate,2025-08-03,2025-09-02,\N,Completed
+ACT-00320,VULN-00908,Config Change,James Nguyen,Low,2026-03-27,2026-04-26,2026-04-10,Completed
+ACT-00321,VULN-02610,Config Change,Jimmy Marks,Low,2025-06-08,2025-07-08,2025-06-20,Completed
+ACT-00322,VULN-00870,Config Change,Lisa Mills,Immediate,2025-08-02,2025-09-01,2025-08-11,Completed
+ACT-00323,VULN-02942,Software Update,Jason Hernandez,Medium,2025-09-22,2025-10-22,2025-10-08,Completed
+ACT-00324,VULN-02364,Patching,Olivia Ayers,Medium,2025-11-25,2025-12-25,2025-12-02,Completed
+ACT-00325,VULN-02000,Config Change,Kristine Garcia,Low,2025-11-30,2025-12-30,2025-12-18,Completed
+ACT-00326,VULN-00440,Patching,Joseph Cooper,Medium,2026-01-06,2026-02-05,2026-01-08,Completed
+ACT-00327,VULN-01069,Config Change,James Washington,Low,2025-10-24,2025-11-23,2025-11-01,Completed
+ACT-00328,VULN-01067,Software Update,Amanda Hill,Immediate,2025-09-30,2025-10-30,2025-10-11,Completed
+ACT-00329,VULN-01233,Patching,Lee Steele,Immediate,2026-03-16,2026-04-15,2026-03-28,Completed
+ACT-00330,VULN-00268,Patching,Steve Rivera,High,2025-07-30,2025-08-29,2025-08-04,Completed
+ACT-00331,VULN-00980,Software Update,Patrick Mccall,High,2026-03-06,2026-04-05,2026-03-10,Completed
+ACT-00332,VULN-02876,Config Change,Alicia Roth,High,2025-08-05,2025-09-04,2025-08-13,Completed
+ACT-00333,VULN-00934,Software Update,Douglas Vasquez,High,2025-10-21,2025-11-20,2025-10-30,Completed
+ACT-00334,VULN-00350,Software Update,Annette Melton,Immediate,2026-01-27,2026-02-26,2026-02-02,Completed
+ACT-00335,VULN-01471,Patching,William Ramos,Immediate,2026-03-07,2026-04-06,2026-03-18,Completed
+ACT-00336,VULN-00664,Patching,Debra Butler,Medium,2026-03-13,2026-04-12,2026-03-28,Completed
+ACT-00337,VULN-02074,Network Segregation,Chelsea Lewis,Medium,2026-03-22,2026-04-21,2026-04-02,In Progress
+ACT-00338,VULN-00585,User Training,Natalie Malone,Low,2026-03-18,2026-04-17,2026-03-24,Completed
+ACT-00339,VULN-02465,Config Change,Samantha Robertson,Medium,2025-07-09,2025-08-08,2025-07-22,Completed
+ACT-00340,VULN-02461,Patching,Eric Hunter,High,2025-04-27,2025-05-27,2025-05-05,Completed
+ACT-00341,VULN-00517,Config Change,Samuel Suarez,Low,2026-03-26,2026-04-25,2026-04-10,Completed
+ACT-00342,VULN-02564,User Training,Corey Whitaker,High,2026-02-07,2026-03-09,2026-02-16,In Progress
+ACT-00343,VULN-00621,Software Update,Danielle Bryant,Low,2026-02-23,2026-03-25,2026-03-05,In Progress
+ACT-00344,VULN-01715,Network Segregation,Michele Hill,Immediate,2026-04-04,2026-05-04,2026-04-16,Completed
+ACT-00345,VULN-01917,Software Update,Kathy Reid,Immediate,2025-07-17,2025-08-16,2025-07-25,Completed
+ACT-00346,VULN-01646,Config Change,Andre Watson,Medium,2025-12-12,2026-01-11,2025-12-14,Completed
+ACT-00347,VULN-00543,User Training,Cassandra Harrell,Low,2025-05-07,2025-06-06,2025-05-12,Completed
+ACT-00348,VULN-00751,Patching,Hannah Martin,Medium,2026-02-15,2026-03-17,\N,In Progress
+ACT-00349,VULN-02523,Config Change,Nicole Barker,Low,2026-02-26,2026-03-28,2026-03-14,Completed
+ACT-00350,VULN-01633,Network Segregation,James Martin,High,2025-09-09,2025-10-09,\N,Completed
+ACT-00351,VULN-00509,Config Change,Traci Vincent,Low,2026-01-01,2026-01-31,2026-01-03,Completed
+ACT-00352,VULN-02015,User Training,Megan Adams,Immediate,2025-06-03,2025-07-03,2025-06-06,Completed
+ACT-00353,VULN-02284,Config Change,Alejandro Deleon,Immediate,2025-08-31,2025-09-30,2025-09-15,In Progress
+ACT-00354,VULN-00592,Config Change,Alexa Buck,Low,2026-01-03,2026-02-02,2026-01-09,In Progress
+ACT-00355,VULN-02441,Network Segregation,Lindsay Smith,Immediate,2025-11-22,2025-12-22,2025-12-03,Completed
+ACT-00356,VULN-02783,Config Change,Robert Torres,High,2025-06-29,2025-07-29,2025-07-08,Completed
+ACT-00357,VULN-01313,Network Segregation,Maria Coleman,Medium,2025-12-18,2026-01-17,\N,Completed
+ACT-00358,VULN-01440,Software Update,Gregory King,Low,2025-07-05,2025-08-04,2025-07-16,Completed
+ACT-00359,VULN-01824,Patching,Michael Holloway,Medium,2025-07-13,2025-08-12,2025-07-29,Completed
+ACT-00360,VULN-00035,Network Segregation,Brian Hunt,High,2025-12-01,2025-12-31,2025-12-07,Completed
+ACT-00361,VULN-00705,User Training,Sarah Brooks,Immediate,2026-01-02,2026-02-01,\N,Completed
+ACT-00362,VULN-00750,Patching,Lisa Evans,Immediate,2025-10-03,2025-11-02,2025-10-22,Completed
+ACT-00363,VULN-00173,Network Segregation,Arthur Mcneil,Low,2026-03-19,2026-04-18,\N,Completed
+ACT-00364,VULN-01632,Config Change,Shannon Green,Low,2025-09-04,2025-10-04,2025-09-14,Completed
+ACT-00365,VULN-00837,User Training,Stephanie Evans,Immediate,2025-12-05,2026-01-04,2025-12-16,Completed
+ACT-00366,VULN-00367,Network Segregation,Ralph Yoder,Low,2026-04-10,2026-05-10,2026-04-14,Completed
+ACT-00367,VULN-00181,Network Segregation,Rebekah Greene,Medium,2025-12-03,2026-01-02,2025-12-17,Completed
+ACT-00368,VULN-00769,Software Update,Melanie Griffith,High,2025-05-22,2025-06-21,2025-05-30,Completed
+ACT-00369,VULN-02409,Software Update,Yolanda Green,Immediate,2025-08-26,2025-09-25,2025-09-08,Completed
+ACT-00370,VULN-02938,User Training,James Johnson,High,2026-01-23,2026-02-22,2026-01-29,Completed
+ACT-00371,VULN-00363,Network Segregation,Laura Lee,High,2025-08-03,2025-09-02,2025-08-14,Completed
+ACT-00372,VULN-01390,Config Change,Courtney Nichols,High,2025-10-27,2025-11-26,\N,Completed
+ACT-00373,VULN-01035,Config Change,Susan Powers,High,2026-01-20,2026-02-19,\N,Completed
+ACT-00374,VULN-00864,Patching,Sarah Pittman,High,2026-02-10,2026-03-12,\N,Completed
+ACT-00375,VULN-02858,Software Update,Catherine Davis,Medium,2025-07-23,2025-08-22,\N,Completed
+ACT-00376,VULN-00887,Config Change,David Stokes,High,2025-06-15,2025-07-15,2025-06-17,Completed
+ACT-00377,VULN-01048,Patching,Catherine Frazier,High,2026-01-06,2026-02-05,2026-01-19,In Progress
+ACT-00378,VULN-01450,Network Segregation,Brandon Kelly,Immediate,2025-06-02,2025-07-02,2025-06-03,Completed
+ACT-00379,VULN-02269,Patching,Elizabeth French,Medium,2025-08-29,2025-09-28,2025-09-14,Completed
+ACT-00380,VULN-00914,Config Change,David Carter,Medium,2025-09-01,2025-10-01,2025-09-06,Completed
+ACT-00381,VULN-02833,Software Update,Julie Delacruz,High,2025-07-16,2025-08-15,2025-07-19,Completed
+ACT-00382,VULN-00146,User Training,Terry Jones,High,2025-09-16,2025-10-16,2025-09-21,Completed
+ACT-00383,VULN-00096,Patching,Kathryn Dillon,Immediate,2025-09-07,2025-10-07,2025-09-24,Completed
+ACT-00384,VULN-02378,User Training,Edwin Brown,High,2025-08-29,2025-09-28,2025-08-30,Completed
+ACT-00385,VULN-02643,Software Update,Brenda Gonzalez,Low,2025-05-12,2025-06-11,\N,Completed
+ACT-00386,VULN-01038,Network Segregation,Keith Knox,Immediate,2025-12-03,2026-01-02,2025-12-15,Completed
+ACT-00387,VULN-02382,Software Update,Eugene Baldwin,High,2025-12-23,2026-01-22,2025-12-29,Completed
+ACT-00388,VULN-01302,Patching,Katherine Welch,Low,2025-08-03,2025-09-02,\N,Completed
+ACT-00389,VULN-02376,Network Segregation,Mark Smith,High,2026-04-04,2026-05-04,2026-04-16,In Progress
+ACT-00390,VULN-02691,Network Segregation,Philip Jackson,Immediate,2025-05-12,2025-06-11,2025-05-27,Completed
+ACT-00391,VULN-00804,Software Update,Katherine Gallagher,Low,2025-09-18,2025-10-18,2025-09-29,Completed
+ACT-00392,VULN-00192,Network Segregation,Lucas Schultz,Low,2026-01-08,2026-02-07,2026-01-28,Completed
+ACT-00393,VULN-02704,Patching,Vincent Reyes,Immediate,2025-05-04,2025-06-03,2025-05-18,Completed
+ACT-00394,VULN-02681,Patching,Curtis Watson,Medium,2025-10-15,2025-11-14,2025-10-17,Completed
+ACT-00395,VULN-02360,Config Change,Frank Whitaker,High,2025-05-01,2025-05-31,2025-05-03,Completed
+ACT-00396,VULN-02916,Patching,Michael Sims,High,2025-06-06,2025-07-06,\N,Completed
+ACT-00397,VULN-01666,Network Segregation,Michael Cooper,High,2025-10-16,2025-11-15,2025-10-20,In Progress
+ACT-00398,VULN-01305,Software Update,James Chapman,Medium,2025-10-13,2025-11-12,\N,Completed
+ACT-00399,VULN-00411,Software Update,Rodney Evans,Immediate,2025-10-24,2025-11-23,2025-11-07,Completed
+ACT-00400,VULN-00391,User Training,Nicholas Carlson,Low,2025-09-22,2025-10-22,2025-10-05,Completed
+ACT-00401,VULN-00452,Network Segregation,Stephen Cowan,High,2025-12-13,2026-01-12,2025-12-26,In Progress
+ACT-00402,VULN-02081,Config Change,Steven Howard,Immediate,2025-08-31,2025-09-30,2025-09-16,Completed
+ACT-00403,VULN-00655,Network Segregation,Travis Hull,High,2026-03-17,2026-04-16,2026-03-27,Completed
+ACT-00404,VULN-02295,User Training,Darryl Acosta,Immediate,2025-06-24,2025-07-24,2025-07-08,Completed
+ACT-00405,VULN-01531,Config Change,Nicholas Lawrence,Immediate,2025-08-18,2025-09-17,2025-09-05,Completed
+ACT-00406,VULN-02228,Software Update,Jacob Santos,Medium,2025-10-06,2025-11-05,\N,Completed
+ACT-00407,VULN-02821,Software Update,Shawn Scott,High,2026-01-06,2026-02-05,2026-01-26,Completed
+ACT-00408,VULN-00446,Network Segregation,Amber Vang,Medium,2026-03-29,2026-04-28,2026-04-11,Completed
+ACT-00409,VULN-02482,Software Update,Martha Smith,Low,2026-01-30,2026-03-01,2026-02-16,In Progress
+ACT-00410,VULN-02287,Network Segregation,Jennifer James,Immediate,2025-12-26,2026-01-25,\N,Completed
+ACT-00411,VULN-01075,User Training,Kara Hernandez,Medium,2026-03-06,2026-04-05,2026-03-08,Completed
+ACT-00412,VULN-01212,Patching,Lorraine Turner,Immediate,2025-11-18,2025-12-18,2025-11-26,Completed
+ACT-00413,VULN-00725,Config Change,Mary Nelson,Immediate,2025-08-21,2025-09-20,2025-09-09,In Progress
+ACT-00414,VULN-00520,Network Segregation,Breanna Rivas,Medium,2025-06-03,2025-07-03,2025-06-15,Completed
+ACT-00415,VULN-01761,Network Segregation,Nathan Wilson,High,2026-03-25,2026-04-24,\N,Completed
+ACT-00416,VULN-00558,Software Update,Brian Gonzalez,Low,2025-10-07,2025-11-06,\N,Completed
+ACT-00417,VULN-02961,User Training,Dennis Mills,Medium,2025-11-19,2025-12-19,2025-11-23,Completed
+ACT-00418,VULN-01647,Config Change,Michael Phillips,Medium,2026-03-20,2026-04-19,2026-03-24,In Progress
+ACT-00419,VULN-01418,User Training,Jon Clark,Medium,2026-02-12,2026-03-14,\N,In Progress
+ACT-00420,VULN-01523,Software Update,Erin Smith,Immediate,2025-08-30,2025-09-29,2025-09-09,Completed
+ACT-00421,VULN-00583,Software Update,Susan Conley,High,2026-04-13,2026-05-13,2026-05-02,Completed
+ACT-00422,VULN-02696,Software Update,Brittany Davis,Low,2025-12-18,2026-01-17,\N,Completed
+ACT-00423,VULN-02813,Patching,Misty Garcia,High,2025-05-18,2025-06-17,2025-05-25,Completed
+ACT-00424,VULN-02739,Config Change,David Hinton,Immediate,2025-11-13,2025-12-13,\N,Completed
+ACT-00425,VULN-00341,User Training,John Garcia,High,2026-03-19,2026-04-18,2026-03-27,Completed
+ACT-00426,VULN-00219,Network Segregation,Andrew Roberts,Medium,2026-03-21,2026-04-20,\N,Completed
+ACT-00427,VULN-01292,User Training,Emily Rodgers,Medium,2025-09-25,2025-10-25,2025-10-09,Completed
+ACT-00428,VULN-00334,Network Segregation,Peter Williams,High,2025-05-27,2025-06-26,2025-06-16,Completed
+ACT-00429,VULN-02613,Config Change,Mary Jackson,Medium,2025-10-18,2025-11-17,\N,Completed
+ACT-00430,VULN-01252,Patching,Jeffrey Howell,High,2025-06-04,2025-07-04,\N,In Progress
+ACT-00431,VULN-01574,Patching,Anna Briggs,Medium,2025-09-23,2025-10-23,2025-10-03,Completed
+ACT-00432,VULN-01297,User Training,James Rivers,Immediate,2025-08-07,2025-09-06,2025-08-13,Completed
+ACT-00433,VULN-00116,Patching,James Jefferson,High,2025-09-10,2025-10-10,2025-09-19,Completed
+ACT-00434,VULN-00670,Patching,Mariah Robles,Low,2026-03-22,2026-04-21,2026-04-02,In Progress
+ACT-00435,VULN-01847,Config Change,Michael Brown,High,2025-09-17,2025-10-17,2025-09-21,Completed
+ACT-00436,VULN-00506,User Training,Caitlin Perry,Low,2025-12-29,2026-01-28,2026-01-08,In Progress
+ACT-00437,VULN-01464,Config Change,Rebekah Gregory,Low,2025-07-16,2025-08-15,\N,In Progress
+ACT-00438,VULN-02853,User Training,James Howard,Medium,2025-09-08,2025-10-08,2025-09-28,In Progress
+ACT-00439,VULN-01066,User Training,Michael Roberson,High,2026-03-12,2026-04-11,2026-03-18,Completed
+ACT-00440,VULN-00453,Patching,Bianca Knapp,High,2025-05-20,2025-06-19,2025-05-27,Completed
+ACT-00441,VULN-01592,User Training,Jason Williams,Immediate,2026-03-15,2026-04-14,2026-03-25,In Progress
+ACT-00442,VULN-00984,Patching,Ernest Bush,High,2026-01-31,2026-03-02,2026-02-18,Completed
+ACT-00443,VULN-01782,User Training,Patricia Ray,Immediate,2025-06-13,2025-07-13,2025-06-17,Completed
+ACT-00444,VULN-01817,Patching,Vanessa Santiago,Low,2025-04-29,2025-05-29,\N,Completed
+ACT-00445,VULN-00253,Software Update,Joseph Haynes,Immediate,2025-05-16,2025-06-15,2025-06-02,Completed
+ACT-00446,VULN-00184,User Training,Matthew Wright,Low,2025-09-15,2025-10-15,2025-09-20,Completed
+ACT-00447,VULN-02108,Network Segregation,Michael Cruz,Low,2025-12-11,2026-01-10,2025-12-21,Completed
+ACT-00448,VULN-01730,Patching,Kristin Huerta,Immediate,2026-01-21,2026-02-20,2026-01-31,In Progress
+ACT-00449,VULN-02533,Patching,Mason Moore,Immediate,2025-10-12,2025-11-11,\N,Completed
+ACT-00450,VULN-02113,User Training,Sarah Booth,Immediate,2025-12-12,2026-01-11,2025-12-16,Completed
+ACT-00451,VULN-00694,Config Change,John Allen,Medium,2025-10-02,2025-11-01,2025-10-10,Completed
+ACT-00452,VULN-01206,User Training,Amber Walker,Medium,2026-01-19,2026-02-18,2026-01-20,Completed
+ACT-00453,VULN-02027,Software Update,Jennifer Young,Medium,2026-03-29,2026-04-28,2026-03-30,Completed
+ACT-00454,VULN-02892,Patching,Robert West,Medium,2026-01-08,2026-02-07,2026-01-23,Completed
+ACT-00455,VULN-01766,Patching,Jillian Wilson,Immediate,2025-08-03,2025-09-02,\N,Completed
+ACT-00456,VULN-01059,User Training,Matthew Garcia MD,Medium,2025-12-30,2026-01-29,2026-01-12,Completed
+ACT-00457,VULN-00382,User Training,April Davis,Low,2026-02-03,2026-03-05,2026-02-18,Completed
+ACT-00458,VULN-01092,Patching,Lisa Torres,High,2025-10-05,2025-11-04,2025-10-14,Completed
+ACT-00459,VULN-02268,User Training,Christine Powers,Low,2026-02-02,2026-03-04,\N,Completed
+ACT-00460,VULN-01320,Patching,Heidi Brown,High,2025-05-31,2025-06-30,2025-06-20,Completed
+ACT-00461,VULN-01111,Patching,Jesse Castro,High,2026-01-04,2026-02-03,2026-01-14,Completed
+ACT-00462,VULN-01150,Patching,Kara Sandoval,Low,2025-04-24,2025-05-24,\N,In Progress
+ACT-00463,VULN-01469,Config Change,Ashley Malone,Immediate,2025-06-03,2025-07-03,2025-06-15,Completed
+ACT-00464,VULN-01641,Network Segregation,Glenn Gallegos,High,2026-02-19,2026-03-21,\N,Completed
+ACT-00465,VULN-02042,Software Update,Dorothy Boyd,Low,2025-09-08,2025-10-08,2025-09-09,Completed
+ACT-00466,VULN-02425,User Training,Amber Martin,High,2025-11-28,2025-12-28,2025-12-04,Completed
+ACT-00467,VULN-00989,Patching,Mitchell Griffith,Medium,2025-12-26,2026-01-25,2025-12-27,Completed
+ACT-00468,VULN-00057,Software Update,Levi Lopez,Medium,2025-08-30,2025-09-29,2025-09-14,Completed
+ACT-00469,VULN-01825,Software Update,Jenna Bryant,Medium,2025-12-27,2026-01-26,2026-01-13,Completed
+ACT-00470,VULN-01734,Config Change,Michelle Rodriguez,Low,2026-03-10,2026-04-09,2026-03-11,In Progress
+ACT-00471,VULN-00690,Network Segregation,Timothy Monroe,Immediate,2025-06-28,2025-07-28,2025-07-13,Completed
+ACT-00472,VULN-02880,User Training,Patricia Hayes,Medium,2025-07-03,2025-08-02,2025-07-19,Completed
+ACT-00473,VULN-02219,Software Update,Tina Taylor,Immediate,2026-03-05,2026-04-04,\N,Completed
+ACT-00474,VULN-02575,Software Update,Mr. Anthony Mcconnell PhD,Low,2025-07-14,2025-08-13,2025-07-18,Completed
+ACT-00475,VULN-02056,Patching,Mr. Thomas Thompson,High,2025-09-09,2025-10-09,2025-09-29,Completed
+ACT-00476,VULN-02143,User Training,Monica Anderson,Medium,2025-07-10,2025-08-09,2025-07-13,Completed
+ACT-00477,VULN-02383,Config Change,Kyle Andrade,High,2025-06-24,2025-07-24,2025-07-02,Completed
+ACT-00478,VULN-02797,User Training,Janice Petty,Medium,2025-06-23,2025-07-23,2025-07-07,Completed
+ACT-00479,VULN-00364,Patching,Pamela Hill,High,2025-10-12,2025-11-11,2025-10-28,Completed
+ACT-00480,VULN-02128,User Training,Tracy Chavez,High,2025-04-18,2025-05-18,2025-04-20,Completed
+ACT-00481,VULN-00733,Network Segregation,Jason Graves,Immediate,2026-01-01,2026-01-31,2026-01-08,Completed
+ACT-00482,VULN-01602,Patching,Elizabeth Miles,Low,2025-11-15,2025-12-15,2025-11-23,Completed
+ACT-00483,VULN-02677,Config Change,Michelle Walls,Medium,2025-11-19,2025-12-19,2025-12-03,Completed
+ACT-00484,VULN-02563,Software Update,Christina Weber,Medium,2025-05-19,2025-06-18,2025-05-26,Completed
+ACT-00485,VULN-00400,Software Update,Gregory Chambers,High,2026-02-16,2026-03-18,2026-02-24,Completed
+ACT-00486,VULN-02424,Network Segregation,Miss Tina Gordon,Immediate,2025-05-20,2025-06-19,2025-06-07,In Progress
+ACT-00487,VULN-02545,Software Update,Erica Wilson,High,2025-12-07,2026-01-06,2025-12-16,Completed
+ACT-00488,VULN-00648,Network Segregation,John Duncan,Low,2025-07-14,2025-08-13,2025-08-03,Completed
+ACT-00489,VULN-01339,Software Update,Jennifer Adkins,Immediate,2025-08-08,2025-09-07,2025-08-20,Completed
+ACT-00490,VULN-01553,Software Update,Donna Boone,High,2026-03-02,2026-04-01,\N,Completed
+ACT-00491,VULN-00816,User Training,Kelly Johnson,Immediate,2026-02-15,2026-03-17,2026-02-20,Completed
+ACT-00492,VULN-02445,Config Change,Michael Gonzalez,Medium,2025-08-25,2025-09-24,2025-09-14,Completed
+ACT-00493,VULN-01367,Software Update,Candace Mitchell,Low,2025-11-28,2025-12-28,\N,Completed
+ACT-00494,VULN-00212,Network Segregation,Ryan Vaughn,Immediate,2025-07-29,2025-08-28,2025-08-10,Completed
+ACT-00495,VULN-02592,Config Change,Paul Johnson,Low,2025-04-27,2025-05-27,2025-05-06,Completed
+ACT-00496,VULN-02371,Network Segregation,Ashley Parrish,High,2025-06-17,2025-07-17,2025-06-30,In Progress
+ACT-00497,VULN-02579,Patching,Sharon Newton,High,2025-08-29,2025-09-28,2025-09-09,In Progress
+ACT-00498,VULN-02451,Patching,Cynthia Mueller,Immediate,2026-01-27,2026-02-26,\N,Completed
+ACT-00499,VULN-00514,Patching,Donna Beck,Low,2025-12-29,2026-01-28,\N,Completed
+ACT-00500,VULN-01433,Software Update,Jasmine Frye,Immediate,2025-12-15,2026-01-14,\N,In Progress
+ACT-00501,VULN-01544,Patching,Emily Arnold,High,2026-01-31,2026-03-02,2026-02-01,In Progress
+ACT-00502,VULN-00304,Software Update,David Oliver,Immediate,2025-12-19,2026-01-18,2026-01-01,Completed
+ACT-00503,VULN-00077,Network Segregation,Sheila Greer,High,2025-11-30,2025-12-30,\N,Completed
+ACT-00504,VULN-01899,User Training,Michele Holland,Medium,2025-04-24,2025-05-24,2025-04-26,Completed
+ACT-00505,VULN-01475,Network Segregation,Kimberly Morrison,Medium,2026-01-22,2026-02-21,2026-01-30,Completed
+ACT-00506,VULN-00945,Config Change,Tracey Phillips,High,2025-10-14,2025-11-13,2025-11-03,Completed
+ACT-00507,VULN-00999,Config Change,Michael Lopez,High,2025-04-27,2025-05-27,\N,Completed
+ACT-00508,VULN-01948,Network Segregation,Jose Bennett,Medium,2025-05-06,2025-06-05,\N,Completed
+ACT-00509,VULN-00559,Config Change,Justin Anderson,High,2025-11-17,2025-12-17,2025-11-18,Completed
+ACT-00510,VULN-02725,Config Change,Dawn Rivera,Low,2025-05-03,2025-06-02,2025-05-23,Completed
+ACT-00511,VULN-02661,Patching,Brittney Hernandez,Low,2025-09-04,2025-10-04,2025-09-23,Completed
+ACT-00512,VULN-00300,Config Change,Anthony Randolph,High,2025-07-10,2025-08-09,2025-07-18,Completed
+ACT-00513,VULN-01028,Config Change,Mary Henry,Medium,2025-08-19,2025-09-18,\N,Completed
+ACT-00514,VULN-01013,Network Segregation,Heather Bowers,Immediate,2025-09-07,2025-10-07,\N,Completed
+ACT-00515,VULN-02348,Software Update,Daniel White,Medium,2026-03-15,2026-04-14,2026-03-30,Completed
+ACT-00516,VULN-01703,Config Change,Jonathan Perry,Medium,2025-11-23,2025-12-23,\N,Completed
+ACT-00517,VULN-00294,User Training,Anna Walker,Medium,2025-08-27,2025-09-26,2025-09-05,Completed
+ACT-00518,VULN-01337,Network Segregation,Gary Ward,Immediate,2025-11-26,2025-12-26,2025-12-14,Completed
+ACT-00519,VULN-02254,Config Change,Paul Moreno,High,2025-09-03,2025-10-03,\N,Completed
+ACT-00520,VULN-00819,Patching,Samantha Zavala MD,Medium,2025-06-27,2025-07-27,2025-07-14,Completed
+ACT-00521,VULN-01575,User Training,Jill Conway,Immediate,2026-03-22,2026-04-21,2026-04-02,Completed
+ACT-00522,VULN-00064,Software Update,Lisa Haley,Low,2025-11-11,2025-12-11,2025-11-27,In Progress
+ACT-00523,VULN-00347,Patching,Erica Moon,High,2025-05-26,2025-06-25,\N,Completed
+ACT-00524,VULN-02289,Network Segregation,Janice Fernandez,High,2025-06-15,2025-07-15,\N,In Progress
+ACT-00525,VULN-00365,Patching,Thomas Short,High,2025-07-25,2025-08-24,\N,Completed
+ACT-00526,VULN-00007,Software Update,Robert Griffin,Immediate,2025-07-13,2025-08-12,\N,Completed
+ACT-00527,VULN-02076,Software Update,Steven Lee,Low,2026-01-25,2026-02-24,2026-02-13,Completed
+ACT-00528,VULN-01293,Config Change,Tiffany Jackson,Medium,2025-10-10,2025-11-09,2025-10-29,Completed
+ACT-00529,VULN-02241,Patching,Kimberly Smith,High,2025-09-27,2025-10-27,2025-10-09,Completed
+ACT-00530,VULN-02101,Patching,Michael Ayala,Low,2026-02-23,2026-03-25,2026-02-26,Completed
+ACT-00531,VULN-01072,Config Change,Jessica Garcia,Low,2025-09-06,2025-10-06,\N,Completed
+ACT-00532,VULN-00540,Patching,Michele Cherry,Immediate,2026-04-05,2026-05-05,\N,Completed
+ACT-00533,VULN-02957,Config Change,Maria Case,High,2025-06-06,2025-07-06,\N,In Progress
+ACT-00534,VULN-02726,Network Segregation,Brittany Stevens,High,2025-08-07,2025-09-06,\N,Completed
+ACT-00535,VULN-00892,Config Change,Brandon Brown,Medium,2025-09-22,2025-10-22,2025-10-11,Completed
+ACT-00536,VULN-02671,Config Change,Kristin Andrews,High,2025-05-16,2025-06-15,2025-05-31,In Progress
+ACT-00537,VULN-00437,Software Update,David Hughes,High,2025-05-15,2025-06-14,\N,Completed
+ACT-00538,VULN-00214,User Training,Jessica Smith,Medium,2026-02-06,2026-03-08,2026-02-20,In Progress
+ACT-00539,VULN-00409,Config Change,Kimberly May,Immediate,2025-12-29,2026-01-28,\N,Completed
+ACT-00540,VULN-01672,User Training,Nicole Richards,High,2025-05-14,2025-06-13,2025-06-01,Completed
+ACT-00541,VULN-00672,Config Change,Angel Reilly,Low,2025-06-24,2025-07-24,2025-07-08,Completed
+ACT-00542,VULN-01121,User Training,Richard Turner,Immediate,2025-09-01,2025-10-01,\N,Completed
+ACT-00543,VULN-00259,User Training,Preston Kim,Immediate,2026-02-07,2026-03-09,2026-02-19,In Progress
+ACT-00544,VULN-00140,Patching,Matthew Wells,Immediate,2026-03-24,2026-04-23,2026-03-27,Completed
+ACT-00545,VULN-00637,Config Change,Brandy Myers,Low,2025-07-13,2025-08-12,2025-07-18,Completed
+ACT-00546,VULN-01026,Config Change,Kimberly Choi,Low,2025-04-25,2025-05-25,\N,Completed
+ACT-00547,VULN-01356,User Training,Michael Sloan,Immediate,2025-10-01,2025-10-31,\N,Completed
+ACT-00548,VULN-02059,Config Change,Monica Brooks,Medium,2025-11-19,2025-12-19,2025-11-20,Completed
+ACT-00549,VULN-01977,Network Segregation,Kristen Peters,Medium,2025-04-30,2025-05-30,2025-05-07,Completed
+ACT-00550,VULN-02444,Config Change,Aaron Carlson,Immediate,2026-02-20,2026-03-22,2026-03-11,In Progress
+ACT-00551,VULN-02313,Config Change,Theresa Torres,Immediate,2026-04-12,2026-05-12,2026-04-25,Completed
+ACT-00552,VULN-00544,Network Segregation,Stephanie Cooper,Low,2025-05-24,2025-06-23,2025-06-13,Completed
+ACT-00553,VULN-02068,Patching,Matthew Hunt,Medium,2025-09-01,2025-10-01,2025-09-08,Completed
+ACT-00554,VULN-00627,Network Segregation,Daniel Davenport,Immediate,2025-07-28,2025-08-27,2025-07-29,Completed
+ACT-00555,VULN-02105,Patching,Christopher Marsh,Medium,2026-02-11,2026-03-13,2026-02-12,Completed
+ACT-00556,VULN-00066,Patching,Sarah Randolph,Medium,2026-04-13,2026-05-13,2026-04-14,In Progress
+ACT-00557,VULN-01411,Config Change,Julia Dunn MD,Low,2025-05-03,2025-06-02,2025-05-13,In Progress
+ACT-00558,VULN-01204,Config Change,Brett Swanson,Medium,2025-08-11,2025-09-10,\N,Completed
+ACT-00559,VULN-02186,Software Update,Mr. Carl Rios,Low,2025-12-04,2026-01-03,2025-12-05,Completed
+ACT-00560,VULN-00746,Config Change,Manuel Mccullough,Immediate,2025-04-19,2025-05-19,2025-04-23,In Progress
+ACT-00561,VULN-00895,Config Change,Jerry Jensen,High,2025-10-15,2025-11-14,2025-10-27,In Progress
+ACT-00562,VULN-02959,User Training,Kevin Cunningham,High,2026-03-07,2026-04-06,2026-03-09,Completed
+ACT-00563,VULN-02900,User Training,Eugene Patterson,Medium,2025-11-14,2025-12-14,2025-11-22,Completed
+ACT-00564,VULN-00522,Network Segregation,David Walker,High,2025-05-29,2025-06-28,2025-06-14,Completed
+ACT-00565,VULN-02251,User Training,Jessica Larsen,Immediate,2026-03-06,2026-04-05,2026-03-26,In Progress
+ACT-00566,VULN-02316,User Training,Nicholas Humphrey,Medium,2025-12-23,2026-01-22,2025-12-29,Completed
+ACT-00567,VULN-01097,Network Segregation,Ian Torres,High,2025-08-20,2025-09-19,2025-09-04,Completed
+ACT-00568,VULN-01101,Software Update,Casey Obrien,Immediate,2026-04-16,2026-05-16,2026-04-25,In Progress
+ACT-00569,VULN-00771,Software Update,Shannon Taylor,Immediate,2025-11-04,2025-12-04,2025-11-22,Completed
+ACT-00570,VULN-00749,Network Segregation,Deborah Mercado,Immediate,2025-07-06,2025-08-05,2025-07-24,Completed
+ACT-00571,VULN-00185,Config Change,Bernard Smith,High,2025-12-05,2026-01-04,2025-12-10,Completed
+ACT-00572,VULN-01648,Software Update,Amanda Perkins,High,2025-09-13,2025-10-13,\N,Completed
+ACT-00573,VULN-02794,Network Segregation,Kevin Escobar,Low,2025-12-08,2026-01-07,2025-12-27,Completed
+ACT-00574,VULN-00755,Patching,Kimberly Lutz,High,2025-08-23,2025-09-22,2025-08-26,Completed
+ACT-00575,VULN-00427,Patching,Reginald Diaz,Medium,2025-11-01,2025-12-01,2025-11-09,Completed
+ACT-00576,VULN-02860,User Training,Raymond Quinn,Medium,2025-04-27,2025-05-27,2025-05-12,Completed
+ACT-00577,VULN-02658,Patching,John Dixon,Medium,2025-09-29,2025-10-29,2025-10-12,Completed
+ACT-00578,VULN-02041,User Training,Jonathan Bates,High,2025-07-23,2025-08-22,\N,Completed
+ACT-00579,VULN-01103,Software Update,Renee Mendez,Low,2025-08-03,2025-09-02,\N,Completed
+ACT-00580,VULN-01835,Network Segregation,Jose Griffin,Low,2025-06-01,2025-07-01,2025-06-10,In Progress
+ACT-00581,VULN-00390,Software Update,Travis Hopkins,High,2026-03-21,2026-04-20,\N,Completed
+ACT-00582,VULN-00838,Network Segregation,Nancy Webb,Immediate,2025-08-20,2025-09-19,2025-08-29,Completed
+ACT-00583,VULN-01939,Network Segregation,Daniel Freeman,High,2025-09-06,2025-10-06,2025-09-26,Completed
+ACT-00584,VULN-00768,Patching,Jacob Williams,High,2025-12-29,2026-01-28,2026-01-11,Completed
+ACT-00585,VULN-02156,User Training,Terry Ward,High,2025-12-07,2026-01-06,2025-12-24,Completed
+ACT-00586,VULN-02917,Software Update,Jesse Williams,Low,2025-07-07,2025-08-06,2025-07-27,In Progress
+ACT-00587,VULN-02359,Software Update,Mrs. Michele Boyd,Low,2026-03-31,2026-04-30,2026-04-08,Completed
+ACT-00588,VULN-02720,Patching,Sandy Baker,Low,2025-06-11,2025-07-11,2025-06-12,Completed
+ACT-00589,VULN-01039,Software Update,Carrie Valdez,Medium,2026-01-13,2026-02-12,2026-02-01,Completed
+ACT-00590,VULN-00727,User Training,Matthew Houston,Immediate,2026-01-13,2026-02-12,2026-01-23,In Progress
+ACT-00591,VULN-01002,Config Change,Jamie Solomon,Low,2025-07-20,2025-08-19,\N,Completed
+ACT-00592,VULN-00959,Config Change,Heather Parrish,Medium,2025-10-01,2025-10-31,2025-10-11,Completed
+ACT-00593,VULN-02386,Network Segregation,Mr. Larry Shaw,Immediate,2026-01-19,2026-02-18,2026-01-23,Completed
+ACT-00594,VULN-01779,Software Update,Christopher Jones,High,2025-05-31,2025-06-30,2025-06-11,Completed
+ACT-00595,VULN-00724,Network Segregation,Christine Lopez,Low,2025-09-25,2025-10-25,2025-09-27,Completed
+ACT-00596,VULN-01108,Config Change,Mitchell Wilson,Low,2025-10-16,2025-11-15,2025-11-02,Completed
+ACT-00597,VULN-00246,Network Segregation,Robert Cortez,Low,2026-02-27,2026-03-29,2026-03-02,Completed
+ACT-00598,VULN-02119,Patching,Mr. Daniel Martin,Low,2025-04-28,2025-05-28,2025-05-08,Completed
+ACT-00599,VULN-00922,Patching,Alison Williams,Low,2025-11-11,2025-12-11,2025-11-26,Completed
+ACT-00600,VULN-00825,Patching,Candace Soto,Immediate,2025-11-19,2025-12-19,2025-11-30,Completed
+ACT-00601,VULN-02694,Config Change,Kenneth Brown,High,2026-01-28,2026-02-27,\N,Completed
+ACT-00602,VULN-02243,User Training,Christopher Mullen,Immediate,2025-06-03,2025-07-03,2025-06-14,In Progress
+ACT-00603,VULN-01556,Software Update,Kristy Smith,Medium,2025-10-29,2025-11-28,\N,Completed
+ACT-00604,VULN-02126,Config Change,Mary Campbell,Immediate,2025-08-25,2025-09-24,2025-08-31,Completed
+ACT-00605,VULN-00732,Config Change,Jerry Haney,High,2025-09-29,2025-10-29,2025-10-10,Completed
+ACT-00606,VULN-02754,User Training,Carolyn Greer,Low,2025-08-02,2025-09-01,\N,Completed
+ACT-00607,VULN-01596,Config Change,Rebecca Hoover,High,2025-12-15,2026-01-14,2025-12-22,Completed
+ACT-00608,VULN-00389,Network Segregation,Matthew Baker,Medium,2025-07-08,2025-08-07,2025-07-18,Completed
+ACT-00609,VULN-02608,User Training,Grace Chavez,Medium,2026-01-13,2026-02-12,2026-01-24,Completed
+ACT-00610,VULN-01142,Patching,Crystal Cruz,Immediate,2025-07-18,2025-08-17,2025-07-23,Completed
+ACT-00611,VULN-00089,Network Segregation,Dale Heath,Medium,2026-03-18,2026-04-17,2026-03-25,Completed
+ACT-00612,VULN-02881,User Training,Jennifer Hernandez,Low,2025-06-04,2025-07-04,2025-06-23,In Progress
+ACT-00613,VULN-00546,Software Update,John Mendez,High,2025-09-28,2025-10-28,2025-10-02,Completed
+ACT-00614,VULN-01584,Patching,Richard Gordon,Low,2026-01-11,2026-02-10,2026-01-27,Completed
+ACT-00615,VULN-01919,Config Change,John Anderson,High,2026-02-13,2026-03-15,2026-02-17,Completed
+ACT-00616,VULN-01783,Patching,Samantha Prince,Medium,2026-02-06,2026-03-08,2026-02-14,Completed
+ACT-00617,VULN-00918,Config Change,Marie Boyd,Immediate,2026-03-17,2026-04-16,2026-03-29,Completed
+ACT-00618,VULN-01299,Software Update,Andrew Moreno,Medium,2025-07-16,2025-08-15,\N,Completed
+ACT-00619,VULN-01812,Network Segregation,Robert Clarke,Immediate,2025-09-08,2025-10-08,2025-09-19,Completed
+ACT-00620,VULN-00712,User Training,Kevin Figueroa,High,2025-08-26,2025-09-25,2025-09-15,In Progress
+ACT-00621,VULN-00226,Software Update,Melissa Davis,Immediate,2025-07-05,2025-08-04,2025-07-12,Completed
+ACT-00622,VULN-00680,Software Update,John Hall,High,2026-01-23,2026-02-22,2026-01-24,Completed
+ACT-00623,VULN-02666,Network Segregation,Diane Mcdowell,High,2026-01-02,2026-02-01,2026-01-21,Completed
+ACT-00624,VULN-02453,Config Change,Colin Fletcher,High,2026-04-09,2026-05-09,\N,Completed
+ACT-00625,VULN-02761,Patching,Laura Wilson,Low,2026-01-31,2026-03-02,\N,Completed
+ACT-00626,VULN-00911,Network Segregation,Matthew Watts,Immediate,2025-09-10,2025-10-10,2025-09-24,In Progress
+ACT-00627,VULN-02184,Config Change,Jack Moore,Immediate,2026-01-06,2026-02-05,\N,Completed
+ACT-00628,VULN-02966,User Training,Dawn Wyatt,Immediate,2025-06-06,2025-07-06,2025-06-15,Completed
+ACT-00629,VULN-01606,Network Segregation,Jacob Hill,High,2025-07-17,2025-08-16,2025-07-21,Completed
+ACT-00630,VULN-02082,Config Change,Nicole Gutierrez,Immediate,2025-05-27,2025-06-26,2025-06-04,In Progress
+ACT-00631,VULN-01929,Config Change,Karen Wood,Immediate,2025-11-14,2025-12-14,\N,Completed
+ACT-00632,VULN-01681,Patching,Dawn Parker,High,2025-10-10,2025-11-09,\N,Completed
+ACT-00633,VULN-01875,Config Change,Michael Fitzgerald,High,2025-07-16,2025-08-15,2025-08-03,Completed
+ACT-00634,VULN-00227,Config Change,Mary Adkins,Low,2025-06-17,2025-07-17,2025-06-26,Completed
+ACT-00635,VULN-01915,User Training,Michael Martin,Low,2026-03-01,2026-03-31,2026-03-19,Completed
+ACT-00636,VULN-01627,Software Update,James Morgan,High,2025-05-06,2025-06-05,\N,In Progress
+ACT-00637,VULN-01665,Patching,Melissa Mann,Immediate,2026-02-23,2026-03-25,2026-03-12,In Progress
+ACT-00638,VULN-01294,Patching,Vincent Smith,Medium,2026-01-12,2026-02-11,2026-01-30,Completed
+ACT-00639,VULN-00814,Software Update,Charles Frost,Medium,2026-03-27,2026-04-26,\N,Completed
+ACT-00640,VULN-00339,Patching,Austin Walker,Low,2025-09-25,2025-10-25,2025-10-09,Completed
+ACT-00641,VULN-00292,Network Segregation,Andrew Cruz,High,2025-07-15,2025-08-14,2025-07-24,Completed
+ACT-00642,VULN-00913,User Training,Miss Kelly Dawson,Low,2025-04-20,2025-05-20,2025-04-26,Completed
+ACT-00643,VULN-02572,Network Segregation,Theresa Wilkins,Medium,2025-10-04,2025-11-03,\N,In Progress
+ACT-00644,VULN-02009,Network Segregation,Jessica Harris,Medium,2025-11-02,2025-12-02,2025-11-11,Completed
+ACT-00645,VULN-00691,Patching,Regina Mitchell,High,2025-07-23,2025-08-22,2025-08-06,Completed
+ACT-00646,VULN-02170,Config Change,Kyle Black,Medium,2025-10-01,2025-10-31,\N,Completed
+ACT-00647,VULN-00297,Software Update,Christopher Johnson,High,2025-11-21,2025-12-21,2025-11-26,Completed
+ACT-00648,VULN-01500,User Training,Aaron Moore,Immediate,2026-02-16,2026-03-18,2026-03-01,In Progress
+ACT-00649,VULN-01999,Patching,Penny Gomez MD,Low,2025-12-18,2026-01-17,\N,Completed
+ACT-00650,VULN-02096,Software Update,Kelly Mclaughlin,Immediate,2025-06-02,2025-07-02,2025-06-20,In Progress
+ACT-00651,VULN-00041,User Training,Brandon Mitchell,Low,2026-02-25,2026-03-27,2026-03-10,Completed
+ACT-00652,VULN-00942,Config Change,Suzanne Bailey,Low,2026-01-24,2026-02-23,2026-01-27,In Progress
+ACT-00653,VULN-01476,User Training,Destiny Obrien,High,2025-08-07,2025-09-06,2025-08-13,Completed
+ACT-00654,VULN-02894,Patching,Timothy Andrews,Low,2025-08-20,2025-09-19,2025-08-29,In Progress
+ACT-00655,VULN-00645,Software Update,Jason Rodriguez,Medium,2026-02-22,2026-03-24,2026-02-25,Completed
+ACT-00656,VULN-02568,Network Segregation,Edward Arroyo,Immediate,2026-04-02,2026-05-02,2026-04-06,Completed
+ACT-00657,VULN-02323,Patching,Tina Walter,Medium,2025-06-16,2025-07-16,\N,Completed
+ACT-00658,VULN-00204,Network Segregation,Laura Benson,Medium,2025-08-07,2025-09-06,\N,Completed
+ACT-00659,VULN-02843,Software Update,Kristine Carrillo,Medium,2026-01-07,2026-02-06,2026-01-25,Completed
+ACT-00660,VULN-01276,User Training,Tonya Ellis,Low,2026-01-31,2026-03-02,\N,In Progress
+ACT-00661,VULN-02129,Patching,Kevin Johnson,Immediate,2025-06-25,2025-07-25,\N,Completed
+ACT-00662,VULN-01156,Software Update,Austin Schultz,Medium,2025-07-19,2025-08-18,\N,In Progress
+ACT-00663,VULN-01041,Config Change,Megan Hall MD,Medium,2025-12-17,2026-01-16,2025-12-19,Completed
+ACT-00664,VULN-01524,Software Update,Kelli Smith,High,2025-08-24,2025-09-23,\N,In Progress
+ACT-00665,VULN-00857,Network Segregation,Danielle Davis,Medium,2025-10-08,2025-11-07,2025-10-28,Completed
+ACT-00666,VULN-01619,Network Segregation,Samantha Jones,Medium,2026-03-23,2026-04-22,2026-04-01,Completed
+ACT-00667,VULN-02292,Software Update,Karen Gomez,Low,2025-06-14,2025-07-14,2025-06-25,Completed
+ACT-00668,VULN-00504,Config Change,Debra Valentine,Low,2025-12-10,2026-01-09,2025-12-22,Completed
+ACT-00669,VULN-00835,Patching,Susan Porter,Medium,2025-11-10,2025-12-10,\N,Completed
+ACT-00670,VULN-01480,Network Segregation,Nicolas Salas,Medium,2025-09-26,2025-10-26,\N,Completed
+ACT-00671,VULN-00482,Config Change,Dale Wright,High,2025-11-22,2025-12-22,2025-11-25,Completed
+ACT-00672,VULN-02073,Network Segregation,Brittney Rodriguez,Low,2025-10-01,2025-10-31,2025-10-09,Completed
+ACT-00673,VULN-02806,Network Segregation,Megan Alvarado,Low,2025-09-03,2025-10-03,2025-09-23,Completed
+ACT-00674,VULN-00623,Software Update,Pamela Weaver,Medium,2026-03-20,2026-04-19,2026-03-21,Completed
+ACT-00675,VULN-01407,Software Update,John Oliver,Immediate,2025-09-21,2025-10-21,2025-10-01,Completed
+ACT-00676,VULN-01522,Software Update,William Prince PhD,Immediate,2025-10-25,2025-11-24,2025-11-07,Completed
+ACT-00677,VULN-00828,Patching,William Moon IV,High,2026-03-11,2026-04-10,2026-03-28,Completed
+ACT-00678,VULN-01686,Config Change,Kenneth Brown,Medium,2026-03-17,2026-04-16,2026-03-30,Completed
+ACT-00679,VULN-02501,User Training,Karen Fernandez,Medium,2026-02-27,2026-03-29,\N,Completed
+ACT-00680,VULN-00402,Config Change,Jennifer Parks,High,2025-10-13,2025-11-12,2025-10-27,Completed
+ACT-00681,VULN-00197,Network Segregation,William Wolfe,Immediate,2025-11-12,2025-12-12,\N,In Progress
+ACT-00682,VULN-02949,User Training,Michael Smith,Immediate,2025-08-17,2025-09-16,2025-09-03,Completed
+ACT-00683,VULN-02809,Software Update,Kevin Nguyen,Medium,2025-08-03,2025-09-02,2025-08-20,Completed
+ACT-00684,VULN-01127,User Training,Debbie Dunn,Low,2025-12-03,2026-01-02,\N,Completed
+ACT-00685,VULN-02822,Config Change,John Austin,Medium,2025-06-17,2025-07-17,2025-07-02,Completed
+ACT-00686,VULN-02417,Config Change,Jonathan Clark,High,2026-03-12,2026-04-11,2026-03-14,Completed
+ACT-00687,VULN-00586,Software Update,Jacqueline Dickerson,Low,2025-05-02,2025-06-01,2025-05-14,In Progress
+ACT-00688,VULN-01826,User Training,Christopher Anderson,High,2025-05-12,2025-06-11,2025-05-23,Completed
+ACT-00689,VULN-00417,Patching,Crystal Garcia,High,2025-11-29,2025-12-29,2025-12-17,Completed
+ACT-00690,VULN-00414,User Training,David Reynolds,Medium,2025-08-11,2025-09-10,2025-08-27,Completed
+ACT-00691,VULN-00532,Software Update,Charles Haley,High,2025-07-06,2025-08-05,2025-07-12,Completed
+ACT-00692,VULN-01559,User Training,Robert Thompson,Low,2025-10-31,2025-11-30,2025-11-18,Completed
+ACT-00693,VULN-02121,Network Segregation,Dr. Samuel Holmes DDS,Immediate,2025-07-31,2025-08-30,2025-08-09,Completed
+ACT-00694,VULN-02003,User Training,Elizabeth Hart,Medium,2025-08-24,2025-09-23,2025-08-26,Completed
+ACT-00695,VULN-02157,Network Segregation,Jennifer Vaughn,Low,2025-05-19,2025-06-18,2025-06-02,Completed
+ACT-00696,VULN-01250,Software Update,Robert Woods,Low,2025-05-23,2025-06-22,2025-06-07,Completed
+ACT-00697,VULN-02583,Software Update,Joanna Cook,Medium,2025-05-08,2025-06-07,2025-05-19,Completed
+ACT-00698,VULN-02435,User Training,Justin Frederick,Immediate,2025-06-05,2025-07-05,\N,Completed
+ACT-00699,VULN-02213,Config Change,Alejandro Martinez,Low,2025-09-11,2025-10-11,2025-09-30,Completed
+ACT-00700,VULN-01055,Network Segregation,Tracey Gonzalez,High,2025-05-03,2025-06-02,2025-05-23,Completed
+ACT-00701,VULN-01771,Config Change,Mariah Thompson,Medium,2026-03-02,2026-04-01,2026-03-21,Completed
+ACT-00702,VULN-01753,Patching,Heather Nunez,High,2025-08-24,2025-09-23,2025-08-25,Completed
+ACT-00703,VULN-01160,User Training,Dr. Steve James,Low,2025-09-10,2025-10-10,2025-09-20,Completed
+ACT-00704,VULN-01701,Patching,Mark Thomas,Immediate,2025-08-02,2025-09-01,2025-08-16,Completed
+ACT-00705,VULN-01586,Config Change,Robert Rogers,High,2025-12-27,2026-01-26,2026-01-01,In Progress
+ACT-00706,VULN-00842,Network Segregation,Laura Sweeney,Medium,2025-12-12,2026-01-11,2025-12-13,Completed
+ACT-00707,VULN-02932,Patching,Christopher Perez,Low,2025-12-11,2026-01-10,\N,Completed
+ACT-00708,VULN-02676,Config Change,Eddie Adams,High,2025-11-02,2025-12-02,\N,Completed
+ACT-00709,VULN-00677,Patching,Denise Wallace,Low,2025-12-04,2026-01-03,2025-12-20,In Progress
+ACT-00710,VULN-00383,User Training,Heidi Matthews,Low,2026-03-13,2026-04-12,\N,In Progress
+ACT-00711,VULN-02630,Patching,Jennifer White,High,2025-05-29,2025-06-28,2025-06-03,In Progress
+ACT-00712,VULN-00016,Software Update,Nicholas Stanley,Low,2025-12-05,2026-01-04,2025-12-11,Completed
+ACT-00713,VULN-00555,Patching,Mercedes Miller,Medium,2025-07-29,2025-08-28,2025-08-12,Completed
+ACT-00714,VULN-01726,User Training,Brian Brown,Low,2025-12-17,2026-01-16,2026-01-03,Completed
+ACT-00715,VULN-00104,Patching,Kimberly Johnson,Immediate,2026-04-16,2026-05-16,\N,Completed
+ACT-00716,VULN-00646,User Training,Phillip Miller,High,2026-03-24,2026-04-23,\N,In Progress
+ACT-00717,VULN-01357,Network Segregation,Christopher Pena,Low,2026-01-30,2026-03-01,2026-02-17,Completed
+ACT-00718,VULN-01859,User Training,Ellen Wright,Low,2026-03-27,2026-04-26,2026-04-16,Completed
+ACT-00719,VULN-02820,Config Change,Mark Anderson,High,2026-02-05,2026-03-07,2026-02-15,Completed
+ACT-00720,VULN-02744,Patching,Alyssa Alvarado,Medium,2025-12-25,2026-01-24,\N,Completed
+ACT-00721,VULN-00731,Software Update,Erika Alvarez,Low,2025-06-30,2025-07-30,\N,Completed
+ACT-00722,VULN-01230,Config Change,Kimberly Nelson,Immediate,2025-05-06,2025-06-05,2025-05-13,Completed
+ACT-00723,VULN-01806,Network Segregation,Wayne Wolfe,Medium,2025-07-29,2025-08-28,\N,Completed
+ACT-00724,VULN-02436,Network Segregation,Kyle Welch,High,2025-12-06,2026-01-05,2025-12-24,Completed
+ACT-00725,VULN-01643,Network Segregation,Kristy Mills,High,2025-06-23,2025-07-23,2025-06-29,Completed
+ACT-00726,VULN-01623,Config Change,Emily Reed,Immediate,2026-01-10,2026-02-09,2026-01-18,Completed
+ACT-00727,VULN-00620,Config Change,Regina Ramos,Medium,2025-09-25,2025-10-25,2025-10-13,In Progress
+ACT-00728,VULN-00674,Config Change,David Torres,High,2025-07-28,2025-08-27,2025-08-11,Completed
+ACT-00729,VULN-00926,Network Segregation,Robert Charles,High,2026-02-22,2026-03-24,2026-03-06,Completed
+ACT-00730,VULN-02239,Network Segregation,John Smith,Low,2026-01-17,2026-02-16,2026-01-22,Completed
+ACT-00731,VULN-00757,User Training,Theresa Woods,High,2025-10-04,2025-11-03,2025-10-13,Completed
+ACT-00732,VULN-02827,Config Change,Jeffrey Carter,Immediate,2026-01-08,2026-02-07,2026-01-24,Completed
+ACT-00733,VULN-02195,Config Change,Adam Brooks,Medium,2025-05-08,2025-06-07,2025-05-13,Completed
+ACT-00734,VULN-00972,Config Change,Justin Foster,Medium,2026-02-05,2026-03-07,\N,Completed
+ACT-00735,VULN-00090,User Training,Omar Price,Medium,2025-05-26,2025-06-25,2025-06-06,Completed
+ACT-00736,VULN-00017,Software Update,Dennis Henderson,Low,2025-09-30,2025-10-30,2025-10-08,Completed
+ACT-00737,VULN-00476,Patching,Phillip Kent,Immediate,2026-02-01,2026-03-03,2026-02-11,Completed
+ACT-00738,VULN-02647,User Training,Melinda Mitchell,Low,2025-10-31,2025-11-30,2025-11-03,Completed
+ACT-00739,VULN-02230,Config Change,Rhonda Gutierrez,Low,2025-10-14,2025-11-13,2025-10-29,Completed
+ACT-00740,VULN-01096,Software Update,Catherine Roberts,Immediate,2025-07-31,2025-08-30,2025-08-13,Completed
+ACT-00741,VULN-02472,Network Segregation,Lisa Nelson,Low,2025-06-19,2025-07-19,2025-06-28,Completed
+ACT-00742,VULN-00314,Patching,Chelsea Smith,High,2025-07-18,2025-08-17,2025-08-07,Completed
+ACT-00743,VULN-01253,Network Segregation,Joseph Lopez,Low,2025-11-20,2025-12-20,\N,Completed
+ACT-00744,VULN-00551,Config Change,Derrick Espinoza,Medium,2025-08-26,2025-09-25,2025-09-01,Completed
+ACT-00745,VULN-02871,Config Change,Crystal Hernandez,Low,2025-07-30,2025-08-29,2025-08-08,Completed
+ACT-00746,VULN-01269,Software Update,Glenn Collins DDS,Medium,2025-11-30,2025-12-30,2025-12-18,In Progress
+ACT-00747,VULN-00013,Config Change,Mrs. Raven Rivera DVM,Immediate,2026-03-28,2026-04-27,2026-04-05,Completed
+ACT-00748,VULN-02293,Patching,Amy Rowe,Low,2025-07-28,2025-08-27,\N,Completed
+ACT-00749,VULN-00377,Software Update,John Lee,Immediate,2025-11-13,2025-12-13,2025-11-27,Completed
+ACT-00750,VULN-00521,Software Update,Ruth Clayton,Immediate,2026-03-27,2026-04-26,2026-03-29,Completed
+ACT-00751,VULN-02587,Network Segregation,Randy Wright,Medium,2025-07-17,2025-08-16,2025-07-24,In Progress
+ACT-00752,VULN-01785,Patching,Jessica Rojas,High,2026-03-19,2026-04-18,2026-04-03,Completed
+ACT-00753,VULN-02298,Network Segregation,Joel Wise,Immediate,2026-02-06,2026-03-08,2026-02-23,Completed
+ACT-00754,VULN-02486,Network Segregation,Vickie Kennedy,Medium,2025-12-31,2026-01-30,2026-01-20,Completed
+ACT-00755,VULN-00196,Network Segregation,Emily Morris,Medium,2026-03-27,2026-04-26,2026-04-08,Completed
+ACT-00756,VULN-02273,Patching,Amanda Pineda,Medium,2025-06-22,2025-07-22,2025-07-04,Completed
+ACT-00757,VULN-01050,Software Update,Dawn Little,Immediate,2026-02-25,2026-03-27,2026-03-02,Completed
+ACT-00758,VULN-00720,Patching,Stephen Boyer,High,2025-08-12,2025-09-11,2025-08-22,Completed
+ACT-00759,VULN-00841,User Training,Brian Chen,High,2025-10-06,2025-11-05,2025-10-11,In Progress
+ACT-00760,VULN-01018,Software Update,Christopher Hill,High,2026-01-22,2026-02-21,2026-02-08,In Progress
+ACT-00761,VULN-00580,Patching,Richard Smith,High,2025-08-15,2025-09-14,\N,Completed
+ACT-00762,VULN-00026,User Training,Richard Alvarez,Medium,2025-11-21,2025-12-21,2025-12-07,In Progress
+ACT-00763,VULN-02665,Config Change,Jacqueline Davis,Low,2025-06-28,2025-07-28,2025-06-30,Completed
+ACT-00764,VULN-01739,Config Change,Brandon Montgomery,Immediate,2025-12-17,2026-01-16,2026-01-01,Completed
+ACT-00765,VULN-01521,Patching,Yolanda Garrett,High,2025-11-12,2025-12-12,2025-11-22,Completed
+ACT-00766,VULN-00291,Patching,Matthew Miles,High,2025-07-22,2025-08-21,2025-07-28,Completed
+ACT-00767,VULN-00143,Config Change,Beth Hall,High,2025-07-09,2025-08-08,2025-07-10,Completed
+ACT-00768,VULN-01191,Software Update,Dr. Nicole Trujillo,Medium,2026-01-24,2026-02-23,\N,Completed
+ACT-00769,VULN-02332,Patching,Corey Norris,Medium,2025-12-01,2025-12-31,2025-12-19,Completed
+ACT-00770,VULN-00582,Software Update,Chad Roach,Medium,2026-04-02,2026-05-02,2026-04-18,In Progress
+ACT-00771,VULN-02651,Network Segregation,Mr. Edward Terry,Medium,2025-12-17,2026-01-16,\N,Completed
+ACT-00772,VULN-01074,User Training,Cody Bailey,Medium,2026-03-29,2026-04-28,2026-04-03,In Progress
+ACT-00773,VULN-01945,Patching,Denise Guerra,High,2025-04-26,2025-05-26,2025-04-29,Completed
+ACT-00774,VULN-01685,Software Update,Kristen Jones,Medium,2025-09-13,2025-10-13,2025-09-22,Completed
+ACT-00775,VULN-01791,Network Segregation,Edward Baker,High,2026-02-26,2026-03-28,2026-03-18,Completed
+ACT-00776,VULN-01914,Config Change,Aaron Little,Low,2025-07-11,2025-08-10,2025-07-14,Completed
+ACT-00777,VULN-02540,Config Change,Cody Smith,Immediate,2025-09-25,2025-10-25,2025-09-29,Completed
+ACT-00778,VULN-02152,Patching,Patty Allen,High,2025-08-20,2025-09-19,\N,Completed
+ACT-00779,VULN-01543,Patching,Mary Ryan,High,2025-08-19,2025-09-18,2025-09-06,Completed
+ACT-00780,VULN-02873,Software Update,Joseph Jimenez,Immediate,2025-10-06,2025-11-05,2025-10-24,Completed
+ACT-00781,VULN-01310,Config Change,Lisa Morris,High,2025-07-29,2025-08-28,\N,Completed
+ACT-00782,VULN-00912,Patching,Ashley Mills,High,2025-10-22,2025-11-21,\N,Completed
+ACT-00783,VULN-01151,Software Update,Russell Anderson,High,2025-05-24,2025-06-23,\N,Completed
+ACT-00784,VULN-00686,Network Segregation,Christina Washington,Low,2025-05-31,2025-06-30,\N,Completed
+ACT-00785,VULN-00803,Patching,Kenneth Huff,Immediate,2025-10-24,2025-11-23,2025-11-09,Completed
+ACT-00786,VULN-02985,Patching,Kelly Miles,Immediate,2025-11-07,2025-12-07,2025-11-26,Completed
+ACT-00787,VULN-01868,Patching,Jacob Obrien,Medium,2025-08-05,2025-09-04,2025-08-15,In Progress
+ACT-00788,VULN-00594,Config Change,Timothy Clark,Immediate,2025-09-01,2025-10-01,2025-09-08,Completed
+ACT-00789,VULN-00948,Software Update,Steve Miller PhD,Medium,2025-12-15,2026-01-14,2025-12-24,Completed
+ACT-00790,VULN-02318,Software Update,Justin Hurley,Low,2025-12-14,2026-01-13,2025-12-23,Completed
+ACT-00791,VULN-00957,User Training,Jacob Erickson,High,2025-05-21,2025-06-20,2025-06-05,Completed
+ACT-00792,VULN-02543,Config Change,Deborah Williams,Immediate,2025-07-05,2025-08-04,2025-07-10,Completed
+ACT-00793,VULN-02380,Network Segregation,Eric Blackburn,Immediate,2025-05-19,2025-06-18,2025-05-23,Completed
+ACT-00794,VULN-01036,Patching,Anne Hardy,Immediate,2025-07-06,2025-08-05,2025-07-09,Completed
+ACT-00795,VULN-00789,Config Change,Chelsey Fox,Low,2025-10-20,2025-11-19,2025-10-21,Completed
+ACT-00796,VULN-02955,Network Segregation,Mario White,Immediate,2025-11-05,2025-12-05,\N,Completed
+ACT-00797,VULN-00860,Software Update,Jennifer Garcia,Low,2025-07-23,2025-08-22,2025-08-05,Completed
+ACT-00798,VULN-01588,Config Change,Heather Ellis,Low,2026-03-13,2026-04-12,\N,Completed
+ACT-00799,VULN-01571,Patching,Sonya Jackson,Immediate,2025-04-23,2025-05-23,2025-05-10,Completed
+ACT-00800,VULN-01856,Patching,James Morgan,Low,2026-01-29,2026-02-28,\N,In Progress
+ACT-00801,VULN-02146,Patching,Zachary Ramos,Low,2025-10-11,2025-11-10,2025-10-18,Completed
+ACT-00802,VULN-00232,User Training,Ethan Frey,High,2026-02-15,2026-03-17,2026-02-25,Completed
+ACT-00803,VULN-01168,User Training,Jacob Duran,Immediate,2025-08-23,2025-09-22,2025-09-07,Completed
+ACT-00804,VULN-01148,User Training,Nicholas Franklin,High,2025-10-08,2025-11-07,2025-10-25,Completed
+ACT-00805,VULN-00815,User Training,Cindy Cannon,Medium,2025-05-29,2025-06-28,2025-06-07,In Progress
+ACT-00806,VULN-02855,Software Update,Dawn Nixon,Low,2025-08-20,2025-09-19,2025-08-24,Completed
+ACT-00807,VULN-00893,Config Change,James Barber,High,2025-08-24,2025-09-23,2025-09-10,Completed
+ACT-00808,VULN-02631,Network Segregation,Ms. Kelly Holder,High,2026-02-12,2026-03-14,2026-03-02,Completed
+ACT-00809,VULN-00903,Config Change,Eric Walker,Immediate,2026-02-09,2026-03-11,\N,Completed
+ACT-00810,VULN-00126,Network Segregation,Alison Short,Medium,2026-02-11,2026-03-13,2026-02-20,Completed
+ACT-00811,VULN-01974,Network Segregation,Desiree Spencer,Low,2025-08-13,2025-09-12,2025-08-30,Completed
+ACT-00812,VULN-01958,Network Segregation,Tammy Moore,Immediate,2026-02-15,2026-03-17,\N,Completed
+ACT-00813,VULN-02467,User Training,Henry Taylor,Medium,2026-02-07,2026-03-09,2026-02-22,Completed
+ACT-00814,VULN-02561,Patching,Kevin Hall,Immediate,2025-06-06,2025-07-06,2025-06-19,Completed
+ACT-00815,VULN-00122,Patching,Anna Ross,Immediate,2025-07-10,2025-08-09,2025-07-27,Completed
+ACT-00816,VULN-02091,Network Segregation,Morgan Cummings,High,2025-05-28,2025-06-27,2025-06-09,Completed
+ACT-00817,VULN-01392,Patching,Carrie Petersen,Immediate,2025-10-16,2025-11-15,2025-10-29,Completed
+ACT-00818,VULN-00676,Network Segregation,Laura Velez,Immediate,2025-05-28,2025-06-27,2025-06-07,Completed
+ACT-00819,VULN-00831,Software Update,Elizabeth Cross,High,2025-06-06,2025-07-06,2025-06-09,Completed
+ACT-00820,VULN-01462,User Training,Angela Brown,Medium,2025-09-23,2025-10-23,2025-10-04,Completed
+ACT-00821,VULN-02013,Network Segregation,Hannah Montoya,High,2026-02-20,2026-03-22,2026-02-26,Completed
+ACT-00822,VULN-00758,Network Segregation,Sean Kane,Immediate,2025-10-05,2025-11-04,2025-10-21,Completed
+ACT-00823,VULN-00044,User Training,Matthew Guzman,Medium,2025-09-28,2025-10-28,2025-10-08,Completed
+ACT-00824,VULN-00777,Network Segregation,Richard Reyes,Low,2026-03-03,2026-04-02,\N,Completed
+ACT-00825,VULN-02422,Patching,Andrew Fernandez,Low,2025-06-13,2025-07-13,2025-06-16,In Progress
+ACT-00826,VULN-01745,Config Change,Jonathan Walker,Low,2025-05-01,2025-05-31,2025-05-06,Completed
+ACT-00827,VULN-01345,Patching,Nicholas Long,Low,2026-01-14,2026-02-13,2026-01-19,Completed
+ACT-00828,VULN-01712,Config Change,Kurt Wagner,Medium,2025-10-28,2025-11-27,2025-11-14,Completed
+ACT-00829,VULN-01511,Network Segregation,Dylan Foster,Immediate,2026-01-26,2026-02-25,2026-02-06,Completed
+ACT-00830,VULN-00310,Software Update,Bradley Duncan,Immediate,2026-03-17,2026-04-16,2026-03-18,Completed
+ACT-00831,VULN-00097,Software Update,James Miller,Immediate,2025-06-20,2025-07-20,\N,Completed
+ACT-00832,VULN-00354,Config Change,Patricia Anderson,Medium,2025-05-30,2025-06-29,2025-05-31,Completed
+ACT-00833,VULN-00039,Config Change,Justin Freeman,Low,2025-04-22,2025-05-22,2025-05-01,In Progress
+ACT-00834,VULN-01692,Network Segregation,Christina Gilbert,Medium,2025-09-05,2025-10-05,2025-09-11,Completed
+ACT-00835,VULN-00695,Config Change,Danielle Jones,Medium,2025-04-16,2025-05-16,2025-04-26,Completed
+ACT-00836,VULN-02279,Software Update,Erica Glass,Medium,2025-11-03,2025-12-03,2025-11-17,Completed
+ACT-00837,VULN-02374,Network Segregation,Michael Henderson,High,2025-05-29,2025-06-28,2025-06-10,In Progress
+ACT-00838,VULN-01801,Patching,Frank Wheeler,Low,2025-10-09,2025-11-08,2025-10-10,Completed
+ACT-00839,VULN-00279,Config Change,Eric Huerta,Medium,2025-07-03,2025-08-02,2025-07-18,Completed
+ACT-00840,VULN-00823,Software Update,Wanda Ramos,High,2025-10-15,2025-11-14,2025-10-26,Completed
+ACT-00841,VULN-02460,Software Update,Andrew Meyers,High,2025-09-06,2025-10-06,2025-09-13,Completed
+ACT-00842,VULN-00054,Network Segregation,James Todd,Immediate,2025-05-27,2025-06-26,2025-06-16,Completed
+ACT-00843,VULN-01790,Patching,Ashley Brown,Low,2026-03-10,2026-04-09,\N,Completed
+ACT-00844,VULN-00817,Software Update,Tammy Melton,Medium,2025-09-28,2025-10-28,2025-10-03,Completed
+ACT-00845,VULN-02597,Config Change,Alexis Benson,Immediate,2026-01-21,2026-02-20,2026-01-24,Completed
+ACT-00846,VULN-01836,Software Update,Jerry Johnson,Medium,2025-06-13,2025-07-13,\N,Completed
+ACT-00847,VULN-02954,Config Change,Joshua Harris,Medium,2026-01-07,2026-02-06,2026-01-13,Completed
+ACT-00848,VULN-02580,Config Change,Deanna Webb,Low,2026-04-16,2026-05-16,\N,Completed
+ACT-00849,VULN-01220,Network Segregation,Brenda Hale,Low,2025-05-28,2025-06-27,2025-06-09,Completed
+ACT-00850,VULN-02155,Config Change,Kevin Alvarado,Low,2025-11-23,2025-12-23,2025-11-25,Completed
+ACT-00851,VULN-02037,Patching,Christopher Campbell,Immediate,2025-08-18,2025-09-17,2025-09-03,Completed
+ACT-00852,VULN-01501,Network Segregation,Lisa Brown,Immediate,2026-03-13,2026-04-12,2026-03-30,Completed
+ACT-00853,VULN-02043,Patching,Alejandra Price,Immediate,2025-06-18,2025-07-18,2025-06-27,Completed
+ACT-00854,VULN-02819,Patching,Samuel Keller,Immediate,2026-02-21,2026-03-23,2026-03-07,Completed
+ACT-00855,VULN-00397,Patching,Alicia Dillon,Immediate,2025-09-16,2025-10-16,2025-09-29,Completed
+ACT-00856,VULN-00994,Software Update,Crystal James,Low,2026-02-03,2026-03-05,2026-02-05,Completed
+ACT-00857,VULN-01970,Config Change,Ariana Stewart,Medium,2026-04-05,2026-05-05,2026-04-21,In Progress
+ACT-00858,VULN-02518,User Training,Kim Lopez,Low,2025-10-10,2025-11-09,2025-10-26,In Progress
+ACT-00859,VULN-00128,Patching,Judith House,High,2025-05-11,2025-06-10,2025-05-29,In Progress
+ACT-00860,VULN-02502,Patching,David Moreno,Immediate,2026-04-01,2026-05-01,2026-04-07,In Progress
+ACT-00861,VULN-01491,Network Segregation,James Moore,Immediate,2025-12-05,2026-01-04,2025-12-18,Completed
+ACT-00862,VULN-01778,Config Change,Harold Garrett,Low,2026-02-25,2026-03-27,2026-02-26,Completed
+ACT-00863,VULN-02448,Config Change,William Mason,Medium,2026-01-02,2026-02-01,2026-01-20,Completed
+ACT-00864,VULN-02187,Config Change,Lori Johns,Immediate,2025-10-24,2025-11-23,2025-11-10,In Progress
+ACT-00865,VULN-00317,Network Segregation,Robin Johnson,Immediate,2025-10-21,2025-11-20,2025-10-28,Completed
+ACT-00866,VULN-00882,Patching,Diana Hernandez,High,2025-06-08,2025-07-08,2025-06-23,Completed
+ACT-00867,VULN-00940,Network Segregation,Mary Miller,Low,2026-02-23,2026-03-25,2026-03-12,Completed
+ACT-00868,VULN-00200,Patching,Tyler Salazar,Low,2026-02-09,2026-03-11,2026-02-15,Completed
+ACT-00869,VULN-01164,Software Update,Crystal Allen,High,2025-08-27,2025-09-26,2025-09-15,Completed
+ACT-00870,VULN-01153,Network Segregation,Wesley Browning,Medium,2025-07-12,2025-08-11,2025-07-26,Completed
+ACT-00871,VULN-01275,Network Segregation,Joshua Clark,Medium,2025-12-09,2026-01-08,\N,Completed
+ACT-00872,VULN-00797,User Training,Joshua Mcbride,Low,2025-12-18,2026-01-17,2025-12-27,In Progress
+ACT-00873,VULN-00100,User Training,Ellen Thornton,Medium,2025-07-09,2025-08-08,\N,Completed
+ACT-00874,VULN-01506,Patching,Brandy Forbes,Low,2025-10-31,2025-11-30,2025-11-17,Completed
+ACT-00875,VULN-00879,User Training,Brianna Fitzpatrick,Immediate,2026-03-31,2026-04-30,2026-04-19,Completed
+ACT-00876,VULN-00932,User Training,Emily Grant,High,2025-07-31,2025-08-30,2025-08-10,In Progress
+ACT-00877,VULN-01268,Network Segregation,Bailey Stewart,High,2026-03-19,2026-04-18,\N,In Progress
+ACT-00878,VULN-02884,User Training,Monica Cannon,High,2025-05-17,2025-06-16,2025-05-26,Completed
+ACT-00879,VULN-00129,Config Change,Jennifer Jenkins,Immediate,2025-07-16,2025-08-15,2025-07-24,Completed
+ACT-00880,VULN-01011,User Training,Timothy Shannon,Immediate,2025-07-24,2025-08-23,2025-08-08,Completed
+ACT-00881,VULN-02473,Software Update,Denise Maxwell,Medium,2025-05-15,2025-06-14,\N,In Progress
+ACT-00882,VULN-01866,Network Segregation,Cody Farmer,Medium,2025-09-24,2025-10-24,\N,Completed
+ACT-00883,VULN-01406,Network Segregation,Debra Bradley,Immediate,2026-01-02,2026-02-01,\N,Completed
+ACT-00884,VULN-02621,Network Segregation,David Mcdaniel,High,2025-07-09,2025-08-08,\N,Completed
+ACT-00885,VULN-00321,User Training,Michael Woods,High,2026-01-22,2026-02-21,\N,Completed
+ACT-00886,VULN-01749,Software Update,Lisa Joseph,High,2025-06-09,2025-07-09,2025-06-15,Completed
+ACT-00887,VULN-00110,Config Change,Samuel Henry,High,2025-06-22,2025-07-22,2025-07-08,Completed
+ACT-00888,VULN-01003,Config Change,Corey Johnson,High,2025-06-04,2025-07-04,2025-06-06,Completed
+ACT-00889,VULN-02941,Software Update,Alexis Nelson,Medium,2025-11-06,2025-12-06,\N,Completed
+ACT-00890,VULN-01756,Network Segregation,Patrick Mcneil,Immediate,2025-06-23,2025-07-23,2025-06-30,In Progress
+ACT-00891,VULN-02368,Software Update,Andrea Ho,High,2025-12-07,2026-01-06,2025-12-11,Completed
+ACT-00892,VULN-02487,User Training,Dr. Katherine Nguyen,Low,2025-08-24,2025-09-23,2025-08-29,Completed
+ACT-00893,VULN-00075,Network Segregation,David Sullivan,High,2026-03-16,2026-04-15,2026-03-25,Completed
+ACT-00894,VULN-01389,Network Segregation,Nicolas James,Low,2026-02-28,2026-03-30,2026-03-04,Completed
+ACT-00895,VULN-00087,User Training,Logan Newton,Medium,2026-03-14,2026-04-13,2026-03-27,Completed
+ACT-00896,VULN-02648,Patching,Kelly Liu,Medium,2025-12-05,2026-01-04,2025-12-10,Completed
+ACT-00897,VULN-01135,Software Update,Kelly Hayes,High,2025-05-20,2025-06-19,2025-06-04,In Progress
+ACT-00898,VULN-00012,Network Segregation,Amanda Forbes,High,2026-01-29,2026-02-28,2026-02-03,Completed
+ACT-00899,VULN-02086,Software Update,Jennifer Moss,Medium,2025-06-19,2025-07-19,2025-07-03,Completed
+ACT-00900,VULN-01658,Software Update,Kelli Mccoy,High,2025-12-20,2026-01-19,2026-01-06,Completed
+ACT-00901,VULN-00685,Network Segregation,Eddie Sanders,Low,2025-11-01,2025-12-01,2025-11-21,Completed
+ACT-00902,VULN-00465,Config Change,Ronald Murray,Immediate,2025-08-20,2025-09-19,2025-08-27,In Progress
+ACT-00903,VULN-01014,Software Update,Louis Brown,Medium,2025-06-21,2025-07-21,2025-06-25,Completed
+ACT-00904,VULN-00606,User Training,Brenda Gallegos,Immediate,2026-03-20,2026-04-19,2026-04-01,Completed
+ACT-00905,VULN-00784,Patching,Nathan Wilson,Low,2025-07-03,2025-08-02,2025-07-14,Completed
+ACT-00906,VULN-00578,Patching,Teresa Horton,Low,2025-06-08,2025-07-08,2025-06-21,Completed
+ACT-00907,VULN-02264,Network Segregation,Jason Hayes,Low,2025-05-18,2025-06-17,\N,Completed
+ACT-00908,VULN-00975,Software Update,Kevin Marquez,Low,2025-08-06,2025-09-05,2025-08-25,Completed
+ACT-00909,VULN-00721,Patching,Jesse Wright,Immediate,2025-10-31,2025-11-30,2025-11-20,Completed
+ACT-00910,VULN-02262,Network Segregation,Susan Hogan,Low,2025-09-20,2025-10-20,\N,In Progress
+ACT-00911,VULN-00588,Network Segregation,Becky Wilson,High,2025-09-03,2025-10-03,2025-09-22,Completed
+ACT-00912,VULN-02790,Network Segregation,Jack Mills,High,2025-12-29,2026-01-28,2026-01-17,Completed
+ACT-00913,VULN-00485,User Training,Richard Hunt,Immediate,2025-11-12,2025-12-12,2025-12-02,Completed
+ACT-00914,VULN-01312,Network Segregation,Jamie James,Medium,2026-02-19,2026-03-21,2026-03-01,Completed
+ACT-00915,VULN-01034,Patching,Susan Cunningham,Low,2026-04-18,2026-05-18,\N,Completed
+ACT-00916,VULN-01071,Config Change,Brittany Melton,Immediate,2025-10-01,2025-10-31,\N,In Progress
+ACT-00917,VULN-02097,Network Segregation,Michael Barnes,Low,2026-02-09,2026-03-11,2026-02-16,Completed
+ACT-00918,VULN-01546,Network Segregation,Randy Griffin,Low,2026-01-15,2026-02-14,2026-01-27,Completed
+ACT-00919,VULN-01162,Config Change,Autumn Anderson,Medium,2025-11-17,2025-12-17,2025-11-23,Completed
+ACT-00920,VULN-00225,Software Update,Marcus King,Immediate,2025-12-12,2026-01-11,2025-12-19,Completed
+ACT-00921,VULN-01115,Patching,Scott Stephens,Immediate,2025-10-24,2025-11-23,2025-11-12,Completed
+ACT-00922,VULN-01951,Network Segregation,Stephen Young,Immediate,2025-09-30,2025-10-30,2025-10-14,Completed
+ACT-00923,VULN-00213,User Training,Karen Ortiz,Medium,2025-10-28,2025-11-27,2025-11-11,Completed
+ACT-00924,VULN-00398,Config Change,Kyle Sanchez,Low,2025-07-31,2025-08-30,2025-08-19,Completed
+ACT-00925,VULN-01903,Network Segregation,Lisa Grant,Low,2025-07-21,2025-08-20,2025-07-24,Completed
+ACT-00926,VULN-01430,Software Update,Amber Hernandez,High,2025-07-01,2025-07-31,2025-07-02,Completed
+ACT-00927,VULN-00229,Software Update,Amanda Nash,Immediate,2026-02-08,2026-03-10,\N,Completed
+ACT-00928,VULN-01238,User Training,Sara Evans,Low,2025-09-21,2025-10-21,2025-09-29,Completed
+ACT-00929,VULN-02686,Network Segregation,Amber Butler,High,2025-07-25,2025-08-24,2025-08-03,Completed
+ACT-00930,VULN-00786,Software Update,Michael Carr,Immediate,2025-04-29,2025-05-29,2025-05-14,Completed
+ACT-00931,VULN-01591,Software Update,Linda Cobb,Immediate,2026-01-04,2026-02-03,2026-01-09,Completed
+ACT-00932,VULN-02172,Software Update,Jesse Riley,High,2025-12-09,2026-01-08,2025-12-12,Completed
+ACT-00933,VULN-00269,Network Segregation,Anna Evans,Immediate,2025-11-08,2025-12-08,2025-11-23,Completed
+ACT-00934,VULN-00107,Config Change,James Jones,Low,2025-05-17,2025-06-16,2025-06-03,Completed
+ACT-00935,VULN-02835,Software Update,Joshua Carter,Low,2025-12-24,2026-01-23,2025-12-26,Completed
+ACT-00936,VULN-00380,Network Segregation,Michael Hill,High,2025-05-26,2025-06-25,2025-05-28,In Progress
+ACT-00937,VULN-00675,Software Update,Kelly Dominguez,Low,2025-05-01,2025-05-31,2025-05-03,Completed
+ACT-00938,VULN-02557,Config Change,Ashley Blair,Medium,2026-01-18,2026-02-17,2026-01-27,Completed
+ACT-00939,VULN-02988,Network Segregation,Victoria Webb,Medium,2026-03-12,2026-04-11,\N,In Progress
+ACT-00940,VULN-00820,Network Segregation,Taylor Andersen,Immediate,2026-02-22,2026-03-24,2026-03-06,Completed
+ACT-00941,VULN-01193,Software Update,Lee Stewart,Immediate,2026-02-05,2026-03-07,2026-02-06,Completed
+ACT-00942,VULN-00920,User Training,Whitney Gomez,Low,2026-03-09,2026-04-08,2026-03-29,Completed
+ACT-00943,VULN-00154,Config Change,Justin Stone,Low,2025-07-24,2025-08-23,2025-07-26,Completed
+ACT-00944,VULN-02365,Software Update,Katherine White,Immediate,2025-12-28,2026-01-27,2026-01-11,Completed
+ACT-00945,VULN-02260,Config Change,Michelle Krause,High,2025-10-05,2025-11-04,\N,Completed
+ACT-00946,VULN-00891,Network Segregation,Alexander Garrett,Medium,2025-09-25,2025-10-25,2025-10-14,Completed
+ACT-00947,VULN-00422,Patching,Ryan Marsh,Immediate,2025-08-18,2025-09-17,\N,Completed
+ACT-00948,VULN-01906,Software Update,Mrs. Felicia Castro DDS,High,2025-11-21,2025-12-21,2025-12-02,Completed
+ACT-00949,VULN-01706,Network Segregation,Curtis Campbell,Immediate,2026-02-16,2026-03-18,\N,Completed
+ACT-00950,VULN-02764,Patching,Elizabeth Hunter,Immediate,2025-09-15,2025-10-15,\N,Completed
+ACT-00951,VULN-00759,Software Update,Aaron Jennings,Immediate,2026-01-06,2026-02-05,\N,Completed
+ACT-00952,VULN-02847,Config Change,Nathaniel Gilbert,Medium,2025-10-05,2025-11-04,2025-10-08,Completed
+ACT-00953,VULN-00123,Patching,Christopher Rivera,Medium,2026-01-06,2026-02-05,2026-01-24,Completed
+ACT-00954,VULN-00529,User Training,Michael Hendricks,Immediate,2025-07-06,2025-08-05,\N,Completed
+ACT-00955,VULN-01853,User Training,Maria Olson,Medium,2025-11-13,2025-12-13,\N,In Progress
+ACT-00956,VULN-00460,Software Update,Stephanie Herrera,Low,2026-04-18,2026-05-18,2026-04-26,In Progress
+ACT-00957,VULN-02408,Patching,Richard Gutierrez,Low,2025-05-14,2025-06-13,\N,In Progress
+ACT-00958,VULN-00954,Config Change,Sandy Evans,High,2025-11-23,2025-12-23,2025-12-13,Completed
+ACT-00959,VULN-00434,Patching,Emily Herrera,Low,2025-05-21,2025-06-20,2025-06-02,Completed
+ACT-00960,VULN-02562,Patching,Michael Marsh,High,2025-08-08,2025-09-07,2025-08-22,Completed
+ACT-00961,VULN-02216,Config Change,Heather Montes,Medium,2025-07-15,2025-08-14,2025-07-18,In Progress
+ACT-00962,VULN-02728,Software Update,Andre Terrell,Medium,2025-05-04,2025-06-03,\N,In Progress
+ACT-00963,VULN-00974,Patching,Sarah Duncan,Low,2025-09-11,2025-10-11,2025-09-27,Completed
+ACT-00964,VULN-00468,Config Change,Kurt Hancock,Low,2025-09-18,2025-10-18,2025-10-01,In Progress
+ACT-00965,VULN-01578,Patching,Michele Edwards,High,2025-05-18,2025-06-17,2025-05-22,Completed
+ACT-00966,VULN-01053,Config Change,Jason Crawford,Immediate,2025-11-22,2025-12-22,2025-11-24,Completed
+ACT-00967,VULN-01992,Network Segregation,Jesse Sampson,Medium,2025-08-21,2025-09-20,2025-08-24,In Progress
+ACT-00968,VULN-02870,Software Update,Eric Rodriguez,Low,2026-02-10,2026-03-12,\N,Completed
+ACT-00969,VULN-00076,Patching,Paula Gentry,High,2025-09-07,2025-10-07,2025-09-10,Completed
+ACT-00970,VULN-02255,Software Update,Alexander Webb,High,2025-05-21,2025-06-20,\N,In Progress
+ACT-00971,VULN-02908,Software Update,Cheryl Mclean,Low,2026-04-13,2026-05-13,2026-05-02,Completed
+ACT-00972,VULN-00840,Config Change,Kelly Rowe,High,2026-03-28,2026-04-27,\N,Completed
+ACT-00973,VULN-00429,Network Segregation,Shane Short,Immediate,2026-03-15,2026-04-14,2026-04-04,Completed
+ACT-00974,VULN-02022,Software Update,Megan Anderson,Low,2026-01-23,2026-02-22,2026-01-27,In Progress
+ACT-00975,VULN-00004,Patching,Julia Reeves,Medium,2026-01-30,2026-03-01,\N,In Progress
+ACT-00976,VULN-02053,Network Segregation,April Randolph,Immediate,2025-05-23,2025-06-22,2025-05-30,Completed
+ACT-00977,VULN-00209,Software Update,Linda Miller,Immediate,2026-01-23,2026-02-22,2026-01-27,Completed
+ACT-00978,VULN-02404,Software Update,Angel Meyer,Immediate,2026-02-19,2026-03-21,2026-02-21,Completed
+ACT-00979,VULN-01794,Patching,Emily Lane,High,2025-05-21,2025-06-20,2025-05-30,Completed
+ACT-00980,VULN-01118,Software Update,Steven Flores,Medium,2025-06-27,2025-07-27,\N,Completed
+ACT-00981,VULN-01222,Software Update,Donald Flores,Immediate,2025-04-24,2025-05-24,2025-05-05,In Progress
+ACT-00982,VULN-02645,User Training,Bruce Hernandez,Low,2026-03-09,2026-04-08,2026-03-18,Completed
+ACT-00983,VULN-00567,User Training,Adrian Dean,Immediate,2026-01-13,2026-02-12,2026-01-31,In Progress
+ACT-00984,VULN-00249,User Training,Christine Bell,High,2025-05-10,2025-06-09,2025-05-13,Completed
+ACT-00985,VULN-02874,User Training,Charles Bush,Low,2025-07-10,2025-08-09,2025-07-30,Completed
+ACT-00986,VULN-02499,Config Change,David Jones,Medium,2026-02-12,2026-03-14,2026-02-26,Completed
+ACT-00987,VULN-00507,Network Segregation,Gina Wallace,Low,2025-11-11,2025-12-11,2025-11-21,Completed
+ACT-00988,VULN-00604,Config Change,John Lowe,Immediate,2026-04-16,2026-05-16,\N,Completed
+ACT-00989,VULN-01878,Config Change,Anthony Simmons,Low,2025-05-26,2025-06-25,\N,Completed
+ACT-00990,VULN-00763,User Training,Kyle Watkins,Immediate,2026-02-21,2026-03-23,\N,Completed
+ACT-00991,VULN-00498,Software Update,Melissa Jensen,Low,2025-06-19,2025-07-19,2025-06-24,In Progress
+ACT-00992,VULN-01516,Config Change,Robert Marquez,Low,2025-12-31,2026-01-30,2026-01-13,Completed
+ACT-00993,VULN-00617,Software Update,Kim Beltran,High,2025-08-25,2025-09-24,2025-09-14,Completed
+ACT-00994,VULN-00894,Network Segregation,Julie Anderson,Low,2025-11-16,2025-12-16,2025-12-06,In Progress
+ACT-00995,VULN-00183,Config Change,Tamara Mcdonald,Low,2025-09-14,2025-10-14,2025-09-27,Completed
+ACT-00996,VULN-01009,Config Change,Michael Mckinney,Immediate,2025-10-15,2025-11-14,2025-10-17,Completed
+ACT-00997,VULN-02154,Config Change,David Walker,Immediate,2026-04-19,2026-05-19,2026-04-24,In Progress
+ACT-00998,VULN-01797,Config Change,Lisa Durham,High,2025-04-22,2025-05-22,2025-05-01,Completed
+ACT-00999,VULN-00937,Patching,Michael Ortega,Medium,2025-08-27,2025-09-26,2025-08-29,Completed
+ACT-01000,VULN-01272,Software Update,Sonya Chavez,Low,2025-11-26,2025-12-26,2025-12-06,Completed
+ACT-01001,VULN-02609,Patching,John Bell,Medium,2026-03-04,2026-04-03,2026-03-16,In Progress
+ACT-01002,VULN-01120,User Training,Christopher Tate,High,2025-07-09,2025-08-08,2025-07-17,In Progress
+ACT-01003,VULN-02297,User Training,Bethany Garcia,Medium,2025-06-14,2025-07-14,2025-07-01,In Progress
+ACT-01004,VULN-01289,Config Change,Rebecca Nguyen,Medium,2025-05-19,2025-06-18,2025-06-08,Completed
+ACT-01005,VULN-01198,Patching,Rebecca Patel,Immediate,2026-03-06,2026-04-05,2026-03-10,Completed
+ACT-01006,VULN-00762,User Training,Jason Oliver,High,2025-10-20,2025-11-19,2025-10-29,Completed
+ACT-01007,VULN-00117,User Training,Valerie Reyes,Immediate,2025-07-31,2025-08-30,2025-08-03,Completed
+ACT-01008,VULN-01707,Config Change,Robert Garza,Medium,2026-02-02,2026-03-04,2026-02-19,Completed
+ACT-01009,VULN-01426,Network Segregation,Jessica Cobb,High,2025-11-13,2025-12-13,2025-11-28,Completed
+ACT-01010,VULN-01697,Patching,Cynthia Bates,Low,2025-04-25,2025-05-25,2025-04-29,In Progress
+ACT-01011,VULN-02250,Network Segregation,Timothy Andrews,Immediate,2025-10-11,2025-11-10,2025-10-18,Completed
+ACT-01012,VULN-02416,Network Segregation,Mr. Joel Peters,High,2026-01-22,2026-02-21,2026-02-10,In Progress
+ACT-01013,VULN-01554,Network Segregation,Casey Blanchard,Low,2025-12-28,2026-01-27,2026-01-09,Completed
+ACT-01014,VULN-00037,Network Segregation,Brian Cervantes,Low,2026-02-26,2026-03-28,2026-03-15,Completed
+ACT-01015,VULN-00320,Network Segregation,Jamie Snyder,High,2025-06-08,2025-07-08,2025-06-13,Completed
+ACT-01016,VULN-01690,Config Change,Ann Montoya,High,2025-09-15,2025-10-15,2025-10-03,Completed
+ACT-01017,VULN-02727,User Training,Stephanie Fields,Medium,2025-07-04,2025-08-03,2025-07-15,In Progress
+ACT-01018,VULN-02782,User Training,Charles Hernandez,Immediate,2026-03-03,2026-04-02,\N,Completed
+ACT-01019,VULN-02774,Config Change,Jean Lane,Immediate,2025-08-01,2025-08-31,2025-08-19,Completed
+ACT-01020,VULN-00793,User Training,Michael Stewart,High,2025-05-16,2025-06-15,2025-05-27,Completed
+ACT-01021,VULN-01205,Config Change,Susan Torres,Immediate,2025-04-25,2025-05-25,2025-05-11,Completed
+ACT-01022,VULN-01102,Network Segregation,Jessica Haas,Low,2025-05-22,2025-06-21,2025-06-05,Completed
+ACT-01023,VULN-01883,Network Segregation,Brandon Smith,Medium,2025-12-26,2026-01-25,2026-01-13,Completed
+ACT-01024,VULN-01700,Patching,Mrs. Bethany Phillips,High,2025-09-20,2025-10-20,\N,Completed
+ACT-01025,VULN-01309,Config Change,Joshua Brown,Low,2026-04-10,2026-05-10,2026-04-13,Completed
+ACT-01026,VULN-00345,Config Change,Samantha Howard,Low,2025-12-25,2026-01-24,\N,Completed
+ACT-01027,VULN-02159,User Training,Sharon Young,Immediate,2025-05-06,2025-06-05,2025-05-22,Completed
+ACT-01028,VULN-02793,Patching,Jennifer Flores,Immediate,2025-10-07,2025-11-06,2025-10-08,In Progress
+ACT-01029,VULN-02934,Config Change,James Gardner,Low,2025-05-21,2025-06-20,2025-06-02,Completed
+ACT-01030,VULN-00844,User Training,Karen Lopez,High,2026-01-23,2026-02-22,2026-02-02,Completed
+ACT-01031,VULN-00445,Patching,Tim Larsen,Immediate,2026-04-20,2026-05-20,2026-05-06,Completed
+ACT-01032,VULN-00574,User Training,Zachary Santiago,Low,2025-11-29,2025-12-29,\N,Completed
+ACT-01033,VULN-00009,Patching,Benjamin Smith,Immediate,2026-01-31,2026-03-02,\N,In Progress
+ACT-01034,VULN-00490,Config Change,Katelyn Kim,Medium,2026-04-14,2026-05-14,2026-04-24,Completed
+ACT-01035,VULN-02921,User Training,Angela May MD,Low,2026-02-18,2026-03-20,2026-03-08,Completed
+ACT-01036,VULN-00091,Patching,Richard Munoz,Low,2025-09-14,2025-10-14,2025-10-01,In Progress
+ACT-01037,VULN-01094,User Training,Christopher Hicks,High,2026-01-25,2026-02-24,2026-01-29,Completed
+ACT-01038,VULN-00858,Config Change,Joanna Kelly,High,2025-07-28,2025-08-27,2025-08-11,Completed
+ACT-01039,VULN-02655,Config Change,Larry Lane,Immediate,2026-01-20,2026-02-19,\N,In Progress
+ACT-01040,VULN-01161,User Training,Cynthia Shaw,Immediate,2025-10-20,2025-11-19,2025-10-31,Completed
+ACT-01041,VULN-02551,Config Change,Joshua Richardson,Immediate,2025-10-21,2025-11-20,2025-11-05,Completed
+ACT-01042,VULN-01769,Network Segregation,Laura Bush,Low,2025-07-28,2025-08-27,2025-08-04,Completed
+ACT-01043,VULN-01477,Patching,John Vaughn,Low,2025-11-02,2025-12-02,\N,Completed
+ACT-01044,VULN-00728,Network Segregation,Nicholas Terrell,Immediate,2025-08-11,2025-09-10,\N,Completed
+ACT-01045,VULN-01376,Config Change,Dr. Julie Miller,High,2026-02-09,2026-03-11,\N,Completed
+ACT-01046,VULN-01750,Patching,Ann Kennedy,High,2025-05-25,2025-06-24,2025-05-30,Completed
+ACT-01047,VULN-01083,Network Segregation,Toni Miller,Medium,2025-12-28,2026-01-27,2026-01-03,In Progress
+ACT-01048,VULN-01008,Software Update,Rebecca Edwards,High,2025-07-11,2025-08-10,\N,In Progress
+ACT-01049,VULN-02574,Software Update,Greg Osborne,Low,2026-04-06,2026-05-06,2026-04-18,Completed
+ACT-01050,VULN-02526,Network Segregation,Jose Harrison,Low,2026-04-02,2026-05-02,\N,Completed
+ACT-01051,VULN-00795,Patching,Jennifer Yu,High,2025-09-25,2025-10-25,2025-10-03,Completed
+ACT-01052,VULN-01171,User Training,Donna Johnson,Medium,2025-10-11,2025-11-10,2025-10-18,Completed
+ACT-01053,VULN-00709,Software Update,Nicole Acosta,Medium,2025-05-13,2025-06-12,2025-05-17,Completed
+ACT-01054,VULN-01922,Config Change,Amy Kennedy,Medium,2026-04-02,2026-05-02,\N,In Progress
+ACT-01055,VULN-01461,Network Segregation,Anthony Mooney,Immediate,2025-11-19,2025-12-19,2025-11-27,Completed
+ACT-01056,VULN-01237,Config Change,Lori Mitchell,Low,2025-05-13,2025-06-12,2025-05-31,Completed
+ACT-01057,VULN-02236,Network Segregation,Jonathan York,Medium,2025-09-29,2025-10-29,2025-10-02,Completed
+ACT-01058,VULN-00201,Software Update,Casey Campbell,Medium,2025-12-24,2026-01-23,\N,Completed
+ACT-01059,VULN-02763,Config Change,Alexis Rodriguez,Immediate,2026-04-01,2026-05-01,2026-04-20,Completed
+ACT-01060,VULN-01149,User Training,Kevin Hernandez,Low,2026-02-18,2026-03-20,\N,Completed
+ACT-01061,VULN-02931,Network Segregation,Robert Green,Low,2025-06-08,2025-07-08,2025-06-25,Completed
+ACT-01062,VULN-00207,Network Segregation,Kari Lloyd,Immediate,2025-10-11,2025-11-10,2025-10-29,Completed
+ACT-01063,VULN-02953,User Training,Grace Miller,Immediate,2025-10-13,2025-11-12,2025-10-29,Completed
+ACT-01064,VULN-00703,Software Update,Timothy Moore,Medium,2026-02-02,2026-03-04,\N,Completed
+ACT-01065,VULN-00927,Config Change,Wyatt Townsend II,Immediate,2025-12-07,2026-01-06,2025-12-14,Completed
+ACT-01066,VULN-01502,User Training,Mark Clark,Immediate,2025-09-27,2025-10-27,\N,In Progress
+ACT-01067,VULN-02168,Patching,Haley May,Medium,2025-10-06,2025-11-05,2025-10-26,Completed
+ACT-01068,VULN-02990,Config Change,Audrey Jackson,High,2025-07-24,2025-08-23,2025-08-03,Completed
+ACT-01069,VULN-02389,Patching,Eric Reese,Medium,2025-11-09,2025-12-09,2025-11-15,Completed
+ACT-01070,VULN-01881,Software Update,Kim James,Low,2025-11-13,2025-12-13,\N,Completed
+ACT-01071,VULN-02001,Software Update,Karen Thomas,Immediate,2025-11-16,2025-12-16,2025-12-01,Completed
+ACT-01072,VULN-00782,Patching,Alexandra Ho,Medium,2025-07-16,2025-08-15,2025-08-04,Completed
+ACT-01073,VULN-02130,Network Segregation,Michael Nixon,Low,2026-03-23,2026-04-22,2026-03-24,Completed
+ACT-01074,VULN-01982,Network Segregation,Amanda Hardin,Low,2025-10-01,2025-10-31,\N,In Progress
+ACT-01075,VULN-01622,Patching,Tina Reynolds,High,2025-06-22,2025-07-22,2025-06-26,Completed
+ACT-01076,VULN-02899,Config Change,Shannon Rogers,High,2025-11-18,2025-12-18,\N,Completed
+ACT-01077,VULN-02890,Software Update,Brett Pena,Low,2025-05-23,2025-06-22,2025-06-11,Completed
+ACT-01078,VULN-02627,Network Segregation,Raymond Curry,Immediate,2025-12-10,2026-01-09,2025-12-30,Completed
+ACT-01079,VULN-02331,Network Segregation,Leah Lee,High,2025-08-02,2025-09-01,\N,Completed
+ACT-01080,VULN-01740,Patching,Michael White,Immediate,2025-12-26,2026-01-25,2025-12-27,Completed
+ACT-01081,VULN-01687,Network Segregation,Megan Decker,Low,2025-10-24,2025-11-23,2025-10-28,Completed
+ACT-01082,VULN-00172,Software Update,Brent Garcia,Low,2025-05-07,2025-06-06,2025-05-08,Completed
+ACT-01083,VULN-01431,Software Update,Daniel Campbell,Low,2025-11-07,2025-12-07,2025-11-25,In Progress
+ACT-01084,VULN-02147,Software Update,Alexander Davis,Low,2025-08-30,2025-09-29,2025-09-10,Completed
+ACT-01085,VULN-01350,Software Update,Mary Houston,Medium,2025-10-27,2025-11-26,2025-11-12,Completed
+ACT-01086,VULN-01291,User Training,Margaret Erickson,Medium,2025-04-18,2025-05-18,2025-05-02,In Progress
+ACT-01087,VULN-02203,Config Change,Scott Anderson,Low,2025-07-27,2025-08-26,2025-08-03,Completed
+ACT-01088,VULN-00802,Software Update,Stephanie Knight,Low,2025-09-15,2025-10-15,2025-09-27,Completed
+ACT-01089,VULN-01261,Network Segregation,Stephanie Dominguez,Low,2026-02-13,2026-03-15,2026-03-02,Completed
+ACT-01090,VULN-02939,Network Segregation,John Mayer,Immediate,2026-01-24,2026-02-23,2026-02-02,Completed
+ACT-01091,VULN-02979,Network Segregation,Tammy Hill,Medium,2025-08-20,2025-09-19,2025-08-29,Completed
+ACT-01092,VULN-00413,Patching,Steven Carrillo,Medium,2025-06-29,2025-07-29,2025-07-08,Completed
+ACT-01093,VULN-02335,Software Update,Christopher Jones,Medium,2025-11-03,2025-12-03,2025-11-04,Completed
+ACT-01094,VULN-01341,User Training,Janet Cook,High,2025-06-07,2025-07-07,2025-06-20,Completed
+ACT-01095,VULN-02471,Network Segregation,Tyler Baker,Medium,2025-06-08,2025-07-08,2025-06-16,Completed
+ACT-01096,VULN-01403,Software Update,John Mcfarland,Immediate,2026-01-10,2026-02-09,2026-01-26,Completed
+ACT-01097,VULN-00282,User Training,Cassandra Vasquez,Low,2025-09-18,2025-10-18,2025-10-06,In Progress
+ACT-01098,VULN-00516,Config Change,Randy Robinson,Low,2026-04-19,2026-05-19,2026-04-23,Completed
+ACT-01099,VULN-02850,User Training,Susan Baldwin,Immediate,2025-11-28,2025-12-28,2025-11-30,Completed
+ACT-01100,VULN-00715,Patching,Benjamin Duncan,Medium,2025-12-29,2026-01-28,\N,Completed
+ACT-01101,VULN-01465,User Training,Jeremy Mosley,Immediate,2026-03-09,2026-04-08,2026-03-15,In Progress
+ACT-01102,VULN-01679,User Training,Martin Fitzpatrick,High,2026-01-10,2026-02-09,2026-01-24,Completed
+ACT-01103,VULN-01393,Config Change,Deborah Graves,High,2025-09-02,2025-10-02,2025-09-16,Completed
+ACT-01104,VULN-00528,Network Segregation,Laura Robertson,Medium,2025-12-09,2026-01-08,2025-12-18,Completed
+ACT-01105,VULN-02591,Patching,Katherine Graham,High,2025-07-15,2025-08-14,2025-07-29,Completed
+ACT-01106,VULN-00058,Config Change,Priscilla Floyd,Low,2025-12-07,2026-01-06,2025-12-23,Completed
+ACT-01107,VULN-02131,Software Update,April Finley,Medium,2025-06-11,2025-07-11,2025-06-13,In Progress
+ACT-01108,VULN-00511,Config Change,Karen Bradley,Low,2025-11-17,2025-12-17,2025-11-18,Completed
+ACT-01109,VULN-02122,Software Update,Heather Maldonado,Medium,2026-01-17,2026-02-16,\N,Completed
+ACT-01110,VULN-01235,Software Update,Mark Benjamin,Low,2025-06-03,2025-07-03,2025-06-12,Completed
+ACT-01111,VULN-02600,Config Change,Joseph Woodward,High,2026-02-18,2026-03-20,2026-03-07,In Progress
+ACT-01112,VULN-00970,User Training,Joe Miranda,High,2025-08-20,2025-09-19,2025-08-29,Completed
+ACT-01113,VULN-01472,Network Segregation,Cassandra Williams,High,2025-06-16,2025-07-16,2025-06-25,In Progress
+ACT-01114,VULN-01997,Network Segregation,Connor Dominguez,Immediate,2025-08-02,2025-09-01,\N,Completed
+ACT-01115,VULN-01110,Network Segregation,Lydia Howard,Medium,2025-12-12,2026-01-11,2025-12-29,Completed
+ACT-01116,VULN-01923,Software Update,Mark Moss,Immediate,2025-12-06,2026-01-05,2025-12-09,Completed
+ACT-01117,VULN-02762,Patching,Corey Cortez,High,2025-10-04,2025-11-03,2025-10-17,In Progress
+ACT-01118,VULN-02903,User Training,Katherine Brown,Medium,2025-08-13,2025-09-12,2025-08-28,Completed
+ACT-01119,VULN-02945,Config Change,Elizabeth Ferguson,High,2026-03-03,2026-04-02,2026-03-07,Completed
+ACT-01120,VULN-00679,User Training,Joann Forbes,Immediate,2025-08-31,2025-09-30,2025-09-01,In Progress
+ACT-01121,VULN-00616,User Training,Anthony French,Immediate,2026-04-10,2026-05-10,2026-04-23,Completed
+ACT-01122,VULN-02475,Network Segregation,Bruce Roman,Immediate,2026-03-11,2026-04-10,2026-03-13,Completed
+ACT-01123,VULN-01598,Network Segregation,Judy Gregory,Medium,2026-03-30,2026-04-29,2026-04-09,In Progress
+ACT-01124,VULN-00165,User Training,Brittany Riley,Medium,2025-09-03,2025-10-03,2025-09-11,Completed
+ACT-01125,VULN-02804,Patching,Amanda Thomas,Medium,2026-03-21,2026-04-20,2026-03-31,Completed
+ACT-01126,VULN-02891,Software Update,Kaitlin Hardin,Immediate,2026-02-27,2026-03-29,2026-03-05,In Progress
+ACT-01127,VULN-00040,Software Update,Michael Anderson,High,2026-02-07,2026-03-09,2026-02-25,Completed
+ACT-01128,VULN-01603,Patching,Anthony Parker,Low,2025-05-01,2025-05-31,2025-05-09,Completed
+ACT-01129,VULN-00302,User Training,Joy Jackson,Medium,2025-05-17,2025-06-16,2025-06-03,Completed
+ACT-01130,VULN-00813,Software Update,Sabrina Rodriguez,Medium,2026-02-13,2026-03-15,2026-03-03,Completed
+ACT-01131,VULN-02546,Config Change,Robert Walker PhD,Immediate,2025-06-08,2025-07-08,2025-06-15,Completed
+ACT-01132,VULN-02905,User Training,Robert Hendrix,High,2025-06-19,2025-07-19,2025-06-20,Completed
+ACT-01133,VULN-01254,User Training,Erika Daugherty,High,2026-02-06,2026-03-08,2026-02-10,Completed
+ACT-01134,VULN-00025,Software Update,Brenda Copeland,Low,2025-04-26,2025-05-26,2025-05-01,Completed
+ACT-01135,VULN-01594,Config Change,Pamela Watkins,Medium,2025-09-14,2025-10-14,2025-09-20,Completed
+ACT-01136,VULN-01429,Config Change,Bryan Thomas,Immediate,2025-05-09,2025-06-08,2025-05-10,Completed
+ACT-01137,VULN-01373,User Training,Michael Tran,Immediate,2025-07-29,2025-08-28,2025-08-10,Completed
+ACT-01138,VULN-00424,Patching,Timothy Williams,Immediate,2025-05-06,2025-06-05,\N,Completed
+ACT-01139,VULN-02208,Config Change,Ryan Salazar,Immediate,2025-10-30,2025-11-29,2025-11-11,Completed
+ACT-01140,VULN-02602,User Training,Alexis Tucker,High,2025-06-08,2025-07-08,2025-06-09,Completed
+ACT-01141,VULN-01837,Patching,Christopher Davis,Low,2025-05-07,2025-06-06,2025-05-12,In Progress
+ACT-01142,VULN-00130,Software Update,Stacie Butler,Immediate,2026-03-01,2026-03-31,2026-03-11,In Progress
+ACT-01143,VULN-00963,User Training,Patricia Schwartz,Medium,2025-06-26,2025-07-26,2025-06-28,Completed
+ACT-01144,VULN-01317,User Training,Mark Mills,Low,2026-04-14,2026-05-14,2026-05-01,Completed
+ACT-01145,VULN-01489,Software Update,Todd Bishop,High,2025-07-02,2025-08-01,2025-07-09,Completed
+ACT-01146,VULN-02767,Software Update,Christopher Porter,Immediate,2025-10-27,2025-11-26,2025-11-04,In Progress
+ACT-01147,VULN-00704,Config Change,Lori Patton,High,2026-01-28,2026-02-27,2026-02-13,Completed
+ACT-01148,VULN-01362,Config Change,Aaron Young,Medium,2025-05-24,2025-06-23,2025-06-02,In Progress
+ACT-01149,VULN-00601,User Training,Joseph Davis,Medium,2026-02-03,2026-03-05,2026-02-09,Completed
+ACT-01150,VULN-00266,Patching,Philip Fernandez,Medium,2025-11-19,2025-12-19,2025-12-06,Completed
+ACT-01151,VULN-01399,Software Update,Randy Hopkins,Immediate,2026-03-16,2026-04-15,2026-03-18,Completed
+ACT-01152,VULN-02345,User Training,Cory Hogan,Medium,2025-05-19,2025-06-18,2025-05-30,Completed
+ACT-01153,VULN-02567,Patching,Tracy Wells,Medium,2025-10-07,2025-11-06,2025-10-18,Completed
+ACT-01154,VULN-01157,Patching,Michael Williams,High,2025-08-12,2025-09-11,2025-08-23,Completed
+ACT-01155,VULN-01645,Config Change,Dominique Hamilton,Medium,2025-05-18,2025-06-17,\N,Completed
+ACT-01156,VULN-01536,User Training,Robert Chang,Medium,2025-11-27,2025-12-27,2025-12-17,Completed
+ACT-01157,VULN-01564,User Training,Patrick Buckley,Immediate,2026-03-22,2026-04-21,2026-04-03,Completed
+ACT-01158,VULN-02491,Network Segregation,Richard Washington,Low,2025-06-06,2025-07-06,2025-06-11,Completed
+ACT-01159,VULN-01884,Network Segregation,Steven Griffith,Medium,2025-09-05,2025-10-05,2025-09-21,Completed
+ACT-01160,VULN-02116,Patching,Erika Gonzalez,High,2026-03-06,2026-04-05,2026-03-16,Completed
+ACT-01161,VULN-01551,Config Change,Erika Maxwell,Low,2025-12-31,2026-01-30,2026-01-19,Completed
+ACT-01162,VULN-02798,Patching,Brent Rojas,Medium,2026-01-08,2026-02-07,2026-01-24,Completed
+ACT-01163,VULN-01805,Software Update,Jaime Walker,Medium,2026-01-06,2026-02-05,2026-01-16,Completed
+ACT-01164,VULN-02248,Patching,John Zamora,Low,2026-02-24,2026-03-26,2026-03-05,In Progress
+ACT-01165,VULN-00518,Network Segregation,Timothy Gibson,Low,2025-06-11,2025-07-11,\N,Completed
+ACT-01166,VULN-01112,User Training,Chad Cortez,Immediate,2025-09-14,2025-10-14,2025-09-22,Completed
+ACT-01167,VULN-00780,User Training,Vanessa Harris,Immediate,2026-01-05,2026-02-04,2026-01-20,In Progress
+ACT-01168,VULN-00005,Network Segregation,Michael Brown,High,2025-08-01,2025-08-31,2025-08-06,Completed
+ACT-01169,VULN-00737,User Training,Samuel Ellis,Medium,2026-02-01,2026-03-03,2026-02-04,Completed
+ACT-01170,VULN-02590,Patching,Greg Tanner,Low,2025-09-09,2025-10-09,2025-09-18,Completed
+ACT-01171,VULN-00629,User Training,Rachel Little,Medium,2026-02-15,2026-03-17,2026-02-17,Completed
+ACT-01172,VULN-00936,User Training,Carolyn Cordova,Medium,2025-09-15,2025-10-15,2025-09-25,Completed
+ACT-01173,VULN-02270,Config Change,Angelica Vincent,Immediate,2025-07-13,2025-08-12,2025-07-27,Completed
+ACT-01174,VULN-02369,User Training,Zachary Vargas PhD,Low,2025-10-18,2025-11-17,2025-10-25,Completed
+ACT-01175,VULN-02650,Software Update,Nicholas Fitzgerald,Immediate,2025-04-25,2025-05-25,2025-05-09,Completed
+ACT-01176,VULN-00199,User Training,Garrett Riley,Immediate,2025-07-30,2025-08-29,\N,Completed
+ACT-01177,VULN-00242,Config Change,Leslie Hernandez,Immediate,2026-04-11,2026-05-11,2026-04-21,Completed
+ACT-01178,VULN-02872,Software Update,Abigail Baird,Medium,2026-01-16,2026-02-15,2026-02-01,In Progress
+ACT-01179,VULN-02925,Software Update,John Mack,High,2025-11-21,2025-12-21,2025-12-06,Completed
+ACT-01180,VULN-01786,Config Change,Joseph Mendoza,Immediate,2026-01-03,2026-02-02,2026-01-23,Completed
+ACT-01181,VULN-02616,Software Update,Samantha Chavez,Medium,2025-04-22,2025-05-22,2025-05-11,In Progress
+ACT-01182,VULN-01614,User Training,Justin Smith,Medium,2025-10-01,2025-10-31,2025-10-03,Completed
+ACT-01183,VULN-01322,Patching,Tiffany Anderson,Immediate,2025-07-16,2025-08-15,2025-07-19,Completed
+ACT-01184,VULN-00527,Network Segregation,Matthew Davis,Medium,2025-08-03,2025-09-02,\N,Completed
+ACT-01185,VULN-02986,Config Change,Eric Warner,Low,2026-03-30,2026-04-29,2026-04-07,Completed
+ACT-01186,VULN-01060,Config Change,Nicole Johnson,Low,2025-09-07,2025-10-07,2025-09-08,Completed
+ACT-01187,VULN-01278,Software Update,Raymond Sawyer,High,2026-02-06,2026-03-08,2026-02-24,Completed
+ACT-01188,VULN-02947,Patching,Richard Wood,Low,2025-05-17,2025-06-16,2025-06-03,Completed
+ACT-01189,VULN-01579,Config Change,Mark Dalton,Immediate,2025-10-16,2025-11-15,2025-10-25,Completed
+ACT-01190,VULN-00693,User Training,Steven Cook,High,2026-01-16,2026-02-15,2026-01-22,Completed
+ACT-01191,VULN-00234,User Training,Jeffery Nelson,High,2025-11-09,2025-12-09,2025-11-25,Completed
+ACT-01192,VULN-02866,User Training,Kimberly Norton,Low,2026-04-07,2026-05-07,2026-04-08,In Progress
+ACT-01193,VULN-02524,Software Update,Angela Gilmore,Low,2026-02-15,2026-03-17,2026-03-03,Completed
+ACT-01194,VULN-02302,Patching,Amy Dougherty,Low,2025-06-25,2025-07-25,2025-07-12,Completed
+ACT-01195,VULN-02965,Software Update,Stacy Rodriguez,High,2026-02-10,2026-03-12,2026-03-02,Completed
+ACT-01196,VULN-02497,User Training,Manuel Diaz,Low,2026-03-04,2026-04-03,2026-03-14,Completed
+ACT-01197,VULN-00375,User Training,Justin Jones,High,2025-05-09,2025-06-08,\N,Completed
+ACT-01198,VULN-01378,User Training,Christine Zavala,High,2025-06-26,2025-07-26,\N,Completed
+ACT-01199,VULN-00609,Software Update,Brian Mendoza,Immediate,2026-02-25,2026-03-27,2026-03-10,Completed
+ACT-01200,VULN-01338,Software Update,Lauren Haley,Low,2026-04-11,2026-05-11,2026-04-20,Completed
+ACT-01201,VULN-00952,Patching,Patrick Perez,High,2025-09-20,2025-10-20,2025-09-23,Completed
+ACT-01202,VULN-02958,Config Change,Derek Frazier,Medium,2026-03-23,2026-04-22,2026-03-31,Completed
+ACT-01203,VULN-00810,Config Change,Arthur Reed,Low,2026-03-29,2026-04-28,2026-03-31,Completed
+ACT-01204,VULN-00713,Patching,Mr. Bryan Mckinney,Low,2025-12-18,2026-01-17,2025-12-27,In Progress
+ACT-01205,VULN-01795,Network Segregation,Kim Carter,Medium,2026-02-21,2026-03-23,2026-03-07,Completed
+ACT-01206,VULN-00319,Software Update,Rebecca Dougherty,High,2025-11-13,2025-12-13,\N,Completed
+ACT-01207,VULN-02201,Software Update,Teresa Jones,Low,2025-06-10,2025-07-10,2025-06-21,Completed
+ACT-01208,VULN-01892,Network Segregation,Judith Miller,Medium,2025-10-11,2025-11-10,2025-10-26,Completed
+ACT-01209,VULN-01079,Patching,Donna Frye,Immediate,2025-10-05,2025-11-04,2025-10-23,Completed
+ACT-01210,VULN-02775,Network Segregation,Donald Terry,Low,2026-02-22,2026-03-24,2026-03-07,Completed
+ACT-01211,VULN-01634,Config Change,Shaun Meyer DDS,Low,2025-10-04,2025-11-03,2025-10-13,In Progress
+ACT-01212,VULN-01084,Network Segregation,Wayne Weaver,Immediate,2025-07-29,2025-08-28,2025-08-10,Completed
+ACT-01213,VULN-02586,User Training,Gregory Wallace,High,2025-09-09,2025-10-09,\N,Completed
+ACT-01214,VULN-00845,Network Segregation,Dorothy Brown,Low,2026-03-28,2026-04-27,2026-04-14,Completed
+ACT-01215,VULN-02875,Patching,Crystal Meza,High,2025-12-11,2026-01-10,2025-12-16,Completed
+ACT-01216,VULN-02831,Software Update,Jennifer Cooper,Medium,2025-06-04,2025-07-04,2025-06-23,Completed
+ACT-01217,VULN-01863,User Training,Erin Watkins,Immediate,2026-03-07,2026-04-06,2026-03-21,Completed
+ACT-01218,VULN-01566,Patching,Sarah Wallace,Immediate,2025-10-07,2025-11-06,2025-10-18,Completed
+ACT-01219,VULN-01372,Software Update,Carlos Clarke,Low,2026-03-02,2026-04-01,2026-03-08,Completed
+ACT-01220,VULN-00515,Network Segregation,David Washington,Immediate,2025-05-27,2025-06-26,2025-06-02,In Progress
+ACT-01221,VULN-00973,Patching,Patricia Williams,Immediate,2026-03-24,2026-04-23,2026-04-11,Completed
+ACT-01222,VULN-02429,Patching,Jesus Jackson,Low,2025-09-02,2025-10-02,\N,Completed
+ACT-01223,VULN-01911,Patching,Michelle Mitchell,Medium,2025-11-18,2025-12-18,2025-12-08,Completed
+ACT-01224,VULN-02998,Network Segregation,Sara Schwartz,Medium,2025-12-12,2026-01-11,2025-12-31,In Progress
+ACT-01225,VULN-01799,Patching,Brittany Young,High,2025-11-11,2025-12-11,2025-11-27,Completed
+ACT-01226,VULN-01358,User Training,Eugene Martinez,High,2025-08-19,2025-09-18,2025-08-23,Completed
+ACT-01227,VULN-00473,User Training,Cody Hart,Immediate,2025-10-11,2025-11-10,2025-10-13,Completed
+ACT-01228,VULN-01808,Config Change,Evan Cooper,Immediate,2025-09-12,2025-10-12,2025-09-16,In Progress
+ACT-01229,VULN-01451,Patching,Joshua Martin,Low,2025-04-28,2025-05-28,2025-05-03,Completed
+ACT-01230,VULN-02114,Network Segregation,Thomas Sullivan,Immediate,2026-04-13,2026-05-13,2026-04-20,Completed
+ACT-01231,VULN-01329,User Training,Mr. Jimmy Flores Jr.,High,2025-05-14,2025-06-13,\N,In Progress
+ACT-01232,VULN-00240,Patching,Vanessa Rivera,High,2025-04-25,2025-05-25,2025-05-03,Completed
+ACT-01233,VULN-00163,Config Change,Kara Roberts,High,2025-12-01,2025-12-31,2025-12-03,In Progress
+ACT-01234,VULN-01590,User Training,Veronica Berry,Immediate,2026-03-16,2026-04-15,2026-03-28,In Progress
+ACT-01235,VULN-01673,User Training,Keith Meadows,Medium,2025-10-07,2025-11-06,\N,Completed
+ACT-01236,VULN-00538,Config Change,Michael Dennis,Low,2025-10-23,2025-11-22,2025-10-25,Completed
+ACT-01237,VULN-00589,Network Segregation,Brenda Pierce,Medium,2025-07-06,2025-08-05,\N,In Progress
+ACT-01238,VULN-02095,Software Update,James Randall,Low,2025-09-07,2025-10-07,\N,Completed
+ACT-01239,VULN-00346,Patching,Brandon Brown,Immediate,2025-12-24,2026-01-23,2026-01-08,In Progress
+ACT-01240,VULN-02192,Network Segregation,Lauren Walker,Low,2025-07-14,2025-08-13,2025-07-17,Completed
+ACT-01241,VULN-02018,User Training,Diana Johnson,High,2025-12-25,2026-01-24,2026-01-02,Completed
+ACT-01242,VULN-01729,User Training,Jill Powers,Medium,2026-02-04,2026-03-06,2026-02-05,Completed
+ACT-01243,VULN-00847,Network Segregation,Jorge Lee,Medium,2025-09-30,2025-10-30,2025-10-03,In Progress
+ACT-01244,VULN-01231,User Training,Larry Harding,High,2025-07-26,2025-08-25,\N,In Progress
+ACT-01245,VULN-02566,Patching,Heather Hernandez,High,2025-08-03,2025-09-02,2025-08-11,Completed
+ACT-01246,VULN-02663,Software Update,Jaclyn Watson,Medium,2025-11-25,2025-12-25,2025-12-09,Completed
+ACT-01247,VULN-01693,Patching,Gregory Madden,High,2025-11-25,2025-12-25,2025-12-14,Completed
+ACT-01248,VULN-01017,User Training,Anita Luna,Immediate,2026-01-31,2026-03-02,2026-02-11,In Progress
+ACT-01249,VULN-00336,Config Change,Willie Lara,Medium,2025-10-04,2025-11-03,2025-10-12,Completed
+ACT-01250,VULN-00747,Network Segregation,Robert Waller,High,2025-08-13,2025-09-12,2025-08-21,In Progress
+ACT-01251,VULN-02342,User Training,Steven Taylor,High,2025-09-09,2025-10-09,2025-09-21,Completed
+ACT-01252,VULN-00660,Software Update,Angelica Clark,Medium,2025-12-21,2026-01-20,\N,Completed
+ACT-01253,VULN-01890,Network Segregation,Sean Hatfield,Low,2026-03-13,2026-04-12,\N,Completed
+ACT-01254,VULN-01284,Patching,Tyler Avila,Medium,2025-05-17,2025-06-16,2025-06-01,In Progress
+ACT-01255,VULN-01695,Software Update,Jason Rocha,High,2026-01-13,2026-02-12,2026-01-24,Completed
+ACT-01256,VULN-00901,Software Update,Justin Page,Low,2025-09-15,2025-10-15,\N,Completed
+ACT-01257,VULN-01449,Network Segregation,Breanna Lopez,Immediate,2025-10-25,2025-11-24,2025-11-06,Completed
+ACT-01258,VULN-01519,User Training,Julian Williams,Immediate,2025-06-14,2025-07-14,2025-06-16,Completed
+ACT-01259,VULN-00067,Patching,Sandra Torres,Immediate,2025-09-14,2025-10-14,2025-09-22,Completed
+ACT-01260,VULN-00571,Patching,Julie Johnson,Low,2025-05-01,2025-05-31,2025-05-20,Completed
+ACT-01261,VULN-02029,Network Segregation,Dennis Blanchard,High,2025-09-24,2025-10-24,2025-09-27,Completed
+ACT-01262,VULN-00602,Software Update,Kaitlyn Valdez,Medium,2025-06-18,2025-07-18,2025-06-19,In Progress
+ACT-01263,VULN-02179,User Training,Jennifer Vasquez,High,2025-06-01,2025-07-01,2025-06-11,Completed
+ACT-01264,VULN-02803,Network Segregation,Danielle Wilson,Immediate,2026-01-24,2026-02-23,2026-02-05,Completed
+ACT-01265,VULN-01444,Patching,Zachary Jones,Medium,2026-04-14,2026-05-14,2026-04-26,Completed
+ACT-01266,VULN-01807,User Training,Lauren Cunningham,Low,2025-12-02,2026-01-01,\N,Completed
+ACT-01267,VULN-02854,Patching,Lori Alvarez,High,2025-09-18,2025-10-18,2025-10-03,Completed
+ACT-01268,VULN-00481,Patching,Barbara Hunt,Low,2025-12-16,2026-01-15,2025-12-19,Completed
+ACT-01269,VULN-01916,Software Update,Sarah Martin,High,2026-03-19,2026-04-18,2026-03-20,In Progress
+ACT-01270,VULN-01056,User Training,Francisco Johns,Immediate,2025-08-28,2025-09-27,2025-09-16,In Progress
+ACT-01271,VULN-00554,Patching,Christopher Nelson,High,2025-12-22,2026-01-21,2025-12-24,Completed
+ACT-01272,VULN-02362,Software Update,Thomas Kelly,Immediate,2026-04-07,2026-05-07,2026-04-13,Completed
+ACT-01273,VULN-01752,Network Segregation,Joseph Mayer,Low,2025-08-12,2025-09-11,2025-08-27,Completed
+ACT-01274,VULN-01582,Software Update,Pamela White,Low,2025-08-25,2025-09-24,\N,Completed
+ACT-01275,VULN-00255,Patching,Paul Stephens,Medium,2026-01-26,2026-02-25,2026-01-30,Completed
+ACT-01276,VULN-00976,User Training,Samantha Cohen,Low,2026-02-06,2026-03-08,\N,Completed
+ACT-01277,VULN-02780,Software Update,Michael Barker,Medium,2025-10-01,2025-10-31,2025-10-12,Completed
+ACT-01278,VULN-02848,Config Change,Kevin Morrow,High,2026-02-06,2026-03-08,\N,Completed
+ACT-01279,VULN-02758,User Training,Joseph Watson,Low,2025-10-02,2025-11-01,2025-10-09,Completed
+ACT-01280,VULN-02267,User Training,Mr. Thomas Garcia,High,2025-08-18,2025-09-17,2025-09-02,In Progress
+ACT-01281,VULN-01671,Network Segregation,Daniel Lopez,Low,2025-06-18,2025-07-18,2025-06-22,Completed
+ACT-01282,VULN-00036,Network Segregation,Lisa Guerra,High,2025-08-06,2025-09-05,2025-08-20,In Progress
+ACT-01283,VULN-02370,Network Segregation,Kim Arnold,Low,2025-10-28,2025-11-27,2025-11-01,Completed
+ACT-01284,VULN-02776,Network Segregation,Ashley Stevens,High,2025-05-20,2025-06-19,2025-06-05,Completed
+ACT-01285,VULN-01138,Software Update,Robert Mclean,Medium,2025-09-24,2025-10-24,2025-10-05,Completed
+ACT-01286,VULN-01743,Software Update,Eric Cox,Low,2026-02-19,2026-03-21,2026-03-11,In Progress
+ACT-01287,VULN-00949,Patching,Stacy Harper,High,2025-11-10,2025-12-10,\N,Completed
+ACT-01288,VULN-00169,Software Update,Gloria Mckinney,Immediate,2025-10-26,2025-11-25,\N,Completed
+ACT-01289,VULN-00361,Patching,Robert Walker,Low,2025-09-26,2025-10-26,2025-10-15,Completed
+ACT-01290,VULN-01942,Config Change,Brenda Perez,Immediate,2025-07-18,2025-08-17,2025-07-30,In Progress
+ACT-01291,VULN-00245,Software Update,Carlos Miller,High,2026-03-08,2026-04-07,\N,Completed
+ACT-01292,VULN-01844,Software Update,Rachel Jones,Low,2026-03-30,2026-04-29,2026-04-04,Completed
+ACT-01293,VULN-01535,Network Segregation,Nicole Williams,High,2025-07-19,2025-08-18,\N,Completed
+ACT-01294,VULN-00849,Network Segregation,Ricky Palmer,Medium,2026-04-05,2026-05-05,2026-04-23,In Progress
+ACT-01295,VULN-00846,Config Change,Bryan King,Low,2025-10-30,2025-11-29,2025-11-17,Completed
+ACT-01296,VULN-02176,User Training,Michael Webster,Immediate,2025-07-09,2025-08-08,2025-07-19,Completed
+ACT-01297,VULN-00338,Config Change,Tamara Harris,High,2025-09-28,2025-10-28,\N,Completed
+ACT-01298,VULN-02261,User Training,Cathy Bell,Immediate,2025-12-04,2026-01-03,2025-12-18,Completed
+ACT-01299,VULN-00093,User Training,Ryan Mcmahon,Immediate,2025-10-11,2025-11-10,2025-10-26,Completed
+ACT-01300,VULN-01713,Software Update,Hannah Martin,Immediate,2026-03-08,2026-04-07,2026-03-24,Completed
+ACT-01301,VULN-02732,Config Change,Monica Allen,Medium,2025-05-03,2025-06-02,2025-05-13,Completed
+ACT-01302,VULN-00998,Patching,Annette Lane,Immediate,2026-03-08,2026-04-07,2026-03-25,Completed
+ACT-01303,VULN-01581,Config Change,Daniel Lee,Low,2025-07-27,2025-08-26,\N,Completed
+ACT-01304,VULN-02385,Config Change,Steven Medina,Low,2025-07-25,2025-08-24,2025-07-27,Completed
+ACT-01305,VULN-02138,Network Segregation,Annette Lewis,High,2025-12-20,2026-01-19,2026-01-01,Completed
+ACT-01306,VULN-01624,Patching,Michelle Richardson,Low,2025-08-11,2025-09-10,2025-08-30,Completed
+ACT-01307,VULN-01409,Software Update,Jessica Rosario,Medium,2026-02-08,2026-03-10,2026-02-09,Completed
+ACT-01308,VULN-01714,Software Update,Henry Gray,Medium,2026-04-04,2026-05-04,2026-04-12,In Progress
+ACT-01309,VULN-02225,User Training,Darren Rodriguez,High,2026-03-16,2026-04-15,2026-03-17,Completed
+ACT-01310,VULN-02046,User Training,Mrs. Ashley Taylor,High,2025-10-21,2025-11-20,2025-11-06,Completed
+ACT-01311,VULN-01093,Patching,Michele Hawkins,Immediate,2026-03-03,2026-04-02,2026-03-07,Completed
+ACT-01312,VULN-02133,Software Update,Garrett Wilson,Low,2025-12-31,2026-01-30,2026-01-18,Completed
+ACT-01313,VULN-02503,Config Change,Kyle Collins,High,2025-06-19,2025-07-19,2025-06-26,Completed
+ACT-01314,VULN-00369,Software Update,Jill Spencer,Medium,2025-10-07,2025-11-06,2025-10-14,Completed
+ACT-01315,VULN-02400,Patching,Scott Lopez,Medium,2025-08-25,2025-09-24,2025-08-29,In Progress
+ACT-01316,VULN-02559,Network Segregation,Ryan Alvarez,Medium,2025-11-03,2025-12-03,2025-11-13,Completed
+ACT-01317,VULN-02520,Config Change,Cassie Lutz,Low,2025-11-12,2025-12-12,\N,Completed
+ACT-01318,VULN-00826,User Training,Brian Kim DDS,Low,2025-07-23,2025-08-22,2025-08-03,In Progress
+ACT-01319,VULN-01961,Config Change,Charles Morales,Medium,2025-12-03,2026-01-02,2025-12-07,Completed
+ACT-01320,VULN-00063,Config Change,Ashley Schaefer,High,2025-10-15,2025-11-14,2025-10-21,In Progress
+ACT-01321,VULN-02396,Config Change,Amy Hester,Medium,2025-08-03,2025-09-02,2025-08-18,Completed
+ACT-01322,VULN-01412,User Training,Kurt Ewing,Medium,2025-10-09,2025-11-08,2025-10-29,In Progress
+ACT-01323,VULN-01940,Patching,Ryan Hardy,High,2026-02-16,2026-03-18,2026-03-02,Completed
+ACT-01324,VULN-00906,Network Segregation,Micheal Perkins,Medium,2025-04-23,2025-05-23,\N,In Progress
+ACT-01325,VULN-01626,User Training,Richard Schneider,Immediate,2025-04-28,2025-05-28,2025-05-01,In Progress
+ACT-01326,VULN-02327,User Training,John Morrison,Immediate,2025-10-05,2025-11-04,2025-10-11,Completed
+ACT-01327,VULN-02007,Patching,John Ramirez,Medium,2025-08-11,2025-09-10,2025-08-28,Completed
+ACT-01328,VULN-01045,User Training,Ashley King,Medium,2026-02-10,2026-03-12,\N,Completed
+ACT-01329,VULN-00238,Network Segregation,Mark Taylor Jr.,Medium,2025-08-20,2025-09-19,2025-09-03,In Progress
+ACT-01330,VULN-01652,Software Update,Barry Gregory,Immediate,2025-10-30,2025-11-29,2025-11-10,Completed
+ACT-01331,VULN-02398,Patching,Janet Shelton,Low,2025-09-23,2025-10-23,2025-10-11,In Progress
+ACT-01332,VULN-00767,Software Update,Marco Davis,High,2025-06-22,2025-07-22,2025-07-08,Completed
+ACT-01333,VULN-02061,Software Update,Paul Saunders,High,2025-11-30,2025-12-30,\N,Completed
+ACT-01334,VULN-01044,User Training,Christina Bates,High,2026-01-11,2026-02-10,2026-01-15,Completed
+ACT-01335,VULN-01327,Patching,Dennis Cooper PhD,Medium,2026-03-05,2026-04-04,\N,In Progress
+ACT-01336,VULN-01267,Software Update,Tiffany Johnson,Medium,2025-08-09,2025-09-08,2025-08-16,Completed
+ACT-01337,VULN-01485,Config Change,Thomas Reyes,Immediate,2025-10-14,2025-11-13,2025-11-02,In Progress
+ACT-01338,VULN-02063,Patching,James Stevens,Immediate,2025-11-22,2025-12-22,2025-11-27,Completed
+ACT-01339,VULN-00078,Network Segregation,Justin Dalton,Medium,2025-06-29,2025-07-29,2025-07-03,In Progress
+ACT-01340,VULN-00301,User Training,Michael Henry,Medium,2025-04-22,2025-05-22,2025-05-09,Completed
+ACT-01341,VULN-02863,Network Segregation,Mike Freeman,Low,2025-10-30,2025-11-29,2025-11-16,Completed
+ACT-01342,VULN-02387,Config Change,Michael Keller,Low,2025-10-03,2025-11-02,\N,Completed
+ACT-01343,VULN-00477,Network Segregation,Laura Alvarez,Low,2026-04-14,2026-05-14,2026-04-22,Completed
+ACT-01344,VULN-01760,Network Segregation,Katie Myers,Medium,2025-11-15,2025-12-15,2025-11-19,Completed
+ACT-01345,VULN-02750,User Training,Wesley Jensen MD,High,2025-05-08,2025-06-07,2025-05-12,Completed
+ACT-01346,VULN-01437,Patching,Erica Johnson,Immediate,2025-10-08,2025-11-07,\N,Completed
+ACT-01347,VULN-00042,Patching,Russell Bailey,Medium,2025-06-18,2025-07-18,2025-06-25,Completed
+ACT-01348,VULN-02240,User Training,Alyssa Vance,High,2025-12-21,2026-01-20,2025-12-29,Completed
+ACT-01349,VULN-00710,Config Change,Brent Reed,Medium,2025-12-29,2026-01-28,2026-01-03,Completed
+ACT-01350,VULN-00020,Config Change,Gregory Stanley,High,2025-05-25,2025-06-24,\N,In Progress
+ACT-01351,VULN-00770,Config Change,Matthew Watkins,High,2025-08-05,2025-09-04,2025-08-14,Completed
+ACT-01352,VULN-01810,Network Segregation,Ana Torres,Low,2025-12-19,2026-01-18,\N,Completed
+ACT-01353,VULN-02652,Software Update,Alejandro Nguyen,Low,2025-11-06,2025-12-06,2025-11-13,Completed
+ACT-01354,VULN-00572,Network Segregation,Scott Bradley,Medium,2026-03-09,2026-04-08,\N,Completed
+ACT-01355,VULN-00008,Config Change,Deborah Dominguez,Immediate,2025-06-12,2025-07-12,\N,Completed
+ACT-01356,VULN-00237,Patching,Victoria Gray,Immediate,2025-12-05,2026-01-04,2025-12-15,Completed
+ACT-01357,VULN-01711,Patching,Kenneth Stokes,Immediate,2026-01-30,2026-03-01,2026-02-11,Completed
+ACT-01358,VULN-01104,Config Change,Michael Rogers,Medium,2026-03-28,2026-04-27,2026-04-13,Completed
+ACT-01359,VULN-01173,User Training,Pamela Morgan,High,2025-08-14,2025-09-13,2025-08-26,Completed
+ACT-01360,VULN-00060,Software Update,Heidi Graham,High,2026-02-23,2026-03-25,2026-03-09,Completed
+ACT-01361,VULN-00432,Software Update,Ryan Cobb PhD,Medium,2025-05-11,2025-06-10,2025-05-19,Completed
+ACT-01362,VULN-01019,Config Change,Donna Williams,High,2025-05-30,2025-06-29,2025-06-17,Completed
+ACT-01363,VULN-00919,Software Update,Jennifer Perez PhD,Low,2026-03-29,2026-04-28,2026-04-13,Completed
+ACT-01364,VULN-02328,Config Change,Ryan Davis,High,2025-12-17,2026-01-16,2025-12-26,Completed
+ACT-01365,VULN-02636,Software Update,Austin Solis,Medium,2025-05-05,2025-06-04,2025-05-08,In Progress
+ACT-01366,VULN-01649,Software Update,Daniel Flynn,High,2025-12-12,2026-01-11,2025-12-26,Completed
+ACT-01367,VULN-02510,User Training,Elizabeth Brock,Low,2026-01-22,2026-02-21,2026-01-30,Completed
+ACT-01368,VULN-01902,Network Segregation,Joshua Gonzalez,Low,2025-08-26,2025-09-25,2025-08-27,Completed
+ACT-01369,VULN-01793,Software Update,Mario Chavez,Medium,2025-09-09,2025-10-09,2025-09-19,Completed
+ACT-01370,VULN-00500,User Training,Catherine Smith,Low,2026-03-08,2026-04-07,2026-03-15,Completed
+ACT-01371,VULN-00530,Patching,Shari Ray,High,2026-01-22,2026-02-21,2026-01-27,In Progress
+ACT-01372,VULN-02358,User Training,Victor Harmon,Immediate,2026-01-29,2026-02-28,2026-02-17,Completed
+ACT-01373,VULN-00164,User Training,Timothy Patel,Medium,2025-09-22,2025-10-22,2025-10-01,In Progress
+ACT-01374,VULN-01029,User Training,Patricia Hamilton,Medium,2025-11-27,2025-12-27,\N,Completed
+ACT-01375,VULN-00778,User Training,Lori Boyd,Immediate,2026-02-02,2026-03-04,2026-02-04,In Progress
+ACT-01376,VULN-01282,User Training,Charles Hernandez,Immediate,2025-07-30,2025-08-29,2025-08-06,Completed
+ACT-01377,VULN-02828,Software Update,Elizabeth Graham,Low,2026-02-13,2026-03-15,2026-02-14,Completed
+ACT-01378,VULN-01780,Config Change,Ronald Brown,Low,2025-10-15,2025-11-14,2025-10-29,Completed
+ACT-01379,VULN-02402,Patching,Jason Colon,Medium,2025-12-04,2026-01-03,\N,Completed
+ACT-01380,VULN-02153,Config Change,Dawn Burke,Medium,2026-02-12,2026-03-14,\N,Completed
+ACT-01381,VULN-00322,Network Segregation,Brian Lee,Immediate,2026-04-17,2026-05-17,2026-05-04,In Progress
+ACT-01382,VULN-02016,Software Update,Ronald Marshall,Immediate,2026-03-14,2026-04-13,\N,In Progress
+ACT-01383,VULN-01319,Software Update,Jessica Lucas,High,2025-09-28,2025-10-28,2025-10-15,Completed
+ACT-01384,VULN-02672,Config Change,Christopher Taylor,Immediate,2025-11-09,2025-12-09,\N,In Progress
+ACT-01385,VULN-02633,Network Segregation,Robert Hopkins,High,2025-07-19,2025-08-18,2025-08-07,Completed
+ACT-01386,VULN-02257,Patching,Samuel Stuart,Medium,2026-03-10,2026-04-09,2026-03-13,Completed
+ACT-01387,VULN-00987,Patching,Mr. Scott Miller,Low,2025-08-30,2025-09-29,\N,Completed
+ACT-01388,VULN-01456,Software Update,Sharon Lester,Medium,2026-01-19,2026-02-18,2026-01-30,In Progress
+ACT-01389,VULN-00659,Patching,Jack Sandoval,Immediate,2025-08-31,2025-09-30,2025-09-18,Completed
+ACT-01390,VULN-00872,Patching,Tony Ramsey,Immediate,2025-05-20,2025-06-19,2025-06-01,In Progress
+ACT-01391,VULN-00785,User Training,Brian Navarro,Immediate,2025-06-16,2025-07-16,2025-06-21,In Progress
+ACT-01392,VULN-02946,Patching,Kelly Calderon,High,2025-11-25,2025-12-25,2025-12-10,Completed
+ACT-01393,VULN-02711,Software Update,Tara King,Low,2026-03-04,2026-04-03,2026-03-18,Completed
+ACT-01394,VULN-01682,Patching,Cynthia Martinez,Medium,2026-03-11,2026-04-10,2026-03-17,Completed
+ACT-01395,VULN-01242,Config Change,Erin Silva,Immediate,2025-12-16,2026-01-15,2025-12-23,Completed
+ACT-01396,VULN-02439,Config Change,Paul Young,High,2025-05-21,2025-06-20,2025-05-30,In Progress
+ACT-01397,VULN-01967,User Training,Charles Thompson,Immediate,2025-05-02,2025-06-01,2025-05-16,Completed
+ACT-01398,VULN-00149,Patching,Jessica King,Immediate,2025-12-23,2026-01-22,\N,Completed
+ACT-01399,VULN-01179,Config Change,Katherine Brooks,Medium,2025-08-17,2025-09-16,2025-08-21,Completed
+ACT-01400,VULN-00193,User Training,Emily Coleman,High,2026-01-23,2026-02-22,\N,Completed
+ACT-01401,VULN-02178,Config Change,Tracey Suarez,Medium,2025-11-01,2025-12-01,2025-11-06,Completed
+ACT-01402,VULN-01901,Patching,Heidi Baldwin,Low,2026-02-18,2026-03-20,2026-02-23,Completed
+ACT-01403,VULN-02221,Software Update,Alisha Rasmussen,Low,2026-02-27,2026-03-29,2026-03-19,Completed
+ACT-01404,VULN-00195,Network Segregation,Sarah Bates,Low,2026-01-08,2026-02-07,2026-01-24,Completed
+ACT-01405,VULN-02709,Software Update,Melissa Mccormick,Low,2025-12-21,2026-01-20,2025-12-28,In Progress
+ACT-01406,VULN-01689,Software Update,Juan Parker,Immediate,2025-07-18,2025-08-17,2025-08-07,Completed
+ACT-01407,VULN-00098,Config Change,Heidi Burnett,Immediate,2025-09-10,2025-10-10,2025-09-25,Completed
+ACT-01408,VULN-02930,User Training,Sean Mathews,Immediate,2025-11-16,2025-12-16,2025-11-25,Completed
+ACT-01409,VULN-00120,Software Update,Theodore Long,Immediate,2026-01-12,2026-02-11,2026-01-26,Completed
+ACT-01410,VULN-01702,Patching,Dawn Davis,Immediate,2025-04-20,2025-05-20,2025-04-29,Completed
+ACT-01411,VULN-02403,Patching,Cynthia Clark,High,2025-05-09,2025-06-08,2025-05-19,Completed
+ACT-01412,VULN-01549,User Training,Sydney Welch,Medium,2025-09-13,2025-10-13,2025-09-29,Completed
+ACT-01413,VULN-00024,User Training,Pamela Sullivan,High,2025-12-05,2026-01-04,2025-12-23,Completed
+ACT-01414,VULN-00426,User Training,Sean Morrow,Medium,2025-10-18,2025-11-17,2025-10-30,Completed
+ACT-01415,VULN-01186,Network Segregation,Kaitlin Gutierrez,Immediate,2025-07-03,2025-08-02,2025-07-09,Completed
+ACT-01416,VULN-01241,Config Change,Michelle Mcdowell,Medium,2025-11-26,2025-12-26,2025-12-10,Completed
+ACT-01417,VULN-00692,Patching,Samantha Hale,Low,2025-05-03,2025-06-02,2025-05-08,In Progress
+ACT-01418,VULN-02375,Network Segregation,Heather Guzman,Medium,2026-02-26,2026-03-28,\N,Completed
+ACT-01419,VULN-01661,User Training,Nancy Chavez,Medium,2025-07-26,2025-08-25,2025-08-07,Completed
+ACT-01420,VULN-01976,Patching,Anthony May,Low,2025-12-23,2026-01-22,2026-01-02,Completed
+ACT-01421,VULN-01226,Network Segregation,Rachel Taylor,Low,2025-10-22,2025-11-21,2025-11-05,Completed
+ACT-01422,VULN-01382,Software Update,Mark Edwards,High,2025-10-08,2025-11-07,2025-10-26,Completed
+ACT-01423,VULN-02100,Patching,Christopher Black,Immediate,2025-07-13,2025-08-12,2025-07-17,In Progress
+ACT-01424,VULN-00794,Patching,Sandra Hines,Medium,2025-10-09,2025-11-08,2025-10-18,Completed
+ACT-01425,VULN-01363,User Training,Melissa Sparks,Low,2025-07-13,2025-08-12,\N,Completed
+ACT-01426,VULN-00630,Patching,John Moss,Medium,2026-01-16,2026-02-15,\N,Completed
+ACT-01427,VULN-01509,Network Segregation,Michael Serrano,Low,2025-04-18,2025-05-18,2025-05-06,Completed
+ACT-01428,VULN-01605,Config Change,Christina Perry,Low,2025-05-14,2025-06-13,\N,Completed
+ACT-01429,VULN-00289,User Training,Shawn Duffy,Low,2025-10-11,2025-11-10,2025-10-13,In Progress
+ACT-01430,VULN-01834,Software Update,Courtney Vaughan,Low,2025-09-21,2025-10-21,2025-09-25,In Progress
+ACT-01431,VULN-02489,User Training,Maria Sims,Low,2026-02-08,2026-03-10,2026-02-14,Completed
+ACT-01432,VULN-00678,Patching,Valerie Gonzalez,Low,2025-10-03,2025-11-02,2025-10-11,Completed
+ACT-01433,VULN-02301,Software Update,Caroline Morales,Low,2025-05-18,2025-06-17,2025-06-01,Completed
+ACT-01434,VULN-02644,Patching,David Davis,Medium,2025-05-29,2025-06-28,2025-06-05,Completed
+ACT-01435,VULN-01719,Network Segregation,Travis Wilson,High,2025-07-14,2025-08-13,2025-07-29,Completed
+ACT-01436,VULN-00745,Network Segregation,Jessica Mora,Immediate,2026-03-06,2026-04-05,2026-03-16,Completed
+ACT-01437,VULN-00966,Patching,Michael Wilson,Immediate,2025-09-10,2025-10-10,2025-09-17,Completed
+ACT-01438,VULN-00152,Config Change,Cheryl Atkins,High,2025-07-29,2025-08-28,\N,Completed
+ACT-01439,VULN-01330,User Training,Donna Snyder,Immediate,2025-05-11,2025-06-10,2025-05-24,In Progress
+ACT-01440,VULN-01924,Software Update,Scott Greene,Immediate,2025-04-20,2025-05-20,2025-05-02,Completed
+ACT-01441,VULN-00950,User Training,Diane Byrd MD,High,2025-04-26,2025-05-26,2025-05-04,Completed
+ACT-01442,VULN-00166,User Training,Charles Roberts,Low,2025-07-11,2025-08-10,2025-07-16,Completed
+ACT-01443,VULN-02529,Config Change,Luke Solomon,Low,2025-09-05,2025-10-05,\N,In Progress
+ACT-01444,VULN-01595,Patching,Michael Ellis,Immediate,2025-08-17,2025-09-16,2025-08-24,Completed
+ACT-01445,VULN-01453,Software Update,Casey Morris,Immediate,2025-12-08,2026-01-07,2025-12-12,In Progress
+ACT-01446,VULN-02830,Patching,Melissa Reeves,High,2025-04-29,2025-05-29,2025-05-15,Completed
+ACT-01447,VULN-02538,Patching,Nancy Scott,Medium,2025-10-29,2025-11-28,2025-10-31,In Progress
+ACT-01448,VULN-02010,Config Change,Anthony Cook,Low,2025-12-09,2026-01-08,2025-12-18,Completed
+ACT-01449,VULN-00216,Config Change,Terry Barajas,Medium,2025-10-31,2025-11-30,2025-11-12,Completed
+ACT-01450,VULN-00384,Patching,Tracy George,Low,2025-07-19,2025-08-18,\N,Completed
+ACT-01451,VULN-01874,Software Update,Amber King,Medium,2025-10-09,2025-11-08,2025-10-28,In Progress
+ACT-01452,VULN-00257,User Training,Elizabeth Foster,Medium,2026-02-26,2026-03-28,2026-03-16,Completed
+ACT-01453,VULN-02607,Config Change,Walter Hansen,Low,2025-10-18,2025-11-17,2025-11-05,Completed
+ACT-01454,VULN-00061,Patching,Debbie Gordon,Immediate,2025-05-06,2025-06-05,2025-05-18,Completed
+ACT-01455,VULN-00744,Config Change,Sherry Anderson,High,2025-11-16,2025-12-16,\N,Completed
+ACT-01456,VULN-01085,Config Change,Joseph Thomas,Medium,2025-12-13,2026-01-12,2026-01-01,Completed
+ACT-01457,VULN-00729,Software Update,Andrew Anderson,Immediate,2025-11-19,2025-12-19,2025-11-25,Completed
+ACT-01458,VULN-00470,Patching,Sandy Adkins,Low,2026-01-04,2026-02-03,2026-01-15,Completed
+ACT-01459,VULN-01814,Config Change,Diane Mcdowell,Medium,2026-01-07,2026-02-06,2026-01-22,Completed
+ACT-01460,VULN-00224,User Training,Pam Baker,High,2025-11-01,2025-12-01,2025-11-06,Completed
+ACT-01461,VULN-02878,Network Segregation,Steven Stewart,Medium,2026-04-09,2026-05-09,2026-04-25,Completed
+ACT-01462,VULN-02992,User Training,Pamela Hernandez DVM,High,2025-12-22,2026-01-21,\N,Completed
+ACT-01463,VULN-01414,Network Segregation,Rebecca Brown,Immediate,2025-08-16,2025-09-15,2025-08-18,Completed
+ACT-01464,VULN-00148,Network Segregation,David Johnson,Medium,2026-04-10,2026-05-10,2026-04-15,In Progress
+ACT-01465,VULN-02307,User Training,Michael Graham,High,2026-02-05,2026-03-07,2026-02-17,Completed
+ACT-01466,VULN-01830,User Training,Tammy Williams MD,Low,2026-04-08,2026-05-08,\N,In Progress
+ACT-01467,VULN-00142,User Training,Karina Vasquez,Immediate,2025-08-16,2025-09-15,2025-08-17,Completed
+ACT-01468,VULN-00812,Config Change,Sharon Martinez,Low,2026-03-18,2026-04-17,\N,Completed
+ACT-01469,VULN-00283,Software Update,Sean White,High,2026-01-01,2026-01-31,\N,Completed
+ACT-01470,VULN-02495,Patching,Jordan Nelson,Low,2025-06-20,2025-07-20,2025-07-05,Completed
+ACT-01471,VULN-00639,Patching,Laurie Silva,Low,2026-02-28,2026-03-30,2026-03-12,In Progress
+ACT-01472,VULN-02547,Config Change,Kelly Duncan,High,2026-03-24,2026-04-23,2026-03-26,Completed
+ACT-01473,VULN-00340,User Training,Billy Tate,High,2025-10-15,2025-11-14,2025-11-03,Completed
+ACT-01474,VULN-01816,User Training,Stacy Johnson,High,2025-10-20,2025-11-19,2025-10-29,Completed
+ACT-01475,VULN-01246,Network Segregation,Melanie Long,Immediate,2025-06-13,2025-07-13,2025-06-21,Completed
+ACT-01476,VULN-01792,Network Segregation,Tiffany Hood,Medium,2025-11-20,2025-12-20,2025-12-09,Completed
+ACT-01477,VULN-02778,Software Update,Brad Rivas,Medium,2025-10-01,2025-10-31,2025-10-13,Completed
+ACT-01478,VULN-00663,Network Segregation,Jordan Moses,High,2026-01-04,2026-02-03,2026-01-10,Completed
+ACT-01479,VULN-01187,Network Segregation,Abigail Booker,Immediate,2025-07-11,2025-08-10,2025-07-16,In Progress
+ACT-01480,VULN-02687,Patching,Tiffany Nguyen,High,2026-02-01,2026-03-03,2026-02-10,Completed
+ACT-01481,VULN-00537,Network Segregation,Morgan Bernard,Low,2025-11-01,2025-12-01,\N,Completed
+ACT-01482,VULN-02993,User Training,Christine Williams,Immediate,2025-11-17,2025-12-17,2025-11-18,Completed
+ACT-01483,VULN-01025,Patching,Erica Brown,Immediate,2025-11-28,2025-12-28,\N,Completed
+ACT-01484,VULN-01770,Patching,Trevor James,Immediate,2026-04-09,2026-05-09,2026-04-12,Completed
+ACT-01485,VULN-02743,Software Update,Christopher Hanna,High,2026-02-03,2026-03-05,\N,Completed
+ACT-01486,VULN-00935,Software Update,Ann Phelps,Medium,2025-04-29,2025-05-29,\N,Completed
+ACT-01487,VULN-00251,Network Segregation,Richard Mitchell,Low,2026-03-26,2026-04-25,2026-03-31,Completed
+ACT-01488,VULN-00635,Software Update,Martha Martinez,High,2026-03-16,2026-04-15,2026-03-23,Completed
+ACT-01489,VULN-01402,Config Change,Jeffrey Drake MD,High,2025-09-23,2025-10-23,2025-10-08,Completed
+ACT-01490,VULN-01934,Network Segregation,Bonnie Wade,High,2025-12-29,2026-01-28,\N,Completed
+ACT-01491,VULN-01175,Patching,Kayla Burns,High,2025-07-14,2025-08-13,2025-07-16,Completed
+ACT-01492,VULN-00612,User Training,Karen Hart,High,2025-09-24,2025-10-24,2025-09-27,Completed
+ACT-01493,VULN-00028,Software Update,Peter Shepherd,Low,2026-01-23,2026-02-22,2026-02-05,Completed
+ACT-01494,VULN-01539,Network Segregation,Jessica Simmons,Immediate,2026-03-16,2026-04-15,2026-03-23,Completed
+ACT-01495,VULN-00223,Patching,Glenn Ford,Medium,2025-12-21,2026-01-20,\N,Completed
+ACT-01496,VULN-02275,Patching,Michael Moore,Low,2025-11-04,2025-12-04,2025-11-11,Completed
+ACT-01497,VULN-00241,Patching,Mark Warren IV,Low,2025-06-02,2025-07-02,2025-06-14,Completed
+ACT-01498,VULN-01129,Config Change,Terry Woods,Immediate,2026-03-26,2026-04-25,2026-04-10,Completed
+ACT-01499,VULN-02493,Patching,Carl Leach,Medium,2025-09-10,2025-10-10,2025-09-19,In Progress
+ACT-01500,VULN-01688,User Training,Kelly Phillips,Immediate,2025-05-28,2025-06-27,2025-06-12,Completed

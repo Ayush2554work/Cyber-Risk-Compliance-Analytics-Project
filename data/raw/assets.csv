@@ -1,0 +1,501 @@
+asset_id,asset_name,department,asset_type,owner_role,location,criticality,internet_exposed,cloud_or_onprem,business_value
+AST-0001,Server_1,IT,Server,IT Admin,London,High,Yes,On-Prem,77
+AST-0002,IoT Device_2,IT,IoT Device,IT Admin,Singapore,Critical,No,On-Prem,88
+AST-0003,Server_3,Finance,Server,Finance Admin,Dublin,Critical,Yes,On-Prem,76
+AST-0004,Mobile Device_4,Finance,Mobile Device,Finance Admin,On-Prem,Critical,No,On-Prem,92
+AST-0005,Workstation_5,Legal,Workstation,Legal Admin,New York,Low,No,On-Prem,45
+AST-0006,IoT Device_6,HR,IoT Device,HR Admin,Tokyo,Low,No,On-Prem,53
+AST-0007,Workstation_7,HR,Workstation,HR Admin,New York,Medium,No,On-Prem,23
+AST-0008,Server_8,Legal,Server,Legal Admin,New York,Medium,No,On-Prem,54
+AST-0009,Mobile Device_9,R&D,Mobile Device,R&D Admin,New York,Critical,No,On-Prem,58
+AST-0010,Network Switch_10,Marketing,Network Switch,Marketing Admin,On-Prem,Medium,No,On-Prem,34
+AST-0011,Server_11,IT,Server,IT Admin,New York,Critical,No,On-Prem,94
+AST-0012,Network Switch_12,Sales,Network Switch,Sales Admin,Tokyo,Critical,No,On-Prem,58
+AST-0013,IoT Device_13,R&D,IoT Device,R&D Admin,Tokyo,Medium,No,On-Prem,30
+AST-0014,Workstation_14,Operations,Workstation,Operations Admin,Dublin,Medium,No,On-Prem,19
+AST-0015,Mobile Device_15,HR,Mobile Device,HR Admin,Singapore,High,No,On-Prem,30
+AST-0016,Database_16,Legal,Database,Legal Admin,London,High,Yes,On-Prem,51
+AST-0017,Network Switch_17,Finance,Network Switch,Finance Admin,Tokyo,High,No,On-Prem,82
+AST-0018,Workstation_18,IT,Workstation,IT Admin,On-Prem,High,No,On-Prem,76
+AST-0019,Cloud Instance_19,R&D,Cloud Instance,R&D Admin,London,Low,No,Cloud,28
+AST-0020,IoT Device_20,Sales,IoT Device,Sales Admin,Dublin,Medium,No,On-Prem,64
+AST-0021,Database_21,Legal,Database,Legal Admin,New York,High,No,On-Prem,27
+AST-0022,Network Switch_22,Finance,Network Switch,Finance Admin,On-Prem,Critical,No,On-Prem,74
+AST-0023,Network Switch_23,HR,Network Switch,HR Admin,Singapore,Low,No,On-Prem,18
+AST-0024,Mobile Device_24,Legal,Mobile Device,Legal Admin,Tokyo,Low,No,On-Prem,77
+AST-0025,IoT Device_25,Finance,IoT Device,Finance Admin,Dublin,Critical,No,On-Prem,91
+AST-0026,Network Switch_26,Marketing,Network Switch,Marketing Admin,Tokyo,Medium,No,On-Prem,24
+AST-0027,Workstation_27,Legal,Workstation,Legal Admin,On-Prem,Low,No,On-Prem,10
+AST-0028,Mobile Device_28,Marketing,Mobile Device,Marketing Admin,New York,High,No,On-Prem,74
+AST-0029,Network Switch_29,Marketing,Network Switch,Marketing Admin,Tokyo,High,No,On-Prem,29
+AST-0030,Mobile Device_30,HR,Mobile Device,HR Admin,Singapore,Critical,No,On-Prem,51
+AST-0031,Server_31,Finance,Server,Finance Admin,London,High,No,On-Prem,98
+AST-0032,Workstation_32,Finance,Workstation,Finance Admin,On-Prem,Critical,No,On-Prem,72
+AST-0033,Network Switch_33,R&D,Network Switch,R&D Admin,London,Critical,No,On-Prem,78
+AST-0034,IoT Device_34,HR,IoT Device,HR Admin,London,Low,No,On-Prem,80
+AST-0035,Mobile Device_35,Marketing,Mobile Device,Marketing Admin,Dublin,Low,No,On-Prem,37
+AST-0036,IoT Device_36,Sales,IoT Device,Sales Admin,On-Prem,Medium,No,On-Prem,61
+AST-0037,Cloud Instance_37,Operations,Cloud Instance,Operations Admin,London,Low,Yes,Cloud,25
+AST-0038,Database_38,IT,Database,IT Admin,Dublin,Critical,Yes,On-Prem,88
+AST-0039,Server_39,Sales,Server,Sales Admin,New York,Critical,Yes,On-Prem,17
+AST-0040,Network Switch_40,Finance,Network Switch,Finance Admin,Dublin,High,No,On-Prem,72
+AST-0041,Database_41,Sales,Database,Sales Admin,On-Prem,Low,Yes,On-Prem,37
+AST-0042,Workstation_42,R&D,Workstation,R&D Admin,London,Low,No,On-Prem,62
+AST-0043,Server_43,IT,Server,IT Admin,Singapore,High,No,On-Prem,81
+AST-0044,Network Switch_44,R&D,Network Switch,R&D Admin,New York,Critical,No,On-Prem,22
+AST-0045,IoT Device_45,Legal,IoT Device,Legal Admin,London,Medium,No,On-Prem,23
+AST-0046,Workstation_46,Sales,Workstation,Sales Admin,Singapore,Low,No,On-Prem,27
+AST-0047,Database_47,HR,Database,HR Admin,Singapore,Low,Yes,On-Prem,41
+AST-0048,Server_48,IT,Server,IT Admin,London,Critical,Yes,On-Prem,72
+AST-0049,Cloud Instance_49,Legal,Cloud Instance,Legal Admin,New York,Low,No,Cloud,37
+AST-0050,Cloud Instance_50,HR,Cloud Instance,HR Admin,Singapore,Critical,No,Cloud,59
+AST-0051,Cloud Instance_51,Marketing,Cloud Instance,Marketing Admin,Tokyo,Low,Yes,Cloud,29
+AST-0052,Server_52,Sales,Server,Sales Admin,New York,Critical,Yes,On-Prem,50
+AST-0053,Mobile Device_53,R&D,Mobile Device,R&D Admin,Dublin,High,No,On-Prem,17
+AST-0054,Network Switch_54,IT,Network Switch,IT Admin,Dublin,Critical,No,On-Prem,72
+AST-0055,IoT Device_55,IT,IoT Device,IT Admin,New York,Critical,No,On-Prem,82
+AST-0056,Mobile Device_56,Sales,Mobile Device,Sales Admin,Singapore,Critical,No,On-Prem,20
+AST-0057,Database_57,Operations,Database,Operations Admin,Tokyo,High,Yes,On-Prem,50
+AST-0058,Workstation_58,Legal,Workstation,Legal Admin,Tokyo,Medium,No,On-Prem,68
+AST-0059,Server_59,IT,Server,IT Admin,New York,High,Yes,On-Prem,89
+AST-0060,Mobile Device_60,Sales,Mobile Device,Sales Admin,Tokyo,Medium,No,On-Prem,26
+AST-0061,Workstation_61,IT,Workstation,IT Admin,London,High,No,On-Prem,79
+AST-0062,Network Switch_62,R&D,Network Switch,R&D Admin,New York,Medium,No,On-Prem,77
+AST-0063,IoT Device_63,Marketing,IoT Device,Marketing Admin,Tokyo,Critical,No,On-Prem,27
+AST-0064,Server_64,IT,Server,IT Admin,Dublin,Critical,No,On-Prem,78
+AST-0065,IoT Device_65,Sales,IoT Device,Sales Admin,On-Prem,Medium,No,On-Prem,36
+AST-0066,Mobile Device_66,Marketing,Mobile Device,Marketing Admin,New York,Low,No,On-Prem,42
+AST-0067,IoT Device_67,IT,IoT Device,IT Admin,Tokyo,High,No,On-Prem,96
+AST-0068,Server_68,Finance,Server,Finance Admin,On-Prem,High,Yes,On-Prem,94
+AST-0069,Workstation_69,Marketing,Workstation,Marketing Admin,On-Prem,Low,No,On-Prem,80
+AST-0070,Mobile Device_70,Legal,Mobile Device,Legal Admin,New York,Critical,No,On-Prem,24
+AST-0071,Mobile Device_71,HR,Mobile Device,HR Admin,Dublin,Critical,No,On-Prem,57
+AST-0072,Cloud Instance_72,HR,Cloud Instance,HR Admin,Tokyo,High,No,Cloud,15
+AST-0073,Database_73,Finance,Database,Finance Admin,On-Prem,Critical,Yes,On-Prem,91
+AST-0074,Database_74,IT,Database,IT Admin,London,High,Yes,On-Prem,89
+AST-0075,Network Switch_75,HR,Network Switch,HR Admin,New York,High,No,On-Prem,62
+AST-0076,IoT Device_76,HR,IoT Device,HR Admin,On-Prem,Medium,No,On-Prem,62
+AST-0077,Database_77,Sales,Database,Sales Admin,New York,High,No,On-Prem,23
+AST-0078,Workstation_78,R&D,Workstation,R&D Admin,Tokyo,High,No,On-Prem,68
+AST-0079,Network Switch_79,Marketing,Network Switch,Marketing Admin,New York,High,No,On-Prem,38
+AST-0080,Cloud Instance_80,Sales,Cloud Instance,Sales Admin,Tokyo,Medium,Yes,Cloud,45
+AST-0081,IoT Device_81,Operations,IoT Device,Operations Admin,Tokyo,Low,No,On-Prem,78
+AST-0082,Server_82,Finance,Server,Finance Admin,New York,High,No,On-Prem,75
+AST-0083,Mobile Device_83,IT,Mobile Device,IT Admin,On-Prem,High,No,On-Prem,81
+AST-0084,Cloud Instance_84,Operations,Cloud Instance,Operations Admin,Tokyo,Critical,Yes,Cloud,59
+AST-0085,IoT Device_85,Finance,IoT Device,Finance Admin,Dublin,High,No,On-Prem,70
+AST-0086,Database_86,Sales,Database,Sales Admin,Dublin,Low,No,On-Prem,18
+AST-0087,IoT Device_87,Operations,IoT Device,Operations Admin,Dublin,Critical,No,On-Prem,48
+AST-0088,IoT Device_88,Marketing,IoT Device,Marketing Admin,Singapore,Low,No,On-Prem,51
+AST-0089,Mobile Device_89,Marketing,Mobile Device,Marketing Admin,Singapore,High,No,On-Prem,34
+AST-0090,IoT Device_90,Legal,IoT Device,Legal Admin,Singapore,High,No,On-Prem,48
+AST-0091,Database_91,Finance,Database,Finance Admin,Dublin,High,No,On-Prem,76
+AST-0092,Cloud Instance_92,Operations,Cloud Instance,Operations Admin,Dublin,Low,Yes,Cloud,66
+AST-0093,Network Switch_93,R&D,Network Switch,R&D Admin,Tokyo,High,No,On-Prem,20
+AST-0094,Server_94,Operations,Server,Operations Admin,London,High,Yes,On-Prem,49
+AST-0095,Server_95,HR,Server,HR Admin,Dublin,Critical,No,On-Prem,41
+AST-0096,Cloud Instance_96,IT,Cloud Instance,IT Admin,On-Prem,High,Yes,Cloud,98
+AST-0097,Cloud Instance_97,Legal,Cloud Instance,Legal Admin,On-Prem,Low,Yes,Cloud,41
+AST-0098,Network Switch_98,Finance,Network Switch,Finance Admin,Singapore,Critical,No,On-Prem,94
+AST-0099,Workstation_99,Sales,Workstation,Sales Admin,Dublin,Low,No,On-Prem,16
+AST-0100,Network Switch_100,Sales,Network Switch,Sales Admin,London,Critical,No,On-Prem,68
+AST-0101,IoT Device_101,R&D,IoT Device,R&D Admin,Dublin,Medium,No,On-Prem,66
+AST-0102,Network Switch_102,Legal,Network Switch,Legal Admin,On-Prem,Low,No,On-Prem,30
+AST-0103,Cloud Instance_103,R&D,Cloud Instance,R&D Admin,Dublin,Medium,No,Cloud,41
+AST-0104,IoT Device_104,R&D,IoT Device,R&D Admin,Singapore,High,No,On-Prem,45
+AST-0105,IoT Device_105,IT,IoT Device,IT Admin,Tokyo,High,No,On-Prem,77
+AST-0106,Database_106,Operations,Database,Operations Admin,London,Critical,Yes,On-Prem,27
+AST-0107,IoT Device_107,Legal,IoT Device,Legal Admin,New York,High,No,On-Prem,37
+AST-0108,Cloud Instance_108,Legal,Cloud Instance,Legal Admin,Singapore,Medium,No,Cloud,79
+AST-0109,Workstation_109,Finance,Workstation,Finance Admin,Dublin,High,No,On-Prem,82
+AST-0110,Network Switch_110,Finance,Network Switch,Finance Admin,New York,High,No,On-Prem,85
+AST-0111,Database_111,Operations,Database,Operations Admin,Singapore,Low,Yes,On-Prem,63
+AST-0112,Database_112,Sales,Database,Sales Admin,Singapore,Low,Yes,On-Prem,72
+AST-0113,IoT Device_113,Operations,IoT Device,Operations Admin,Singapore,Low,No,On-Prem,31
+AST-0114,Mobile Device_114,HR,Mobile Device,HR Admin,Dublin,Critical,No,On-Prem,60
+AST-0115,Server_115,Finance,Server,Finance Admin,London,High,No,On-Prem,74
+AST-0116,Database_116,Finance,Database,Finance Admin,Singapore,High,Yes,On-Prem,80
+AST-0117,Database_117,Operations,Database,Operations Admin,Tokyo,Low,No,On-Prem,45
+AST-0118,Cloud Instance_118,IT,Cloud Instance,IT Admin,Tokyo,Critical,Yes,Cloud,93
+AST-0119,IoT Device_119,Sales,IoT Device,Sales Admin,New York,Critical,No,On-Prem,15
+AST-0120,Workstation_120,Sales,Workstation,Sales Admin,London,Critical,No,On-Prem,29
+AST-0121,Cloud Instance_121,HR,Cloud Instance,HR Admin,On-Prem,Critical,No,Cloud,37
+AST-0122,Network Switch_122,Marketing,Network Switch,Marketing Admin,Dublin,Medium,No,On-Prem,31
+AST-0123,Network Switch_123,IT,Network Switch,IT Admin,Tokyo,Critical,No,On-Prem,100
+AST-0124,Mobile Device_124,IT,Mobile Device,IT Admin,Tokyo,Critical,No,On-Prem,99
+AST-0125,Cloud Instance_125,Legal,Cloud Instance,Legal Admin,New York,High,Yes,Cloud,19
+AST-0126,Network Switch_126,Marketing,Network Switch,Marketing Admin,Tokyo,Critical,No,On-Prem,15
+AST-0127,IoT Device_127,Legal,IoT Device,Legal Admin,Dublin,Medium,No,On-Prem,18
+AST-0128,Server_128,Operations,Server,Operations Admin,Singapore,Low,Yes,On-Prem,72
+AST-0129,IoT Device_129,Operations,IoT Device,Operations Admin,Singapore,Low,No,On-Prem,29
+AST-0130,IoT Device_130,HR,IoT Device,HR Admin,Singapore,Medium,No,On-Prem,78
+AST-0131,Cloud Instance_131,R&D,Cloud Instance,R&D Admin,New York,Medium,Yes,Cloud,51
+AST-0132,Cloud Instance_132,Marketing,Cloud Instance,Marketing Admin,Tokyo,High,No,Cloud,69
+AST-0133,Cloud Instance_133,Finance,Cloud Instance,Finance Admin,London,High,No,Cloud,75
+AST-0134,Network Switch_134,Operations,Network Switch,Operations Admin,Tokyo,Medium,No,On-Prem,53
+AST-0135,Mobile Device_135,Marketing,Mobile Device,Marketing Admin,London,Critical,No,On-Prem,76
+AST-0136,Workstation_136,IT,Workstation,IT Admin,Dublin,High,No,On-Prem,85
+AST-0137,IoT Device_137,Sales,IoT Device,Sales Admin,Singapore,Low,No,On-Prem,72
+AST-0138,Server_138,Finance,Server,Finance Admin,On-Prem,High,No,On-Prem,77
+AST-0139,Database_139,Sales,Database,Sales Admin,Singapore,Medium,No,On-Prem,70
+AST-0140,Database_140,Operations,Database,Operations Admin,Tokyo,Low,No,On-Prem,44
+AST-0141,Server_141,Sales,Server,Sales Admin,On-Prem,High,Yes,On-Prem,50
+AST-0142,Workstation_142,HR,Workstation,HR Admin,Tokyo,High,No,On-Prem,71
+AST-0143,Server_143,Marketing,Server,Marketing Admin,Tokyo,High,Yes,On-Prem,47
+AST-0144,Database_144,HR,Database,HR Admin,Tokyo,Critical,Yes,On-Prem,78
+AST-0145,Server_145,Finance,Server,Finance Admin,On-Prem,High,Yes,On-Prem,92
+AST-0146,Server_146,R&D,Server,R&D Admin,Singapore,Critical,No,On-Prem,46
+AST-0147,Database_147,R&D,Database,R&D Admin,Singapore,High,No,On-Prem,16
+AST-0148,Network Switch_148,IT,Network Switch,IT Admin,Singapore,Critical,No,On-Prem,82
+AST-0149,Mobile Device_149,IT,Mobile Device,IT Admin,London,Critical,No,On-Prem,74
+AST-0150,Server_150,Marketing,Server,Marketing Admin,Dublin,High,No,On-Prem,25
+AST-0151,Network Switch_151,Sales,Network Switch,Sales Admin,Singapore,Low,No,On-Prem,67
+AST-0152,Network Switch_152,Marketing,Network Switch,Marketing Admin,Dublin,Low,No,On-Prem,49
+AST-0153,Mobile Device_153,Finance,Mobile Device,Finance Admin,London,Critical,No,On-Prem,100
+AST-0154,Database_154,Sales,Database,Sales Admin,London,Critical,Yes,On-Prem,30
+AST-0155,Workstation_155,IT,Workstation,IT Admin,Singapore,Critical,No,On-Prem,83
+AST-0156,Database_156,R&D,Database,R&D Admin,On-Prem,Critical,No,On-Prem,39
+AST-0157,IoT Device_157,Marketing,IoT Device,Marketing Admin,On-Prem,Low,No,On-Prem,19
+AST-0158,Database_158,Sales,Database,Sales Admin,Dublin,High,Yes,On-Prem,64
+AST-0159,IoT Device_159,Sales,IoT Device,Sales Admin,London,High,No,On-Prem,44
+AST-0160,Server_160,IT,Server,IT Admin,Dublin,Critical,No,On-Prem,95
+AST-0161,Cloud Instance_161,Marketing,Cloud Instance,Marketing Admin,On-Prem,Critical,No,Cloud,69
+AST-0162,Database_162,Legal,Database,Legal Admin,Dublin,Low,Yes,On-Prem,66
+AST-0163,Cloud Instance_163,Finance,Cloud Instance,Finance Admin,New York,High,No,Cloud,89
+AST-0164,Workstation_164,IT,Workstation,IT Admin,On-Prem,Critical,No,On-Prem,94
+AST-0165,Mobile Device_165,Marketing,Mobile Device,Marketing Admin,Singapore,Critical,No,On-Prem,32
+AST-0166,Database_166,R&D,Database,R&D Admin,New York,High,No,On-Prem,65
+AST-0167,Database_167,R&D,Database,R&D Admin,On-Prem,Low,No,On-Prem,52
+AST-0168,Network Switch_168,IT,Network Switch,IT Admin,Singapore,Critical,No,On-Prem,80
+AST-0169,Database_169,R&D,Database,R&D Admin,Singapore,Low,Yes,On-Prem,80
+AST-0170,Database_170,IT,Database,IT Admin,Singapore,High,Yes,On-Prem,80
+AST-0171,IoT Device_171,Finance,IoT Device,Finance Admin,New York,High,No,On-Prem,83
+AST-0172,Mobile Device_172,Sales,Mobile Device,Sales Admin,On-Prem,Medium,No,On-Prem,73
+AST-0173,Network Switch_173,R&D,Network Switch,R&D Admin,Tokyo,Critical,No,On-Prem,36
+AST-0174,Database_174,HR,Database,HR Admin,New York,Low,Yes,On-Prem,72
+AST-0175,IoT Device_175,Sales,IoT Device,Sales Admin,Dublin,High,No,On-Prem,49
+AST-0176,Mobile Device_176,Finance,Mobile Device,Finance Admin,London,High,No,On-Prem,72
+AST-0177,Cloud Instance_177,IT,Cloud Instance,IT Admin,Singapore,Critical,Yes,Cloud,90
+AST-0178,Mobile Device_178,Marketing,Mobile Device,Marketing Admin,Singapore,Medium,No,On-Prem,63
+AST-0179,Workstation_179,R&D,Workstation,R&D Admin,London,Low,No,On-Prem,80
+AST-0180,Workstation_180,Legal,Workstation,Legal Admin,Tokyo,High,No,On-Prem,18
+AST-0181,Database_181,Legal,Database,Legal Admin,On-Prem,Medium,No,On-Prem,10
+AST-0182,Network Switch_182,Marketing,Network Switch,Marketing Admin,Singapore,Low,No,On-Prem,29
+AST-0183,Database_183,R&D,Database,R&D Admin,Singapore,Medium,No,On-Prem,80
+AST-0184,Network Switch_184,Operations,Network Switch,Operations Admin,Dublin,High,No,On-Prem,40
+AST-0185,Workstation_185,Legal,Workstation,Legal Admin,Tokyo,Low,No,On-Prem,15
+AST-0186,IoT Device_186,R&D,IoT Device,R&D Admin,On-Prem,Low,No,On-Prem,59
+AST-0187,Cloud Instance_187,HR,Cloud Instance,HR Admin,New York,Critical,No,Cloud,26
+AST-0188,Server_188,R&D,Server,R&D Admin,Singapore,Low,Yes,On-Prem,11
+AST-0189,Server_189,HR,Server,HR Admin,Dublin,Low,No,On-Prem,43
+AST-0190,IoT Device_190,Legal,IoT Device,Legal Admin,On-Prem,Critical,No,On-Prem,52
+AST-0191,Database_191,Legal,Database,Legal Admin,Dublin,Low,Yes,On-Prem,79
+AST-0192,Workstation_192,IT,Workstation,IT Admin,On-Prem,High,No,On-Prem,77
+AST-0193,Cloud Instance_193,IT,Cloud Instance,IT Admin,Singapore,Critical,Yes,Cloud,94
+AST-0194,IoT Device_194,HR,IoT Device,HR Admin,New York,Medium,No,On-Prem,13
+AST-0195,Network Switch_195,Operations,Network Switch,Operations Admin,Tokyo,Critical,No,On-Prem,47
+AST-0196,Cloud Instance_196,Operations,Cloud Instance,Operations Admin,Dublin,High,No,Cloud,41
+AST-0197,Workstation_197,HR,Workstation,HR Admin,Dublin,High,No,On-Prem,20
+AST-0198,Mobile Device_198,Legal,Mobile Device,Legal Admin,Dublin,High,No,On-Prem,73
+AST-0199,Workstation_199,HR,Workstation,HR Admin,Singapore,Low,No,On-Prem,42
+AST-0200,IoT Device_200,Marketing,IoT Device,Marketing Admin,Tokyo,Critical,No,On-Prem,69
+AST-0201,Server_201,HR,Server,HR Admin,On-Prem,Low,No,On-Prem,54
+AST-0202,IoT Device_202,Legal,IoT Device,Legal Admin,Tokyo,Medium,No,On-Prem,68
+AST-0203,Cloud Instance_203,Sales,Cloud Instance,Sales Admin,Singapore,Low,Yes,Cloud,23
+AST-0204,Mobile Device_204,Operations,Mobile Device,Operations Admin,New York,Medium,No,On-Prem,47
+AST-0205,Database_205,Legal,Database,Legal Admin,Tokyo,Critical,No,On-Prem,16
+AST-0206,Mobile Device_206,Sales,Mobile Device,Sales Admin,On-Prem,Medium,No,On-Prem,38
+AST-0207,Mobile Device_207,Sales,Mobile Device,Sales Admin,On-Prem,Medium,No,On-Prem,27
+AST-0208,IoT Device_208,IT,IoT Device,IT Admin,Singapore,Critical,No,On-Prem,79
+AST-0209,Mobile Device_209,Finance,Mobile Device,Finance Admin,London,High,No,On-Prem,93
+AST-0210,Database_210,IT,Database,IT Admin,London,High,No,On-Prem,93
+AST-0211,Workstation_211,Sales,Workstation,Sales Admin,Dublin,Medium,No,On-Prem,77
+AST-0212,Network Switch_212,Marketing,Network Switch,Marketing Admin,Singapore,High,No,On-Prem,42
+AST-0213,IoT Device_213,Marketing,IoT Device,Marketing Admin,Singapore,Medium,No,On-Prem,24
+AST-0214,Workstation_214,IT,Workstation,IT Admin,On-Prem,Critical,No,On-Prem,97
+AST-0215,Network Switch_215,Legal,Network Switch,Legal Admin,Singapore,Medium,No,On-Prem,21
+AST-0216,Database_216,Finance,Database,Finance Admin,On-Prem,Critical,No,On-Prem,84
+AST-0217,Mobile Device_217,Marketing,Mobile Device,Marketing Admin,New York,Low,No,On-Prem,57
+AST-0218,Cloud Instance_218,Sales,Cloud Instance,Sales Admin,On-Prem,Critical,Yes,Cloud,51
+AST-0219,IoT Device_219,IT,IoT Device,IT Admin,On-Prem,High,No,On-Prem,99
+AST-0220,IoT Device_220,Marketing,IoT Device,Marketing Admin,London,Low,No,On-Prem,24
+AST-0221,Server_221,Finance,Server,Finance Admin,New York,High,Yes,On-Prem,85
+AST-0222,Mobile Device_222,Sales,Mobile Device,Sales Admin,Singapore,High,No,On-Prem,59
+AST-0223,IoT Device_223,Operations,IoT Device,Operations Admin,Singapore,Low,No,On-Prem,29
+AST-0224,Network Switch_224,IT,Network Switch,IT Admin,Singapore,High,No,On-Prem,89
+AST-0225,Server_225,Marketing,Server,Marketing Admin,Singapore,Medium,No,On-Prem,37
+AST-0226,Network Switch_226,Sales,Network Switch,Sales Admin,On-Prem,Medium,No,On-Prem,22
+AST-0227,Mobile Device_227,Operations,Mobile Device,Operations Admin,Singapore,Medium,No,On-Prem,17
+AST-0228,Workstation_228,Marketing,Workstation,Marketing Admin,New York,Critical,No,On-Prem,68
+AST-0229,IoT Device_229,Sales,IoT Device,Sales Admin,Tokyo,Critical,No,On-Prem,16
+AST-0230,Workstation_230,Sales,Workstation,Sales Admin,Dublin,High,No,On-Prem,18
+AST-0231,Mobile Device_231,Sales,Mobile Device,Sales Admin,Tokyo,High,No,On-Prem,39
+AST-0232,Network Switch_232,HR,Network Switch,HR Admin,London,Critical,No,On-Prem,45
+AST-0233,Mobile Device_233,HR,Mobile Device,HR Admin,New York,Medium,No,On-Prem,32
+AST-0234,Workstation_234,Finance,Workstation,Finance Admin,London,Critical,No,On-Prem,81
+AST-0235,Server_235,Operations,Server,Operations Admin,London,High,Yes,On-Prem,43
+AST-0236,Mobile Device_236,Legal,Mobile Device,Legal Admin,Singapore,Critical,No,On-Prem,18
+AST-0237,Network Switch_237,R&D,Network Switch,R&D Admin,Dublin,Medium,No,On-Prem,75
+AST-0238,Cloud Instance_238,IT,Cloud Instance,IT Admin,On-Prem,Critical,Yes,Cloud,100
+AST-0239,Cloud Instance_239,Marketing,Cloud Instance,Marketing Admin,Singapore,Critical,No,Cloud,17
+AST-0240,IoT Device_240,Legal,IoT Device,Legal Admin,On-Prem,Critical,No,On-Prem,72
+AST-0241,Server_241,R&D,Server,R&D Admin,New York,Critical,Yes,On-Prem,51
+AST-0242,Database_242,HR,Database,HR Admin,Singapore,Medium,No,On-Prem,58
+AST-0243,Server_243,Legal,Server,Legal Admin,Singapore,Critical,Yes,On-Prem,80
+AST-0244,Workstation_244,R&D,Workstation,R&D Admin,Singapore,Low,No,On-Prem,53
+AST-0245,Cloud Instance_245,Legal,Cloud Instance,Legal Admin,Tokyo,Critical,No,Cloud,50
+AST-0246,Database_246,Marketing,Database,Marketing Admin,New York,High,Yes,On-Prem,70
+AST-0247,Server_247,IT,Server,IT Admin,London,High,No,On-Prem,73
+AST-0248,Mobile Device_248,Finance,Mobile Device,Finance Admin,New York,High,No,On-Prem,91
+AST-0249,Database_249,Legal,Database,Legal Admin,Dublin,Low,No,On-Prem,16
+AST-0250,Database_250,Marketing,Database,Marketing Admin,London,Critical,Yes,On-Prem,74
+AST-0251,Workstation_251,R&D,Workstation,R&D Admin,Dublin,Critical,No,On-Prem,54
+AST-0252,Server_252,Operations,Server,Operations Admin,Dublin,Medium,No,On-Prem,38
+AST-0253,Mobile Device_253,Finance,Mobile Device,Finance Admin,London,High,No,On-Prem,70
+AST-0254,IoT Device_254,Marketing,IoT Device,Marketing Admin,Tokyo,Medium,No,On-Prem,53
+AST-0255,Workstation_255,Finance,Workstation,Finance Admin,On-Prem,Critical,No,On-Prem,88
+AST-0256,Server_256,Legal,Server,Legal Admin,On-Prem,High,Yes,On-Prem,13
+AST-0257,Cloud Instance_257,Sales,Cloud Instance,Sales Admin,London,Low,No,Cloud,68
+AST-0258,Database_258,Operations,Database,Operations Admin,London,Medium,Yes,On-Prem,20
+AST-0259,Network Switch_259,HR,Network Switch,HR Admin,Tokyo,Critical,No,On-Prem,20
+AST-0260,IoT Device_260,R&D,IoT Device,R&D Admin,Dublin,Low,No,On-Prem,72
+AST-0261,Cloud Instance_261,R&D,Cloud Instance,R&D Admin,Tokyo,Medium,Yes,Cloud,37
+AST-0262,Server_262,Legal,Server,Legal Admin,New York,Medium,No,On-Prem,72
+AST-0263,Cloud Instance_263,Sales,Cloud Instance,Sales Admin,Tokyo,Critical,Yes,Cloud,10
+AST-0264,Network Switch_264,Sales,Network Switch,Sales Admin,Tokyo,High,No,On-Prem,42
+AST-0265,Server_265,Operations,Server,Operations Admin,London,Critical,No,On-Prem,73
+AST-0266,Cloud Instance_266,HR,Cloud Instance,HR Admin,New York,High,No,Cloud,74
+AST-0267,Network Switch_267,Legal,Network Switch,Legal Admin,New York,Critical,No,On-Prem,65
+AST-0268,Server_268,R&D,Server,R&D Admin,On-Prem,Medium,No,On-Prem,64
+AST-0269,Database_269,Legal,Database,Legal Admin,Tokyo,Critical,Yes,On-Prem,61
+AST-0270,Network Switch_270,HR,Network Switch,HR Admin,New York,Low,No,On-Prem,56
+AST-0271,Network Switch_271,Legal,Network Switch,Legal Admin,Singapore,Critical,No,On-Prem,41
+AST-0272,Mobile Device_272,Legal,Mobile Device,Legal Admin,Tokyo,Critical,No,On-Prem,60
+AST-0273,Workstation_273,Operations,Workstation,Operations Admin,New York,Medium,No,On-Prem,31
+AST-0274,Mobile Device_274,IT,Mobile Device,IT Admin,Tokyo,Critical,No,On-Prem,98
+AST-0275,IoT Device_275,Operations,IoT Device,Operations Admin,New York,High,No,On-Prem,40
+AST-0276,Database_276,HR,Database,HR Admin,On-Prem,High,Yes,On-Prem,32
+AST-0277,Workstation_277,IT,Workstation,IT Admin,Dublin,High,No,On-Prem,84
+AST-0278,IoT Device_278,R&D,IoT Device,R&D Admin,London,Medium,No,On-Prem,50
+AST-0279,Server_279,R&D,Server,R&D Admin,Tokyo,Low,No,On-Prem,66
+AST-0280,Database_280,Finance,Database,Finance Admin,Singapore,Critical,No,On-Prem,79
+AST-0281,Server_281,Finance,Server,Finance Admin,New York,High,No,On-Prem,96
+AST-0282,Mobile Device_282,IT,Mobile Device,IT Admin,Dublin,High,No,On-Prem,84
+AST-0283,Cloud Instance_283,Finance,Cloud Instance,Finance Admin,Dublin,Critical,No,Cloud,80
+AST-0284,Server_284,HR,Server,HR Admin,On-Prem,Low,No,On-Prem,23
+AST-0285,Mobile Device_285,IT,Mobile Device,IT Admin,London,Critical,No,On-Prem,71
+AST-0286,Cloud Instance_286,R&D,Cloud Instance,R&D Admin,Tokyo,High,No,Cloud,56
+AST-0287,Cloud Instance_287,Legal,Cloud Instance,Legal Admin,New York,Medium,No,Cloud,16
+AST-0288,Server_288,Operations,Server,Operations Admin,On-Prem,Low,No,On-Prem,46
+AST-0289,Database_289,HR,Database,HR Admin,Tokyo,Critical,No,On-Prem,28
+AST-0290,Workstation_290,Legal,Workstation,Legal Admin,Dublin,Critical,No,On-Prem,49
+AST-0291,IoT Device_291,Legal,IoT Device,Legal Admin,On-Prem,Medium,No,On-Prem,26
+AST-0292,IoT Device_292,IT,IoT Device,IT Admin,Tokyo,High,No,On-Prem,86
+AST-0293,Database_293,Finance,Database,Finance Admin,Tokyo,High,Yes,On-Prem,75
+AST-0294,Workstation_294,R&D,Workstation,R&D Admin,London,High,No,On-Prem,27
+AST-0295,Database_295,IT,Database,IT Admin,On-Prem,Critical,Yes,On-Prem,86
+AST-0296,Network Switch_296,Operations,Network Switch,Operations Admin,London,High,No,On-Prem,58
+AST-0297,Workstation_297,HR,Workstation,HR Admin,New York,High,No,On-Prem,66
+AST-0298,Database_298,Legal,Database,Legal Admin,On-Prem,High,No,On-Prem,66
+AST-0299,Workstation_299,R&D,Workstation,R&D Admin,Singapore,High,No,On-Prem,49
+AST-0300,Database_300,Sales,Database,Sales Admin,Singapore,Low,No,On-Prem,69
+AST-0301,Workstation_301,Legal,Workstation,Legal Admin,Tokyo,High,No,On-Prem,27
+AST-0302,IoT Device_302,Finance,IoT Device,Finance Admin,Tokyo,High,No,On-Prem,97
+AST-0303,IoT Device_303,IT,IoT Device,IT Admin,New York,Critical,No,On-Prem,79
+AST-0304,Database_304,HR,Database,HR Admin,Singapore,Low,Yes,On-Prem,75
+AST-0305,Workstation_305,IT,Workstation,IT Admin,Tokyo,High,No,On-Prem,98
+AST-0306,Cloud Instance_306,Finance,Cloud Instance,Finance Admin,London,Critical,No,Cloud,82
+AST-0307,Server_307,Legal,Server,Legal Admin,Tokyo,Medium,Yes,On-Prem,38
+AST-0308,Network Switch_308,IT,Network Switch,IT Admin,London,High,No,On-Prem,95
+AST-0309,Server_309,HR,Server,HR Admin,On-Prem,Medium,Yes,On-Prem,70
+AST-0310,Cloud Instance_310,R&D,Cloud Instance,R&D Admin,Tokyo,Critical,Yes,Cloud,20
+AST-0311,Network Switch_311,Sales,Network Switch,Sales Admin,On-Prem,High,No,On-Prem,80
+AST-0312,Server_312,Legal,Server,Legal Admin,New York,Medium,No,On-Prem,40
+AST-0313,Workstation_313,Finance,Workstation,Finance Admin,Dublin,High,No,On-Prem,90
+AST-0314,Server_314,R&D,Server,R&D Admin,On-Prem,Critical,Yes,On-Prem,73
+AST-0315,IoT Device_315,Sales,IoT Device,Sales Admin,Singapore,High,No,On-Prem,47
+AST-0316,Mobile Device_316,Finance,Mobile Device,Finance Admin,Dublin,High,No,On-Prem,77
+AST-0317,Workstation_317,Legal,Workstation,Legal Admin,Tokyo,Critical,No,On-Prem,77
+AST-0318,Mobile Device_318,IT,Mobile Device,IT Admin,Singapore,Critical,No,On-Prem,82
+AST-0319,IoT Device_319,Finance,IoT Device,Finance Admin,Tokyo,High,No,On-Prem,81
+AST-0320,Database_320,Finance,Database,Finance Admin,On-Prem,Critical,Yes,On-Prem,81
+AST-0321,Network Switch_321,IT,Network Switch,IT Admin,New York,High,No,On-Prem,74
+AST-0322,Mobile Device_322,Operations,Mobile Device,Operations Admin,On-Prem,Medium,No,On-Prem,32
+AST-0323,IoT Device_323,R&D,IoT Device,R&D Admin,London,Low,No,On-Prem,33
+AST-0324,IoT Device_324,IT,IoT Device,IT Admin,Tokyo,High,No,On-Prem,71
+AST-0325,Server_325,Sales,Server,Sales Admin,Tokyo,High,No,On-Prem,15
+AST-0326,Network Switch_326,Legal,Network Switch,Legal Admin,New York,Low,No,On-Prem,42
+AST-0327,Database_327,Sales,Database,Sales Admin,Tokyo,Medium,No,On-Prem,16
+AST-0328,Network Switch_328,IT,Network Switch,IT Admin,Singapore,High,No,On-Prem,83
+AST-0329,Cloud Instance_329,R&D,Cloud Instance,R&D Admin,On-Prem,Medium,No,Cloud,33
+AST-0330,Database_330,R&D,Database,R&D Admin,New York,Medium,No,On-Prem,20
+AST-0331,Mobile Device_331,Legal,Mobile Device,Legal Admin,Tokyo,High,No,On-Prem,79
+AST-0332,Server_332,Operations,Server,Operations Admin,Tokyo,Critical,No,On-Prem,51
+AST-0333,Mobile Device_333,R&D,Mobile Device,R&D Admin,On-Prem,Low,No,On-Prem,31
+AST-0334,Database_334,R&D,Database,R&D Admin,Dublin,Low,No,On-Prem,15
+AST-0335,Database_335,Legal,Database,Legal Admin,Tokyo,Critical,No,On-Prem,19
+AST-0336,Server_336,HR,Server,HR Admin,London,High,Yes,On-Prem,66
+AST-0337,Workstation_337,IT,Workstation,IT Admin,Singapore,High,No,On-Prem,81
+AST-0338,Mobile Device_338,Finance,Mobile Device,Finance Admin,Singapore,Critical,No,On-Prem,91
+AST-0339,Database_339,Operations,Database,Operations Admin,Dublin,Low,Yes,On-Prem,19
+AST-0340,Cloud Instance_340,Operations,Cloud Instance,Operations Admin,New York,Medium,Yes,Cloud,45
+AST-0341,IoT Device_341,Finance,IoT Device,Finance Admin,Dublin,Critical,No,On-Prem,85
+AST-0342,Mobile Device_342,Legal,Mobile Device,Legal Admin,Tokyo,Critical,No,On-Prem,43
+AST-0343,Workstation_343,R&D,Workstation,R&D Admin,London,Medium,No,On-Prem,72
+AST-0344,Workstation_344,IT,Workstation,IT Admin,London,Critical,No,On-Prem,84
+AST-0345,Server_345,R&D,Server,R&D Admin,Dublin,Medium,Yes,On-Prem,54
+AST-0346,Database_346,Marketing,Database,Marketing Admin,Dublin,High,No,On-Prem,32
+AST-0347,Server_347,Sales,Server,Sales Admin,Singapore,High,Yes,On-Prem,27
+AST-0348,Database_348,Finance,Database,Finance Admin,Dublin,High,Yes,On-Prem,84
+AST-0349,Server_349,IT,Server,IT Admin,Dublin,High,No,On-Prem,82
+AST-0350,Network Switch_350,Legal,Network Switch,Legal Admin,London,Low,No,On-Prem,19
+AST-0351,IoT Device_351,Operations,IoT Device,Operations Admin,Singapore,Critical,No,On-Prem,67
+AST-0352,Workstation_352,Operations,Workstation,Operations Admin,Singapore,High,No,On-Prem,26
+AST-0353,Network Switch_353,Finance,Network Switch,Finance Admin,London,Critical,No,On-Prem,86
+AST-0354,Workstation_354,Marketing,Workstation,Marketing Admin,On-Prem,High,No,On-Prem,51
+AST-0355,Database_355,Sales,Database,Sales Admin,London,Medium,No,On-Prem,20
+AST-0356,Workstation_356,Marketing,Workstation,Marketing Admin,New York,Medium,No,On-Prem,78
+AST-0357,Mobile Device_357,HR,Mobile Device,HR Admin,On-Prem,High,No,On-Prem,31
+AST-0358,Network Switch_358,Operations,Network Switch,Operations Admin,New York,Critical,No,On-Prem,13
+AST-0359,IoT Device_359,Finance,IoT Device,Finance Admin,London,High,No,On-Prem,90
+AST-0360,Mobile Device_360,Legal,Mobile Device,Legal Admin,On-Prem,Critical,No,On-Prem,73
+AST-0361,IoT Device_361,Marketing,IoT Device,Marketing Admin,London,Medium,No,On-Prem,71
+AST-0362,Database_362,Legal,Database,Legal Admin,London,Low,Yes,On-Prem,19
+AST-0363,Cloud Instance_363,R&D,Cloud Instance,R&D Admin,Tokyo,Low,Yes,Cloud,69
+AST-0364,Database_364,HR,Database,HR Admin,London,Medium,No,On-Prem,54
+AST-0365,Mobile Device_365,Operations,Mobile Device,Operations Admin,London,Critical,No,On-Prem,50
+AST-0366,Server_366,R&D,Server,R&D Admin,London,Medium,Yes,On-Prem,67
+AST-0367,Server_367,IT,Server,IT Admin,Dublin,High,No,On-Prem,100
+AST-0368,Workstation_368,Legal,Workstation,Legal Admin,Dublin,High,No,On-Prem,51
+AST-0369,Workstation_369,Operations,Workstation,Operations Admin,Dublin,High,No,On-Prem,73
+AST-0370,Cloud Instance_370,R&D,Cloud Instance,R&D Admin,New York,Medium,Yes,Cloud,73
+AST-0371,Mobile Device_371,Legal,Mobile Device,Legal Admin,London,Low,No,On-Prem,40
+AST-0372,Server_372,Operations,Server,Operations Admin,Dublin,Critical,No,On-Prem,46
+AST-0373,Database_373,R&D,Database,R&D Admin,London,Critical,No,On-Prem,23
+AST-0374,IoT Device_374,Marketing,IoT Device,Marketing Admin,Tokyo,Medium,No,On-Prem,61
+AST-0375,Cloud Instance_375,Finance,Cloud Instance,Finance Admin,Tokyo,Critical,Yes,Cloud,88
+AST-0376,Server_376,Marketing,Server,Marketing Admin,Dublin,Low,No,On-Prem,74
+AST-0377,Network Switch_377,Marketing,Network Switch,Marketing Admin,New York,Critical,No,On-Prem,26
+AST-0378,Database_378,Legal,Database,Legal Admin,London,Medium,Yes,On-Prem,56
+AST-0379,Mobile Device_379,Legal,Mobile Device,Legal Admin,New York,Critical,No,On-Prem,15
+AST-0380,IoT Device_380,HR,IoT Device,HR Admin,Dublin,Medium,No,On-Prem,70
+AST-0381,Workstation_381,R&D,Workstation,R&D Admin,Dublin,High,No,On-Prem,51
+AST-0382,Workstation_382,Operations,Workstation,Operations Admin,Dublin,Low,No,On-Prem,48
+AST-0383,Mobile Device_383,Operations,Mobile Device,Operations Admin,Singapore,Low,No,On-Prem,48
+AST-0384,Database_384,Finance,Database,Finance Admin,Singapore,High,Yes,On-Prem,91
+AST-0385,Network Switch_385,Marketing,Network Switch,Marketing Admin,Tokyo,Critical,No,On-Prem,70
+AST-0386,IoT Device_386,Sales,IoT Device,Sales Admin,London,Critical,No,On-Prem,71
+AST-0387,Workstation_387,Legal,Workstation,Legal Admin,Dublin,High,No,On-Prem,14
+AST-0388,Workstation_388,IT,Workstation,IT Admin,Tokyo,Critical,No,On-Prem,84
+AST-0389,Workstation_389,Legal,Workstation,Legal Admin,Singapore,Low,No,On-Prem,36
+AST-0390,Network Switch_390,R&D,Network Switch,R&D Admin,Dublin,Critical,No,On-Prem,27
+AST-0391,Mobile Device_391,Sales,Mobile Device,Sales Admin,Dublin,Medium,No,On-Prem,71
+AST-0392,Database_392,Legal,Database,Legal Admin,Dublin,High,No,On-Prem,68
+AST-0393,IoT Device_393,Operations,IoT Device,Operations Admin,London,Medium,No,On-Prem,71
+AST-0394,Database_394,Sales,Database,Sales Admin,Tokyo,Medium,No,On-Prem,38
+AST-0395,IoT Device_395,Sales,IoT Device,Sales Admin,Singapore,Low,No,On-Prem,50
+AST-0396,Mobile Device_396,Operations,Mobile Device,Operations Admin,New York,Medium,No,On-Prem,46
+AST-0397,Cloud Instance_397,Legal,Cloud Instance,Legal Admin,New York,Medium,No,Cloud,28
+AST-0398,IoT Device_398,Marketing,IoT Device,Marketing Admin,Singapore,Critical,No,On-Prem,54
+AST-0399,IoT Device_399,Marketing,IoT Device,Marketing Admin,London,Low,No,On-Prem,37
+AST-0400,Mobile Device_400,Marketing,Mobile Device,Marketing Admin,New York,Medium,No,On-Prem,27
+AST-0401,Workstation_401,Sales,Workstation,Sales Admin,London,Critical,No,On-Prem,77
+AST-0402,Server_402,Sales,Server,Sales Admin,On-Prem,Critical,No,On-Prem,62
+AST-0403,Server_403,R&D,Server,R&D Admin,Singapore,High,Yes,On-Prem,10
+AST-0404,Cloud Instance_404,R&D,Cloud Instance,R&D Admin,Tokyo,High,No,Cloud,46
+AST-0405,Network Switch_405,Finance,Network Switch,Finance Admin,Dublin,Critical,No,On-Prem,90
+AST-0406,Mobile Device_406,Sales,Mobile Device,Sales Admin,Singapore,Critical,No,On-Prem,32
+AST-0407,Server_407,HR,Server,HR Admin,On-Prem,Low,Yes,On-Prem,73
+AST-0408,Server_408,Marketing,Server,Marketing Admin,Tokyo,Critical,Yes,On-Prem,48
+AST-0409,Cloud Instance_409,Marketing,Cloud Instance,Marketing Admin,Tokyo,Low,No,Cloud,27
+AST-0410,Network Switch_410,Sales,Network Switch,Sales Admin,London,Critical,No,On-Prem,52
+AST-0411,IoT Device_411,R&D,IoT Device,R&D Admin,New York,Medium,No,On-Prem,33
+AST-0412,Network Switch_412,Operations,Network Switch,Operations Admin,London,Medium,No,On-Prem,34
+AST-0413,Network Switch_413,Legal,Network Switch,Legal Admin,Tokyo,Low,No,On-Prem,75
+AST-0414,Cloud Instance_414,IT,Cloud Instance,IT Admin,Singapore,Critical,Yes,Cloud,75
+AST-0415,Workstation_415,Operations,Workstation,Operations Admin,Singapore,Critical,No,On-Prem,43
+AST-0416,Cloud Instance_416,Sales,Cloud Instance,Sales Admin,Dublin,Medium,No,Cloud,52
+AST-0417,Database_417,Finance,Database,Finance Admin,New York,High,Yes,On-Prem,92
+AST-0418,Cloud Instance_418,IT,Cloud Instance,IT Admin,On-Prem,High,No,Cloud,75
+AST-0419,IoT Device_419,Marketing,IoT Device,Marketing Admin,Tokyo,Critical,No,On-Prem,47
+AST-0420,Workstation_420,Sales,Workstation,Sales Admin,London,High,No,On-Prem,71
+AST-0421,IoT Device_421,R&D,IoT Device,R&D Admin,On-Prem,Medium,No,On-Prem,63
+AST-0422,Network Switch_422,R&D,Network Switch,R&D Admin,On-Prem,High,No,On-Prem,41
+AST-0423,Mobile Device_423,IT,Mobile Device,IT Admin,On-Prem,High,No,On-Prem,86
+AST-0424,Server_424,Operations,Server,Operations Admin,Dublin,Critical,Yes,On-Prem,17
+AST-0425,Workstation_425,HR,Workstation,HR Admin,Singapore,Medium,No,On-Prem,76
+AST-0426,IoT Device_426,IT,IoT Device,IT Admin,Dublin,Critical,No,On-Prem,92
+AST-0427,Server_427,R&D,Server,R&D Admin,London,Low,No,On-Prem,17
+AST-0428,Cloud Instance_428,Legal,Cloud Instance,Legal Admin,On-Prem,Critical,No,Cloud,69
+AST-0429,Cloud Instance_429,Finance,Cloud Instance,Finance Admin,On-Prem,High,Yes,Cloud,96
+AST-0430,Mobile Device_430,Sales,Mobile Device,Sales Admin,Singapore,Critical,No,On-Prem,15
+AST-0431,IoT Device_431,Operations,IoT Device,Operations Admin,New York,Critical,No,On-Prem,79
+AST-0432,Cloud Instance_432,IT,Cloud Instance,IT Admin,London,Critical,No,Cloud,79
+AST-0433,Network Switch_433,HR,Network Switch,HR Admin,Singapore,Low,No,On-Prem,57
+AST-0434,Network Switch_434,R&D,Network Switch,R&D Admin,New York,Low,No,On-Prem,58
+AST-0435,IoT Device_435,HR,IoT Device,HR Admin,London,Medium,No,On-Prem,25
+AST-0436,Mobile Device_436,Legal,Mobile Device,Legal Admin,New York,High,No,On-Prem,38
+AST-0437,Database_437,Finance,Database,Finance Admin,Dublin,High,No,On-Prem,91
+AST-0438,Network Switch_438,Legal,Network Switch,Legal Admin,Singapore,High,No,On-Prem,41
+AST-0439,Workstation_439,Operations,Workstation,Operations Admin,On-Prem,Medium,No,On-Prem,34
+AST-0440,Server_440,IT,Server,IT Admin,London,High,Yes,On-Prem,89
+AST-0441,Server_441,Sales,Server,Sales Admin,Dublin,Critical,No,On-Prem,14
+AST-0442,Workstation_442,Finance,Workstation,Finance Admin,Singapore,Critical,No,On-Prem,82
+AST-0443,Mobile Device_443,Sales,Mobile Device,Sales Admin,London,High,No,On-Prem,17
+AST-0444,Workstation_444,Marketing,Workstation,Marketing Admin,London,Medium,No,On-Prem,51
+AST-0445,Workstation_445,Marketing,Workstation,Marketing Admin,Tokyo,High,No,On-Prem,62
+AST-0446,Server_446,Marketing,Server,Marketing Admin,New York,High,No,On-Prem,64
+AST-0447,IoT Device_447,Operations,IoT Device,Operations Admin,Tokyo,Low,No,On-Prem,77
+AST-0448,Cloud Instance_448,Legal,Cloud Instance,Legal Admin,London,High,No,Cloud,48
+AST-0449,Workstation_449,R&D,Workstation,R&D Admin,On-Prem,High,No,On-Prem,48
+AST-0450,Network Switch_450,HR,Network Switch,HR Admin,Dublin,Low,No,On-Prem,17
+AST-0451,Cloud Instance_451,Legal,Cloud Instance,Legal Admin,Tokyo,High,Yes,Cloud,59
+AST-0452,Database_452,Sales,Database,Sales Admin,New York,Critical,No,On-Prem,67
+AST-0453,Server_453,Sales,Server,Sales Admin,New York,Medium,Yes,On-Prem,58
+AST-0454,Network Switch_454,Sales,Network Switch,Sales Admin,London,High,No,On-Prem,71
+AST-0455,Database_455,Operations,Database,Operations Admin,On-Prem,Critical,Yes,On-Prem,37
+AST-0456,IoT Device_456,IT,IoT Device,IT Admin,London,High,No,On-Prem,99
+AST-0457,Cloud Instance_457,Sales,Cloud Instance,Sales Admin,Tokyo,High,No,Cloud,80
+AST-0458,Cloud Instance_458,Legal,Cloud Instance,Legal Admin,Tokyo,Medium,No,Cloud,49
+AST-0459,Cloud Instance_459,R&D,Cloud Instance,R&D Admin,London,Critical,No,Cloud,70
+AST-0460,Database_460,Operations,Database,Operations Admin,On-Prem,Low,Yes,On-Prem,15
+AST-0461,Server_461,HR,Server,HR Admin,Tokyo,Medium,No,On-Prem,80
+AST-0462,Workstation_462,HR,Workstation,HR Admin,Singapore,Medium,No,On-Prem,39
+AST-0463,Cloud Instance_463,Sales,Cloud Instance,Sales Admin,On-Prem,Medium,No,Cloud,42
+AST-0464,Cloud Instance_464,R&D,Cloud Instance,R&D Admin,London,High,Yes,Cloud,55
+AST-0465,Workstation_465,R&D,Workstation,R&D Admin,New York,Critical,No,On-Prem,77
+AST-0466,Network Switch_466,IT,Network Switch,IT Admin,New York,Critical,No,On-Prem,94
+AST-0467,Workstation_467,Legal,Workstation,Legal Admin,On-Prem,High,No,On-Prem,18
+AST-0468,Server_468,HR,Server,HR Admin,Tokyo,High,No,On-Prem,74
+AST-0469,Mobile Device_469,Finance,Mobile Device,Finance Admin,Singapore,High,No,On-Prem,91
+AST-0470,Server_470,Finance,Server,Finance Admin,Dublin,High,Yes,On-Prem,70
+AST-0471,Mobile Device_471,Marketing,Mobile Device,Marketing Admin,Dublin,Medium,No,On-Prem,12
+AST-0472,Network Switch_472,Legal,Network Switch,Legal Admin,New York,High,No,On-Prem,23
+AST-0473,Workstation_473,HR,Workstation,HR Admin,Tokyo,High,No,On-Prem,77
+AST-0474,Database_474,Operations,Database,Operations Admin,Singapore,Low,No,On-Prem,20
+AST-0475,Mobile Device_475,R&D,Mobile Device,R&D Admin,Tokyo,High,No,On-Prem,38
+AST-0476,IoT Device_476,IT,IoT Device,IT Admin,Singapore,Critical,No,On-Prem,72
+AST-0477,Cloud Instance_477,Legal,Cloud Instance,Legal Admin,On-Prem,Low,Yes,Cloud,17
+AST-0478,Server_478,HR,Server,HR Admin,Dublin,Low,No,On-Prem,65
+AST-0479,Mobile Device_479,IT,Mobile Device,IT Admin,London,Critical,No,On-Prem,77
+AST-0480,Database_480,R&D,Database,R&D Admin,Dublin,Critical,No,On-Prem,19
+AST-0481,Workstation_481,Finance,Workstation,Finance Admin,London,High,No,On-Prem,70
+AST-0482,Network Switch_482,HR,Network Switch,HR Admin,Tokyo,Low,No,On-Prem,19
+AST-0483,Mobile Device_483,HR,Mobile Device,HR Admin,On-Prem,High,No,On-Prem,59
+AST-0484,Cloud Instance_484,Operations,Cloud Instance,Operations Admin,New York,High,No,Cloud,20
+AST-0485,Cloud Instance_485,IT,Cloud Instance,IT Admin,Tokyo,Critical,Yes,Cloud,96
+AST-0486,Network Switch_486,Legal,Network Switch,Legal Admin,On-Prem,Medium,No,On-Prem,13
+AST-0487,Network Switch_487,Marketing,Network Switch,Marketing Admin,London,Low,No,On-Prem,72
+AST-0488,Mobile Device_488,Operations,Mobile Device,Operations Admin,London,Low,No,On-Prem,65
+AST-0489,Server_489,Legal,Server,Legal Admin,New York,Medium,Yes,On-Prem,41
+AST-0490,Workstation_490,Marketing,Workstation,Marketing Admin,On-Prem,Low,No,On-Prem,29
+AST-0491,Database_491,Legal,Database,Legal Admin,New York,Medium,Yes,On-Prem,23
+AST-0492,Cloud Instance_492,Marketing,Cloud Instance,Marketing Admin,London,Medium,Yes,Cloud,44
+AST-0493,Workstation_493,IT,Workstation,IT Admin,Dublin,High,No,On-Prem,84
+AST-0494,Server_494,Legal,Server,Legal Admin,Dublin,Critical,No,On-Prem,21
+AST-0495,Mobile Device_495,IT,Mobile Device,IT Admin,Singapore,High,No,On-Prem,97
+AST-0496,Database_496,Finance,Database,Finance Admin,On-Prem,High,Yes,On-Prem,82
+AST-0497,Mobile Device_497,Sales,Mobile Device,Sales Admin,London,High,No,On-Prem,58
+AST-0498,Database_498,HR,Database,HR Admin,London,Medium,No,On-Prem,44
+AST-0499,Workstation_499,IT,Workstation,IT Admin,Singapore,High,No,On-Prem,78
+AST-0500,Cloud Instance_500,Marketing,Cloud Instance,Marketing Admin,London,Critical,No,Cloud,56
