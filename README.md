@@ -41,13 +41,26 @@ This project presents an end-to-end **Cyber Risk Analytics** solution built usin
 ## 🖼️ Dashboard Preview
 Here are some previews of the interactive Power BI dashboard:
 
-![Dashboard Overview](screenshots/Screenshot%202026-04-16%20040848.png)
-![Risk Analysis](screenshots/Screenshot%202026-04-16%20040935.png)
-![Vulnerability Distribution](screenshots/Screenshot%202026-04-16%20040949.png)
-![Incident Tracking](screenshots/Screenshot%202026-04-16%20040957.png)
-![Remediation Performance](screenshots/Screenshot%202026-04-16%20041006.png)
-![Top Risky Assets](screenshots/Screenshot%202026-04-16%20041014.png)
-![Departmental Risk](screenshots/Screenshot%202026-04-16%20041022.png)
+![Main Dashboard](screenshots/main%20dashboard.png)
+* **Executive Summary Dashboard**: A comprehensive high-level overview of the organization's real-time risk posture, highlighting total assets and critical alerts.*
+
+![Security KPIs](screenshots/kpi.png)
+* **Security KPIs & Metrics**: Tracking essential risk indicators, including Average Asset Risk Score, Total Open Critical Vulnerabilities, and remediation performance.*
+
+![Discovery Trends](screenshots/line%20chart.png)
+* **Vulnerability Discovery Trends**: A temporal view of how many vulnerabilities are being discovered month-over-month, helping identify spikes in security events.*
+
+![Risk Distribution](screenshots/donut%20chart.png)
+* **Risk Level Distribution**: Visual representation of assets categorized into risk bands (Critical, High, Medium, Low) to prioritize security focus.*
+
+![Departmental Risk](screenshots/clustered%20bar%20chart.png)
+* **Risk by Department**: A comparative analysis of cumulative risk scores across different business units like IT, Finance, and Operations.*
+
+![Detailed Risk Table](screenshots/table.png)
+* **Asset Risk Details Table**: A granular, sorted view of assets, their individual risk scores, and the primary driver behind their risk level.*
+
+![Actionable Insights](screenshots/key%20insight%20for%20the%20user.png)
+* **Key Risk Insights**: Advanced analytics detailing top risk drivers and offering actionable recommendations for the remediation team.*
 
 ---
 
