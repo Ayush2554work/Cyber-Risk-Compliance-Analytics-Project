@@ -88,13 +88,6 @@ Developed a complete, production-quality analytics pipeline that transforms raw 
 
 ---
 
-## 🎯 Resume Bullets
-- *Developed an end-to-end Cyber Risk Analytics pipeline using Python and MySQL to quantify enterprise risk across 500+ assets.*
-- *Engineered a custom risk-scoring algorithm incorporating CVSS v3.1 scores, business criticality, and incident impact.*
-- *Designed a 4-page Power BI executive dashboard providing visibility into compliance posture and security SLAs.*
-
----
-
 ## 👤 Author
 **Ayush Kumar**
 📧 [ayushkumarwork2554@gmail.com](mailto:ayushkumarwork2554@gmail.com)
