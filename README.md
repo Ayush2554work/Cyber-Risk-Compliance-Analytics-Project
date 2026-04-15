@@ -38,6 +38,17 @@ This project presents an end-to-end **Cyber Risk Analytics** solution built usin
 
 ---
 
+## 🗄️ Database & SQL Analysis
+The project uses a structured MySQL database to manage and query complex security relationships.
+
+![SQL Schema](screenshots/sql.png)
+* **Relational Schema Design**: Developed a multi-table schema (Assets, Vulnerabilities, Incidents, Remediation) with strictly enforced referential integrity to manage over 5,000 security records.*
+
+![SQL Queries](screenshots/table%20view.png)
+* **Advanced Analytical Querying**: Implemented complex SQL joins and aggregations to calculate risk postures, track remediation SLAs, and identify top-risk business units.*
+
+---
+
 ## 🖼️ Dashboard Preview
 Here are some previews of the interactive Power BI dashboard:
 
